@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Das tägliche Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Instrument+Sans:wght@400;600&display=swap">
+<style>
+:root{--bg:#efe5d2;--paper:#f8f1e3;--ink:#2e2218;--mute:#7a6652;--rule:#d8c7a8;--olive:#59602f;--olive-ink:#f8f1e3;--clay:#a9492a;--sand:#e4d3b3;
+--head:'Fraunces',Georgia,serif;--body:'Source Serif 4',Georgia,serif;--ui:'Instrument Sans',system-ui,sans-serif;--gap:48px;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#2d231a;--paper:#3a2d21;--ink:#efe4d0;--mute:#b9a38a;--rule:#56452f;--olive:#b3ba72;--olive-ink:#2a2018;--clay:#e69468;--sand:#4b3b2b}}
+:root[data-theme="dark"]{--bg:#2d231a;--paper:#3a2d21;--ink:#efe4d0;--mute:#b9a38a;--rule:#56452f;--olive:#b3ba72;--olive-ink:#2a2018;--clay:#e69468;--sand:#4b3b2b}
+*{box-sizing:border-box}html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--ink);font:17px/1.62 var(--body);display:flex;flex-direction:column;overflow:hidden;height:100dvh}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--bg);z-index:30}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--clay);outline-offset:2px}
+.mast{padding:14px 20px 8px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px;border-bottom:3px double var(--ink)}
+.mast h1{font:700 clamp(26px,5vw,42px)/1 var(--head);margin:0;letter-spacing:-.01em}
+.mast small{display:block;font:400 13px var(--ui);color:var(--mute);margin-top:6px}
+.tools{display:flex;gap:8px;position:relative}
+.ib{font:600 13px var(--ui);padding:8px 12px;border:1px solid var(--rule);border-radius:999px;background:var(--paper)}
+.ib:hover{border-color:var(--olive)}
+.cal{position:absolute;right:0;top:44px;z-index:20;background:var(--paper);border:1px solid var(--ink);padding:12px;width:268px;box-shadow:6px 6px 0 var(--sand)}
+.cal h4{margin:0 0 8px;font:600 15px var(--head);display:flex;justify-content:space-between}
+.cal .g{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center;font:13px var(--ui)}
+.cal .g span{color:var(--mute);padding:3px 0}
+.cal .d{aspect-ratio:1;border-radius:50%;color:var(--mute);opacity:.45}
+.cal .d.has{opacity:1;color:var(--ink);font-weight:600;background:var(--sand)}
+.cal .d.sel{background:var(--olive);color:var(--olive-ink)}
+.cal p{margin:8px 0 0;font:12px var(--ui);color:var(--mute)}
+nav{display:flex;gap:4px;overflow-x:auto;padding:8px 20px;border-bottom:1px solid var(--rule);scrollbar-width:none}
+nav::-webkit-scrollbar{display:none}
+nav button{font:600 14px var(--ui);padding:7px 14px;border-radius:999px;white-space:nowrap;color:var(--mute)}
+nav button:hover{color:var(--ink)}
+nav button[aria-current=true]{background:var(--olive);color:var(--olive-ink)}
+.wrap{flex:1;min-height:0;padding:18px 20px 0}
+#pages{height:100%;position:relative;overflow-x:auto;overflow-y:hidden;columns:1;column-gap:var(--gap);column-fill:auto;scrollbar-width:none}
+#pages::-webkit-scrollbar{display:none}
+@media(min-width:860px){#pages{columns:2;--gap:64px}.wrap{width:100%;max-width:1120px;margin:0 auto}body{font-size:18px}}
+@media(max-width:600px){.mast{padding:10px 14px 6px;align-items:center}.mast h1{font-size:24px}.mast small{font-size:12px;margin-top:4px}.wrap{padding:12px 16px 0}nav{padding:6px 14px}.topic{font-size:26px}body{font-size:16.5px}.hd h3{font-size:19.5px}.ib{padding:7px 10px}}
+.topic{font:700 30px/1.1 var(--head);margin:6px 0 14px;padding-top:6px;border-top:4px solid var(--olive);break-after:avoid}
+.brief{background:var(--paper);border:1px solid var(--rule);border-left:5px solid var(--clay);padding:14px 18px;margin-bottom:22px;break-inside:avoid}
+.brief h2{font:700 22px var(--head);margin:0 0 8px}
+.brief ol{margin:0;padding-left:20px}.brief li{margin:5px 0;font-size:15.5px;line-height:1.5}
+.brief a{color:inherit;text-decoration-color:var(--clay);text-underline-offset:3px;cursor:pointer}
+.note{font:13px/1.5 var(--ui);color:var(--mute);margin:0 0 18px;break-inside:avoid}
+.a{margin-bottom:18px;padding-bottom:16px;border-bottom:1px solid var(--rule)}.sub{break-inside:avoid;break-after:avoid}.hd{break-inside:avoid}.body p{orphans:3;widows:3}.more{break-before:avoid}
+.sub{font:600 12.5px var(--ui);color:var(--clay);margin-bottom:3px}
+.hd{display:flex;gap:10px;justify-content:space-between;align-items:flex-start;text-align:left;width:100%;padding:0}
+.hd h3{font:700 21px/1.25 var(--head);margin:0}
+.hd:hover h3{color:var(--olive)}
+.chev{flex:none;width:26px;height:26px;border:1px solid var(--rule);border-radius:50%;display:grid;place-items:center;font:16px var(--ui);color:var(--mute);transition:transform .2s}
+.hd[aria-expanded=true] .chev{transform:rotate(45deg);background:var(--olive);color:var(--olive-ink);border-color:var(--olive)}
+.body p{margin:10px 0 0}
+.meta{font:13px var(--ui);color:var(--mute)}
+.unc{font:600 11.5px var(--ui);color:var(--clay);border:1px solid var(--clay);border-radius:4px;padding:1px 6px;margin-left:6px}
+.more{margin-top:10px;padding:0;font:600 13.5px var(--ui);color:var(--olive);text-decoration:underline;text-underline-offset:3px}
+.long{border-left:3px solid var(--sand);padding-left:14px;margin-top:6px}
+.sol{margin-top:10px;font:600 13.5px var(--ui);padding:7px 14px;border:1px solid var(--olive);border-radius:999px;color:var(--olive)}
+.foot{display:flex;align-items:center;justify-content:space-between;padding:10px 20px;border-top:1px solid var(--rule);font:13px var(--ui);color:var(--mute)}
+.foot button{font:600 14px var(--ui);padding:8px 16px;border:1px solid var(--ink);border-radius:999px}
+.foot button:disabled{opacity:.3;cursor:default}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.cal h4 button{font:600 18px var(--ui);padding:0 8px;color:var(--mute)}.cal h4 button:hover{color:var(--ink)}
+.cal i{display:block}
+.msg{font:15px/1.5 var(--ui);color:var(--mute);margin:8px 0 18px;break-inside:avoid}
+.meta a{color:inherit;text-underline-offset:3px}
+</style>
+</head>
+<body>
+<header class="mast">
+  <div><h1>Das tägliche Briefing</h1><small id="stamp"></small></div>
+  <div class="tools">
+    <button class="ib" id="dbtn" aria-haspopup="true" aria-expanded="false"></button>
+    <button class="ib" id="tbtn" aria-label="Dunkelmodus umschalten">Hell/Dunkel</button>
+    <div class="cal" id="cal" hidden></div>
+  </div>
+</header>
+<nav id="tabs" aria-label="Themen"></nav>
+<div class="wrap"><main id="pages" tabindex="0" aria-label="Briefing"></main></div>
+<footer class="foot"><button id="prev">Zurück</button><span id="pg"></span><button id="next">Weiter</button></footer>
+
+<script>
+// Datenquelle: briefings/index.json (Liste der Tage), briefings/JJJJ-MM-TT/meta.json (Themenliste, Zeiten)
+// und briefings/JJJJ-MM-TT/<thema>.json (Meldungen). Pfade sind relativ zur Reader-Datei.
+const BASE='briefings/';
+const $=s=>document.querySelector(s), P=$('#pages');
+const fmt=new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const paras=s=>String(s==null?'':s).replace(/\\n/g,'\n').split(/\n{2,}/).filter(p=>p.trim()).map(p=>`<p>${esc(p.trim())}</p>`).join('');
+const getJSON=async p=>{const r=await fetch(BASE+p,{cache:'no-cache'});if(!r.ok)throw new Error(r.status);return r.json()};
+const pad=n=>String(n).padStart(2,'0');
+const SKIP_BRIEF=['knobel','wissen','vermischtes'];
+let DAY=null,DATES=[],selDate='',vy=new Date().getFullYear(),vm=new Date().getMonth();
+
+const gapPx=()=>parseFloat(getComputedStyle(P).columnGap)||0;
+const stride=()=>P.clientWidth+gapPx();
+const total=()=>Math.max(1,Math.round((P.scrollWidth+gapPx())/stride()));
+const cur=()=>Math.round(P.scrollLeft/stride());
+const goPage=i=>P.scrollTo({left:Math.max(0,Math.min(i,total()-1))*stride(),behavior:'smooth'});
+const pageOf=el=>Math.floor((el.offsetLeft+4)/stride());
+
+let forced=null,wheelT=0;
+function sync(){
+  const c=cur(),n=total();
+  $('#pg').textContent=`Seite ${c+1} von ${n}`;
+  $('#prev').disabled=c<=0;$('#next').disabled=c>=n-1;
+  if(forced&&forced.page!==c){}
+  const tp=DAY?DAY.topics:[];let act=tp[0]&&tp[0].id;
+  for(const t of tp){const el=$('#t-'+t.id);if(el&&pageOf(el)<=c)act=t.id}
+  if(forced)act=forced.id;
+  document.querySelectorAll('#tabs button').forEach(b=>{const on=b.dataset.go===act;b.setAttribute('aria-current',on);if(on)b.scrollIntoView({inline:'nearest',block:'nearest'})});
+}
+let snapT;
+P.addEventListener('scroll',()=>{sync();clearTimeout(snapT);snapT=setTimeout(()=>{const target=cur()*stride();if(Math.abs(P.scrollLeft-target)>2)P.scrollTo({left:target,behavior:'smooth'})},120)},{passive:true});
+addEventListener('resize',()=>{goPage(cur());sync()});
+
+document.addEventListener('click',e=>{
+  const g=e.target.closest('[data-go]');
+  if(g){const pgi=pageOf($('#t-'+g.dataset.go));forced={id:g.dataset.go,page:pgi};goPage(pgi);setTimeout(sync,50);return}
+  const hd=e.target.closest('.hd');
+  if(hd){const o=hd.getAttribute('aria-expanded')!=='true';hd.setAttribute('aria-expanded',o);hd.nextElementSibling.hidden=!o;sync();return}
+  const m=e.target.closest('.more');
+  if(m){const o=m.getAttribute('aria-expanded')!=='true';m.setAttribute('aria-expanded',o);m.textContent=o?'Weniger':'Mehr lesen';m.nextElementSibling.hidden=!o;sync();return}
+  const s=e.target.closest('.sol');
+  if(s){const o=s.getAttribute('aria-expanded')!=='true';s.setAttribute('aria-expanded',o);s.textContent=o?'Lösung verbergen':'Lösung zeigen';s.nextElementSibling.hidden=!o;return}
+  if(!e.target.closest('.cal')&&e.target.id!=='dbtn'){$('#cal').hidden=true;$('#dbtn').setAttribute('aria-expanded','false')}
+});
+$('#prev').onclick=()=>{forced=null;goPage(cur()-1)};$('#next').onclick=()=>{forced=null;goPage(cur()+1)};
+P.addEventListener('touchstart',()=>{forced=null},{passive:true});
+P.addEventListener('wheel',e=>{if(Math.abs(e.deltaY)<Math.abs(e.deltaX))return;e.preventDefault();forced=null;const n=Date.now();if(n-wheelT<450)return;wheelT=n;if(Math.abs(e.deltaY)>4)goPage(cur()+(e.deltaY>0?1:-1))},{passive:false});
+addEventListener('keydown',e=>{if(e.key==='Escape'){$('#cal').hidden=true;$('#dbtn').setAttribute('aria-expanded','false')}if(e.target.closest('button'))return;forced=null;if(e.key==='ArrowRight')goPage(cur()+1);if(e.key==='ArrowLeft')goPage(cur()-1)});
+
+function build(msg){
+  $('#stamp').textContent=selDate?fmt.format(new Date(selDate+'T12:00:00'))+(DAY?', erstellt um '+DAY.created+' Uhr':''):'';
+  if(!DAY){P.innerHTML=`<p class="msg">${esc(msg||'Für diesen Tag gibt es kein Briefing.')}</p>`;$('#tabs').innerHTML='';return}
+  const brief=DAY.topics.filter(t=>!SKIP_BRIEF.includes(t.id)&&t.items.length).map(t=>`<li><a data-go="${esc(t.id)}">${esc(t.items[0].h)}</a></li>`).join('');
+  let h=brief?`<section class="brief"><h2>Das Wichtigste in 60 Sekunden</h2><ol>${brief}</ol></section>`:'';
+  for(const t of DAY.topics){
+    h+=`<h2 class="topic" id="t-${esc(t.id)}">${esc(t.name)}</h2>`;
+    if(t.err)h+='<p class="msg">Dieses Thema konnte nicht geladen werden.</p>';
+    else if(!t.items.length)h+='<p class="msg">Heute keine Meldungen.</p>';
+    t.items.forEach(i=>{
+      h+=`<article class="a"><div class="sub">${esc(i.sub)}</div><button class="hd" aria-expanded="false"><h3>${esc(i.h)}</h3><span class="chev" aria-hidden="true">+</span></button><div class="body" hidden>${paras(i.s)}`;
+      if(i.sol)h+=`<button class="sol" aria-expanded="false">Lösung zeigen</button><p class="solt" hidden><strong>${esc(i.sol)}</strong></p>`;
+      if(i.l)h+=`<button class="more" aria-expanded="false">Mehr lesen</button><div class="long" hidden>${paras(i.l)}</div>`;
+      if(i.src){const s=/^https?:\/\//.test(i.url||'')?`<a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.src)}</a>`:esc(i.src);
+        h+=`<p class="meta">${s}${i.t?', '+esc(i.t)+' Uhr':''}${i.unc?'<span class="unc">unbestätigt</span>':''}</p>`}
+      h+=`</div></article>`;
+    });
+  }
+  h+=`<p class="note">Erstellt um ${esc(DAY.created)} Uhr. Zeitraum: ${esc(DAY.window)}.</p>`;
+  P.innerHTML=h;
+  $('#tabs').innerHTML=DAY.topics.map(t=>`<button data-go="${esc(t.id)}">${esc(t.name)}</button>`).join('');
+}
+
+async function load(date){
+  selDate=date;forced=null;
+  P.innerHTML='<p class="msg">Lade Briefing …</p>';$('#tabs').innerHTML='';
+  let day=null;
+  try{
+    const meta=await getJSON(date+'/meta.json');
+    const topics=await Promise.all(meta.topics.map(async t=>{
+      try{const d=await getJSON(date+'/'+t.id+'.json');return{id:t.id,name:t.name,items:Array.isArray(d.items)?d.items:[]}}
+      catch(e){return{id:t.id,name:t.name,items:[],err:1}}}));
+    day={date,created:meta.created,window:meta.window,topics};
+  }catch(e){}
+  if(selDate!==date)return;
+  DAY=day;build();P.scrollLeft=0;
+  (document.fonts&&document.fonts.ready?document.fonts.ready:Promise.resolve()).then(sync);sync();
+}
+
+function pick(date){
+  vy=+date.slice(0,4);vm=+date.slice(5,7)-1;
+  try{history.replaceState(null,'','#'+date)}catch(e){}
+  load(date);
+}
+
+function drawCal(){
+  const first=(new Date(vy,vm,1).getDay()+6)%7,days=new Date(vy,vm+1,0).getDate();
+  const name=new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(vy,vm,1));
+  let h=`<h4><button data-m="-1" aria-label="Vorheriger Monat">‹</button><span>${name}</span><button data-m="1" aria-label="Nächster Monat">›</button></h4><div class="g">`+['Mo','Di','Mi','Do','Fr','Sa','So'].map(d=>`<span>${d}</span>`).join('')+'<i></i>'.repeat(first);
+  for(let d=1;d<=days;d++){const iso=`${vy}-${pad(vm+1)}-${pad(d)}`,has=DATES.includes(iso);
+    h+=`<button class="d${has?' has':''}${iso===selDate?' sel':''}" data-date="${iso}" ${has?'':'disabled'}>${d}</button>`}
+  $('#cal').innerHTML=h+'</div><p>Markierte Tage haben ein Briefing.</p>';
+}
+$('#dbtn').textContent='Datum';
+$('#dbtn').onclick=()=>{const c=$('#cal');c.hidden=!c.hidden;$('#dbtn').setAttribute('aria-expanded',!c.hidden);if(!c.hidden)drawCal()};
+$('#cal').addEventListener('click',e=>{
+  e.stopPropagation(); // sonst sieht der globale Klick-Handler ein bereits neu gezeichnetes (abgelöstes) Element und schließt den Kalender
+  const m=e.target.closest('[data-m]');
+  if(m){vm+=+m.dataset.m;if(vm<0){vm=11;vy--}if(vm>11){vm=0;vy++}drawCal();return}
+  const b=e.target.closest('[data-date]');
+  if(!b||b.disabled)return;
+  $('#cal').hidden=true;$('#dbtn').setAttribute('aria-expanded','false');pick(b.dataset.date);
+});
+
+$('#tbtn').onclick=()=>{const r=document.documentElement;const dark=r.dataset.theme?r.dataset.theme==='dark':matchMedia('(prefers-color-scheme:dark)').matches;const v=dark?'light':'dark';r.dataset.theme=v;store.set('theme',v)};
+const saved=store.get('theme');if(saved)document.documentElement.dataset.theme=saved;
+
+(async()=>{
+  try{const ix=await getJSON('index.json');DATES=(ix.dates||[]).slice().sort()}catch(e){}
+  const hash=location.hash.slice(1);
+  const start=/^\d{4}-\d{2}-\d{2}$/.test(hash)?hash:DATES[DATES.length-1];
+  if(start)pick(start);else build('Noch kein Briefing vorhanden.');
+})();
+</script>
+</body>
+</html>
