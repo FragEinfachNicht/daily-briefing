@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "sub": "Astronomie",
+      "h": "Ein Tag auf der Venus ist länger als ein Venusjahr",
+      "s": "Die Venus rotiert so langsam um die eigene Achse, dass ein Venus-Tag mit rund 243 Erdtagen länger ist als ein Venusjahr mit rund 225 Erdtagen. Zusätzlich dreht sich der Planet entgegengesetzt zu den meisten anderen Planeten, dort geht die Sonne im Westen auf."
+    },
+    {
+      "sub": "Natur",
+      "h": "Ameisen tragen ein Vielfaches des eigenen Gewichts",
+      "s": "Blattschneiderameisen und verwandte Arten können Lasten von bis zu rund 50-fach ihres eigenen Körpergewichts tragen. Möglich wird das durch ihr winziges Gewicht und den Aufbau ihres Außenskeletts: Bei kleineren Tieren fällt die Muskelkraft im Verhältnis zum Körpergewicht deutlich höher aus als bei großen."
+    },
+    {
+      "sub": "Körper",
+      "h": "Erwachsene haben weniger Knochen als Babys",
+      "s": "Ein Neugeborenes hat rund 300 Knochen, ein Erwachsener im Schnitt 206. Viele Knochen wachsen im Kindesalter zusammen, vor allem in Schädel und Wirbelsäule. So werden aus vielen kleinen Knochen des Babys weniger, dafür stabilere Knochen des Erwachsenen."
+    },
+    {
+      "sub": "Technik",
+      "h": "Die erste Website ging 1991 online",
+      "s": "Die erste Website der Welt stellte Tim Berners-Lee am 6. August 1991 am Cern in Genf online. Sie erklärte, was das World Wide Web ist, und war unter der Adresse info.cern.ch erreichbar. Die ursprüngliche Seite ist heute rekonstruiert und kann weiter besucht werden."
+    }
+  ]
+}

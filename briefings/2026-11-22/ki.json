@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "sub": "Regulierung und Gesellschaft",
+      "h": "UN-Konferenz zu Killer-Robotern endet ohne konkrete Regeln",
+      "s": "Die internationale Überprüfungskonferenz der UN-Konvention über bestimmte konventionelle Waffen ist in Genf ohne konkrete Absprachen zu autonom handelnden Waffen zu Ende gegangen. Die Teilnehmerstaaten einigten sich lediglich darauf, in den nächsten zwei Jahren Regeln auszuarbeiten. UN-Generalsekretär António Guterres hatte zuvor verbindliche Regeln gefordert.",
+      "l": "In den künftigen Gesprächen soll geklärt werden, welche Waffen gemäß dem humanitären Völkerrecht verboten werden können und welche nicht verboten sind, aber reguliert werden. Laut dem Internationalen Komitee vom Roten Kreuz sind autonome Waffensysteme bereits eingesetzt oder getestet worden, insbesondere seit der großangelegten russischen Invasion in der Ukraine 2022.\\n\\nMenschenrechtsorganisationen wie Human Rights Watch zeigten sich enttäuscht und kritisierten, das Ergebnis biete nicht die dringend nötige Regulierung, die die Technologie erfordere. Vertreter einiger Staaten verwiesen dagegen auf die schwierige Frage, wie Kontrollen technisch überprüfbar sein können. In zwei Jahren soll ein Instrument vorliegen, in dem über Verbote und Formen entschieden wird.",
+      "src": "AFP",
+      "t": "08:21"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "Forscher zeigen, wie eine manipulierte Webseite private KI-Chats abfängt",
+      "s": "Sicherheitsforscher haben laut einem Bericht von The Hacker News gezeigt, dass eine einzige schädliche Webseite genügen kann, um auf die private Konversationshistorie von Nutzern des KI-Tools Meta Muse zuzugreifen. Der Angriff nutzt Fehler bei der Trennung von Webinhalten und KI-Anwendung. Für Nutzer empfiehlt es sich, Browser und Tools aktuell zu halten.",
+      "l": "Solche Angriffe nutzen Seitenkanäle: Gelangt scheinbar harmloser Web-Inhalt in das Kontextfenster einer KI-Anwendung, kann er dort Befehle auslösen, die etwa gespeicherte Konversationen an einen fremden Server senden. Das Forscherteam demonstrierte den Zugriff auf private Chats in einem Testaufbau.\\n\\nDer Fall zeigt ein wachsendes Problem der Branche: KI-Features in Webanwendungen verschärfen klassische Web-Sicherheitsrisiken, weil sensible Daten ständig im Kontext der Anwendung verarbeitet werden. Anbieter reagieren bislang meist mit Einschränkungen der Webinhalte, eine universelle Lösung gibt es nicht.",
+      "src": "The Hacker News",
+      "url": "https://www.epifive.com/news/live/2026-11-21",
+      "t": "12:53"
+    }
+  ]
+}

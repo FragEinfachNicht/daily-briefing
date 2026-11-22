@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "sub": "Forschung und Entdeckungen",
+      "h": "Bestätigt: KI-unterstützter Beweis der Riemannschen Vermutung gilt als korrekt",
+      "s": "Der Beweis der Riemannschen Vermutung, den der Anthropic-Mathematiker Levent Alpöge mit Hilfe des KI-Modells Claude erarbeitet hatte, ist unabhängig bestätigt worden. Die Lean- und Mathlib-Communityen bescheinigten am Samstag, Aussage und Beweis seien korrekt. Auch Forscher am MIT kompilierten den Beweis fehlerfrei.",
+      "l": "Die Riemannsche Vermutung gilt als eines der wichtigsten ungelösten Probleme der Mathematik. Der deutsche Mathematiker Bernhard Riemann stellte sie 1859 auf; dahinter steht die Frage nach einem verborgenen Muster in der Verteilung der Primzahlen. Alpöge hatte den Beweis am Freitag vorgestellt und zuvor selbst in der mathematischen Programmiersprache Lean niedergeschrieben. Kompiliert ein solcher Beweis fehlerfrei, gilt die Logik jedes Schritts in der Regel als geprüft.\\n\\nOffen blieb zunächst, ob der Beweis wirklich die klassische Vermutung abdeckt und nicht eine Abschwächung davon. Genau das haben unabhängige Prüfer, darunter Andrew Sutherland vom Massachusetts Institute of Technology, nun ausgeräumt. Forscher sprechen von einem historisch bedeutsamen Moment für Mathematik und KI-Forschung.",
+      "src": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+    },
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "BepiColombo schwenkt nach acht Jahren in den Merkur-Orbit ein",
+      "s": "Die Sonde BepiColombo der europäischen Raumfahrtagentur ESA und der japanischen Agentur JAXA ist am Samstag in den Orbit um den Merkur eingeschwenkt. Nach dem Start am 20. Oktober 2018 legte sie rund zehn Milliarden Kilometer zurück. Zuletzt war mit der NASA-Mission Messenger nur ein einziges Raumfahrzeug um den innersten Planeten des Sonnensystems gekreist.",
+      "l": "BepiColombo musste auf der Reise mehrfach abbremsen, weil die Anziehung der Sonne die Sonde beschleunigt; Vorbeiflüge an der Erde, der Venus und dem Merkur selbst halfen dabei. In den Monaten ab Dezember werden die zwei wissenschaftlichen Orbiter stufenweise in ihrer endgültigen Position ausgesetzt.\\n\\nMit den Messungen erhoffen sich die Forscher unter anderem Antworten darauf, warum der vergleichsweise kleine Merkur trotz der Hitze ein Magnetfeld hat und wie er entstanden ist. Ausgewertete Daten sollen ab dem Frühjahr einfließen; der reguläre Wissenschaftsbetrieb soll im April 2027 beginnen. Projektwissenschaftler Geraint Jones sprach davon, dass man die neuen Daten kaum abwarten könne.",
+      "src": "EarthSky",
+      "url": "https://earthsky.org/space/bepicolombo-mission-mercury/"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "Virginia meldet ersten Masern-Todesfall eines Kindes in diesem Jahr",
+      "s": "In Virginia ist ein kleines Kind an Masern gestorben, wie die Gesundheitsbehörde des US-Bundesstaates am Samstag mitteilte. Es ist nach Angaben der Behörde der erste Masern-Todesfall eines Kindes in Virginia seit Beginn dieses Jahres. Die Masern gelten als hochansteckend, sind durch Impfung aber gut vermeidbar.",
+      "l": "Gesundheitsexperten sehen den Fall als Mahnung, dass ausgerottet geglaubte Krankheiten bei sinkenden Impfquoten in den USA wieder auftreten. In mehreren Bundesstaaten gab es in diesem Jahr bereits Masern-Ausbrüche. Die Behörden rieten Eltern, den Impfstatus ihrer Kinder zu prüfen.\\n\\nWelche Umstände im Fall des Kindes exactly dazu geführt haben, war zunächst unklar; die Angaben der Behörde gelten als vorläufig.",
+      "src": "AP",
+      "t": "23:06",
+      "unc": true
+    }
+  ]
+}

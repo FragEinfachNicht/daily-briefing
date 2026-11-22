@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Medien: Hacker dringen in Systeme von FBI und US-Landwirtschaftsministerium ein",
+      "s": "Nach einer Serie technischer Ausfälle wichtiger US-Institutionen ist es Hackerangriffen laut US-Medienberichten gelungen, in Computersysteme der Bundespolizei FBI und des US-Landwirtschaftsministeriums einzudringen. Ob die Vorfälle zusammenhängen und wer dahintersteckt, war zunächst unklar. Offizielle betonten, es gebe bislang keine Hinweise auf kriminelle Nutzung.",
+      "l": "Konkret untersucht wird laut CNN unter anderem ein Eindringen in das National Crime Information Center, ein bundesweites Informationssystem, auf das sich Ermittler im ganzen Land verlassen, um gesuchte Flüchtige zu identifizieren, nach offenen Haftbefehlen zu suchen und auf Informationen zuzugreifen. Die Bundesregierung unter Präsident Donald Trump gerät damit in Erklärungsnot: In den vergangenen Wochen hatten schon die Flugsicherung, Bezahldienste und Microsoft-Anwendungen wie Outlook wiederholt Ausfälle gemeldet.\\n\\nDie oppositionellen Demokraten werfen der Regierung Inkompetenz und mangelnde Transparenz vor. Trump versuchte hingegen zu beruhigen und appellierte an die Bevölkerung, sich nicht zu beunruhigen. Die Ermittlungen laufen.",
+      "src": "AFP"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "BADBOX-Botnetz zurück: 40 Milliarden betrügerische Werbeanfragen am Tag",
+      "s": "Die Malware BADBOX ist auf breiter Front zurück. Sie sitzt in zahlreichen generisch verkauften Android-TV-Boxen und erzeugt derzeit nach Recherchen von BleepingComputer rund 40 Milliarden betrügerische Werbeanfragen pro Tag, ein Rekordwert. Verantwortliche IT-Teams sollten betroffene Geräte isolieren.",
+      "l": "BADBOX nutzt Billig-TV-Boxen und andere günstige Android-Geräte als Rechenkraft für Werbebetrug: Die Geräte rufen in großer Zahl Werbeanzeigen auf, ohne dass echte Menschen diese sehen. Nach Störungsaktionen des Vorjahres hatte die Aktivität zunächst nachgelassen, mit dem neuen Rekord ist das Botnetz laut Fachberichten wieder auf dem alten Niveau.\\n\\nBetroffen sind Privatpersonen ebenso wie Firmen, die viele solcher Boxen im Einsatz haben. Experten raten, Geräte aus unbekannten Quellen nicht zu verwenden und Updates zu installieren.",
+      "src": "BleepingComputer",
+      "url": "https://www.epifive.com/news/live/2026-11-21"
+    },
+    {
+      "sub": "Software und Entwicklung",
+      "h": "WhatsApp schließt drei Sicherheitslücken, darunter eine Android-Lücke",
+      "s": "WhatsApp hat drei Sicherheitslücken geschlossen, darunter eine Android-Schwachstelle, die nach Firmenangaben in betrügerischen Szenarien ausgenutzt worden sein könnte. Anwender sollten die App umgehend aktualisieren. Details zu den Lücken veröffentlichte das Unternehmen in seinen regulären Sicherheitshinweisen.",
+      "src": "EpiFive",
+      "url": "https://www.epifive.com/news/live/2026-11-21"
+    }
+  ]
+}

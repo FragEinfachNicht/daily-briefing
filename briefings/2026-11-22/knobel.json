@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "sub": "Rätsel des Tages",
+      "h": "Der Schalter im Dachgeschoss",
+      "s": "Im Erdgeschoss eines Hauses liegen drei Lichtschalter. Genau einer davon schaltet eine einzelne Glühbirne im abgeschlossenen Dachgeschoss, von dort sieht man die Glühbirne erst, wenn man hinaufgeht. Du darfst die Schalter beliebig oft betätigen, aber nur ein einziges Mal ins Dachgeschoss gehen. Wie findest du heraus, welcher Schalter zur Glühbirne gehört?",
+      "sol": "Schalte den ersten Schalter ein und warte etwa zehn Minuten, dann schalte ihn aus und den zweiten Schalter ein. Gehe sofort ins Dachgeschoss. Leuchtet die Birne, ist es der zweite Schalter. Leuchtet sie nicht, ist aber warm, war es der erste Schalter, dessen Wärme die Glühbirne noch speichert. Ist sie kalt, gehört die Birne zum dritten Schalter."
+    }
+  ]
+}
