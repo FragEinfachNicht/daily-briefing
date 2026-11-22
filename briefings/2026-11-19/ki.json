@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "sub": "Neue Modelle und Releases",
+      "h": "VORLAGE: Neues Modell vorgestellt",
+      "s": "Kurztext mit den Eckdaten des Modells.",
+      "l": "Einordnung der Herstellerangaben und ihrer Aussagekraft.",
+      "src": "Beispielquelle K",
+      "url": "https://example.com/artikel-k",
+      "t": "05:05"
+    },
+    {
+      "sub": "Regulierung und Gesellschaft",
+      "h": "VORLAGE: Neue Leitlinien zu KI-Regeln",
+      "s": "Kurztext: was sich ändert und für wen.",
+      "l": "Welche Pflichten für wen gelten und ab wann.",
+      "src": "Beispielquelle L",
+      "url": "https://example.com/artikel-l",
+      "t": "00:40"
+    }
+  ]
+}

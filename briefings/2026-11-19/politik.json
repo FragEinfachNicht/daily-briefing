@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "sub": "Deutschland",
+      "h": "VORLAGE: Schlagzeile einer wichtigen Meldung",
+      "s": "Kurztext mit den wichtigen Infos: wer, was, wann und warum es wichtig ist. Zwei bis vier Sätze, sachlich formuliert.",
+      "l": "Erster Absatz des Hintergrunds: Vorgeschichte und Einordnung.\n\nZweiter Absatz: Positionen der Beteiligten, jeweils den Akteuren zugeordnet.\n\nDritter Absatz: Wie es weitergeht.",
+      "src": "Beispielquelle A",
+      "url": "https://example.com/artikel-a",
+      "t": "05:40"
+    },
+    {
+      "sub": "Europa",
+      "h": "VORLAGE: Meldung mit Bezug auf gestern",
+      "s": "Nur das Neue seit gestern. Falls nötig, ein kurzer Rückbezug in einem Satz, ohne die ganze Lage zu wiederholen.",
+      "l": "Hintergrund in zwei kurzen Absätzen.\n\nZweiter Absatz.",
+      "src": "Beispielquelle B",
+      "url": "https://example.com/artikel-b",
+      "t": "04:10"
+    },
+    {
+      "sub": "International",
+      "h": "VORLAGE: Unbestätigte Meldung",
+      "s": "Diese Meldung beruht nur auf einer Quelle oder wurde noch nicht offiziell bestätigt, deshalb ist unc auf true gesetzt.",
+      "l": "Hintergrund und der Hinweis, was noch unklar ist.",
+      "src": "Beispielquelle C",
+      "url": "https://example.com/artikel-c",
+      "t": "02:30",
+      "unc": true
+    }
+  ]
+}

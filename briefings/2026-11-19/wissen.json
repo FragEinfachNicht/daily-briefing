@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"sub": "Natur", "h": "VORLAGE: Ein gesicherter Fakt", "s": "Kurze Erklärung des Fakts in ein bis drei Sätzen."},
+    {"sub": "Technik", "h": "VORLAGE: Noch ein Fakt", "s": "Kurze Erklärung."},
+    {"sub": "Geschichte", "h": "VORLAGE: Ein dritter Fakt", "s": "Kurze Erklärung."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "sub": "Open Source",
+      "h": "VORLAGE: Neue Version eines Werkzeugs erschienen",
+      "s": "Kurztext: was neu ist und was beim Update zu beachten ist.",
+      "l": "Die wichtigsten Änderungen im Überblick.",
+      "src": "Beispielquelle I",
+      "url": "https://example.com/artikel-i",
+      "t": "06:00"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "VORLAGE: Sicherheitslücke geschlossen",
+      "s": "Kurztext: wer betroffen war und was Nutzer tun sollten.",
+      "l": "Wie die Lücke gefunden wurde und wie sie geschlossen wurde.",
+      "src": "Beispielquelle J",
+      "url": "https://example.com/artikel-j",
+      "t": "23:15"
+    }
+  ]
+}

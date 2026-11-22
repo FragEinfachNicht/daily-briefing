@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "VORLAGE: Meldung aus Raumfahrt oder Natur",
+      "s": "Kurztext mit den wichtigen Infos.",
+      "l": "Hintergrund, Methode und Einordnung.",
+      "src": "Beispielquelle G",
+      "url": "https://example.com/artikel-g",
+      "t": "02:50"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "VORLAGE: Studie mit Einschränkung",
+      "s": "Kurztext. Bei Studien nennst du die Stichprobe und die Grenzen.",
+      "l": "Hintergrund und Reaktionen anderer Forscher.",
+      "src": "Beispielquelle H",
+      "url": "https://example.com/artikel-h",
+      "t": "01:30",
+      "unc": true
+    }
+  ]
+}

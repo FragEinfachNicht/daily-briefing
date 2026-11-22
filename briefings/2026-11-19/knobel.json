@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "sub": "Rätsel des Tages",
+      "h": "VORLAGE: Titel des Rätsels",
+      "s": "Hier steht der Rätseltext. Er muss eindeutig lösbar sein.",
+      "sol": "Hier steht die Lösung."
+    }
+  ]
+}

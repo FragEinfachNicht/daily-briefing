@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "sub": "Märkte und Konjunktur",
+      "h": "VORLAGE: Wichtigste Wirtschaftsmeldung steht zuerst",
+      "s": "Kurztext mit den wichtigen Infos. Die erste Meldung dieses Themas erscheint in der Übersicht Das Wichtigste in 60 Sekunden.",
+      "l": "Hintergrund und Einordnung.\n\nZweiter Absatz.",
+      "src": "Beispielquelle D",
+      "url": "https://example.com/artikel-d",
+      "t": "22:10"
+    },
+    {
+      "sub": "Aktien allgemein",
+      "h": "VORLAGE: Was die Börsen bewegt hat",
+      "s": "Kurzer Rückblick auf Gewinner und Verlierer und die Gründe dahinter.",
+      "l": "Einordnung nach Branchen, mit Verweis auf wichtige Unternehmenszahlen.",
+      "src": "Beispielquelle E",
+      "url": "https://example.com/artikel-e",
+      "t": "21:30"
+    },
+    {
+      "sub": "Die 5 weltweit größten Aktien",
+      "h": "VORLAGE: Top 5 nach Börsenwert",
+      "s": "Stand: Handelsschluss am (Datum).\n\nPlatz 1: Unternehmen A, Börsenwert X, Veränderung Y Prozent\n\nPlatz 2: Unternehmen B, Börsenwert X, Veränderung Y Prozent\n\nPlatz 3: Unternehmen C, Börsenwert X, Veränderung Y Prozent\n\nPlatz 4: Unternehmen D, Börsenwert X, Veränderung Y Prozent\n\nPlatz 5: Unternehmen E, Börsenwert X, Veränderung Y Prozent",
+      "l": "Verschiebungen im Ranking seit dem Vortag und die wichtigsten Treiber.",
+      "src": "Beispielquelle F",
+      "url": "https://example.com/artikel-f",
+      "t": "22:00"
+    },
+    {
+      "empty": true,
+      "sub": "Anthropic",
+      "h": "Keine Meldungen zu Anthropic",
+      "s": "Im Berichtszeitraum gab es keine Unternehmensmeldungen zu Anthropic."
+    }
+  ]
+}
