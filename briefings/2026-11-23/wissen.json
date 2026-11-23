@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "sub": "Körper",
+      "h": "Das Gehirn wiegt wenig, verbraucht aber ein Fünftel der Energie",
+      "s": "Das menschliche Gehirn macht nur rund zwei Prozent des Körpergewichts aus, verbraucht aber etwa 20 Prozent des Grundumsatzes. Der hohe Verbrauch entsteht vor allem durch die ständige Signalübertragung zwischen den rund 86 Milliarden Nervenzellen."
+    },
+    {
+      "sub": "Astronomie",
+      "h": "Neptun wurde 1846 am Schreibtisch entdeckt, bevor ihn ein Teleskop fand",
+      "s": "Neptun ist der erste Planet, der mit Mathematik gefunden wurde, bevor ihn jemand gezielt beobachtete. Urbain Le Verrier berechnete 1846 aus Störungen der Uranusbahn die Position eines unbekannten Planeten. Johann Gottfried Galle fand ihn am Berliner Observatorium in derselben Nacht in unmittelbarer Nähe der berechneten Stelle."
+    },
+    {
+      "sub": "Natur",
+      "h": "Eine Wanze in China lebt ungestört im Netz ihrer Fressfeindin",
+      "s": "In China haben Forscher eine winzige Wanzenart dokumentiert, die dauerhaft im Netz einer Spinne lebt. Sie frisst dort die Insektenreste von den erbeuteten Tieren der Spinne und wird von ihr nicht attackiert. Den Vorteil der Tarnung erkauft sich die Wanze offenbar mit einem unauffälligen Leben direkt neben der Jägerin."
+    },
+    {
+      "sub": "Alltag",
+      "h": "Abgekühlte Kartoffeln und Reis lassen den Blutzucker langsamer steigen",
+      "s": "Kartoffeln, Reis oder Brot, die nach dem Kochen abgekühlt und wieder erwärmt wurden, lassen den Blutzucker schwächer ansteigen als frisch zubereitete. Der Grund ist die sogenannte resistente Stärke, die beim Abkühlen entsteht und im Dünndarm langsamer verdaut wird. Der Effekt bleibt beim erneuten Erwärmen weitgehend erhalten."
+    }
+  ]
+}

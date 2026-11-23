@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "sub": "Kurioses",
+      "h": "Mann mit Alzheimer nach elf Tagen im brasilianischen Regenwald lebend gefunden",
+      "s": "In Brasilien ist ein 74-jähriger Mann mit Alzheimer-Krankheit nach elf Tagen im Amazonas-Regenwald lebend gefunden worden. Er hatte sich von wilden Früchten ernährt und auf Blättern geschlafen. Retter fanden ihn rund zehn Kilometer von der Stelle entfernt, an der er verschwunden war.",
+      "l": "Der frühere Goldsucher Ferreira dos Santos kannte die Gegend gut. Seine Enkelin hatte über soziale Medien um Unterstützung gebeten, kurz bevor die Suche eigentlich beendet werden sollte. Aufnahmen zeigen den Mann Desorientiert auf einer Trage; er wurde in ein Krankenhaus gebracht.\n\nSuchtrupps berichteten, sie hätten aus Palmenblättern gebaute Schlafplätze und im Kreis laufende Fußspuren gefunden. Der Fall sorgte in Brasilien für Aufmerksamkeit, weil der Rentner in dichtem Dschungel ohne Vorräte überlebte.",
+      "src": "AFP",
+      "t": "00:16"
+    },
+    {
+      "sub": "Sport",
+      "h": "Verstappen gewinnt Formel-1-Rennen in Las Vegas",
+      "s": "Max Verstappen hat den Großen Preis von Las Vegas gewonnen. Das meldete die Süddeutsche Zeitung in ihrem Abendüberblick vom Samstag. Weitere Details liefert der Rennbericht der Zeitung.",
+      "src": "Süddeutsche Zeitung",
+      "t": "18:27",
+      "url": "https://www.sueddeutsche.de/politik/news-cop26-ostsee-soeder-li.3584381"
+    },
+    {
+      "sub": "Gesellschaft",
+      "h": "Prinzessin Kate spricht in TV-Doku über ihre Krebserkrankung",
+      "s": "Rund zwei Jahre nach ihrer überstandenen Krebserkrankung spricht die britische Prinzessin Kate in einer Fernsehdokumentation über die Krankheit und ihre Genesung. Der Film mit dem Titel Heal, zu Deutsch Heilen, wird am 29. November von der BBC ausgestrahlt. Das teilte der Kensington-Palast am Samstag mit.",
+      "src": "AFP"
+    },
+    {
+      "sub": "Kurioses",
+      "h": "Trumps Thanksgiving-Truthähne ziehen ins Luxushotel ein",
+      "s": "Die beiden Truthähne, die Präsident Donald Trump an Thanksgiving begnadigen soll, sind am Sonntag im Luxushotel Willard InterContinental in Washington eingezogen. Das US-Landwirtschaftsministerium feierte sie auf X als sehr besondere Gäste, die Geschichte der Zeremonie reicht bis 1947 zurück.",
+      "src": "Fox News",
+      "t": "04:57",
+      "unc": true
+    }
+  ]
+}

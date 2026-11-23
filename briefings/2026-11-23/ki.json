@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "sub": "Forschung",
+      "h": "OpenAI veröffentlicht erstmals Perplexity-Zahlen und schlägt gemeinsame Sicherheitsgrenzen vor",
+      "s": "OpenAI-Chefwissenschaftler Jakub Pachocki hat erstmals die internen Trainingswerte (Perplexity) der GPT-Modelle veröffentlicht: GPT-3.5 lag bei rund 0,99, aktuelle Modelle unter 0,8. Er schlägt zugleich vor, dass führende KI-Labore gemeinsame Sicherheitsgrenzen vereinbaren.",
+      "l": "Perplexity misst, wie gut ein Sprachmodell den nächsten Textbaustein vorhersagt; niedrigere Werte zeigen stärkere Modelle. Pachocki ordnete ein, dass ab Werten unter 0,8 in den internen Tests nennenswerte Durchbrüche in IT-Sicherheit und Mathematik auftraten; für offene Mathematikaufgaben nannte er rund 0,76.\n\nDer Vorschlag für gemeinsame Sicherheitslinien folgt auf die Debatte nach den Zwischenwahlen in den USA, bei der ein bremsender Umgang mit KI-Datenzentren und Modellen ein Thema war. Konkret soll es nach Pachockis Idee unter anderem gemeinsame Prüfungen geben, bevor Modelle mit Spitzenfähigkeiten freigegeben werden. Konkrete Zusagen anderer Labore gibt es noch nicht.",
+      "src": "AI Weekly",
+      "t": "05:20",
+      "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "sub": "Forschung",
+      "h": "Lean-Community bestätigt Riemann-Beweis von Anthropic-Forscher und Claude",
+      "s": "Die Gemeinschaften hinter dem Beweisassistenten Lean und der Bibliothek Mathlib haben nach tagelanger Prüfung erklärt, sie hätten volle Zuversicht, dass der Beweis der Riemannschen Vermutung von Levent Alpöge mit Claude korrekt ist. Alle 175.187 Module kompilierten, die Kernprüfung wurde bestanden.",
+      "l": "Bislang bestand der Beweis aus rund 17 Millionen Zeilen Lean-Code, die die Mathematik formalisieren. Nach einem Tag automatisierter Prüfung - Übersetzen, Abgleich der Aussagen, Prüfung im Beweiskern - kamen die Freiwilligen der Lean- und Mathlib-Community nun zum Schluss, der Beweis sei korrekt; auch eine Prüfung am Massachusetts Institute of Technology bestätigte das Ergebnis.\n\nDie Riemannsche Vermutung gilt seit 1859 als wichtigste offene Frage der reinen Mathematik. Der Beweis ist der zweite binnen Wochenfrist, den ein KI-Unternehmen für sich beansprucht, nachdem OpenAI im Herbst einen Beweis zu Flüssigkeitsgleichungen gemeldet hatte. Alpöge hatte zuvor betont, dass die Lösung im Wechselspiel zwischen Mensch und Modell entstanden sei und nicht als Ergebnis einer alleinstehenden Maschine verstanden werden sollte.",
+      "src": "AI Weekly",
+      "t": "05:20",
+      "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Together AI nach Datenleck: Unbefugte lasen Kundensprachproben aus",
+      "s": "Der KI-Anbieter Together AI hat eingeräumt, dass ein KI-Coding-Agent ein Zugangsdatum für ein privates Hugging-Face-Repository öffentlich pushte. Unbefugte luden daraufhin Muster von Kundenanfragen an die Modelle MiniMax M3, GLM-5.2 und Kimi K2.6 herunter. Auch andere Anbieter waren betroffen.",
+      "l": "Die Offenlegung vom 21. November folgte einer Sicherheitsstudie des Unternehmens Dragos, das über Monate rund zwei Millionen markierte Testanfragen über KI-Dienste schickte. Dabei zeigte sich, dass mehrere Hosting-Anbieter Anfragen mitlasen oder Hinweise auf Null-Daten-Retention ignoreierten.\n\nAls Folge hat der Aggregator Openrouter drei Anbieter - Novita, Phala und Together - aus seinem Programm ausgeschlossen und 125 Endpunkte aus der Zero-Data-Retention-Berechtigung entfernt. Für Kunden ist der Fall ein Hinweis, sensible Eingaben über Konfigurationen zu schützen und Verträge mit Anbietern auf Datennutzung zu prüfen. Together AI erklärte, das Zugangsdatum sei gesperrt worden.",
+      "src": "AI Weekly",
+      "t": "05:20",
+      "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "Apple rollt Siri-KI-Funktionen aus und öffnet Drittanbieter-Programm",
+      "s": "Apple hat KI-Funktionen für Siri in acht eigenen Apps ausgerollt, darunter Kalender, Dateien, Mail, Karten und Nachrichten. Zugleich startet ein Entwicklervorschau-Programm, mit dem Drittanbieter App-Intents-Aktionen wie Liefer- und Reservierungsprüfungen anbieten können.",
+      "l": "Die Funktionen laufen nach Angaben des Unternehmens auf kompatiblen Geräten direkt auf dem Gerät. Ein begleitendes Developer-Preview-Programm ist auf ausgewählte Märkte beschränkt; Entwickler können mehrschrittige Aktionen, sogenannte App-Skills, anlegen, etwa Lieferstatus prüfen, Tische reservieren oder Bestellungen aufgeben.\n\nDer Schritt ist für Apple auch ein Abgrenzungsversuch gegenüber den großen Chatbot-Plattformen: Statt einer eigenen universalen Assistenten-App setzt Apple auf verteilte Funktionen in den System-Apps und auf Schnittstellen für Drittanbieter. Beobachter schauen nun, wie gut die Aktionen im Alltag funktionieren und wie schnell externe Apps nachziehen.",
+      "src": "AI Weekly",
+      "t": "05:20",
+      "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "sub": "Regulierung und Recht",
+      "h": "Disney, Universal und Warner wollen Quellcode von Midjourney v8 erzwingen",
+      "s": "Die Studios Disney, Universal und Warner Bros. haben in einem US-Gerichtsverfahren beantragt, dass Midjourney den vollständigen Quellcode seines Bildmodells v8 und eine interne Komponente herausgibt. Der Antrag wurde am 21. November mit einer Expertenerklärung hinterlegt.",
+      "l": "Die Studios wollen mit dem Zwangsantrag (Motion to Compel) nachweisen, wie genau das Bildmodell ihre geschützten Werke gelernt und reproduziert hat. Der Fall ist eines der zentralen Musterklagen zum Verhältnis von generativer KI und Urheberrecht in den USA.\n\nMidjourney kann dem Antrag widersprechen; das Gericht muss über die Offenlegung entscheiden. Beobachter erwarten, dass die Entscheidung auch für andere laufende Verfahren richtungsweisend ist, weil der Quellcode zeigen könnte, ob Trainingsdaten aus urheberrechtlich geschützten Werken stammen.",
+      "src": "AI Weekly",
+      "t": "05:20",
+      "url": "https://aiweekly.co/ai-news-today"
+    }
+  ]
+}

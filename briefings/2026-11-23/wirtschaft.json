@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "sub": "Märkte und Konjunktur",
+      "h": "Schlimmste Börsenwoche seit Monaten: Nasdaq notiert im Jahresminus",
+      "s": "Der Abverkauf an den Aktienmärkten hat sich am Ende der Woche am Freitag noch einmal verschärft. Der S&P 500 verlor 3,7 Prozent und rutschte zusammen mit dem Dow in die Korrektur, der technologielastige Nasdaq sackte um 5,28 Prozent ab und notiert damit für das Gesamtjahr im Minus. Für die Woche verbuchte der S&P 500 einen Verlust von 8,6 Prozent, die schwächste Woche seit April 2025.",
+      "l": "Angetrieben wurde der Abverkauf von der Sorge, dass die KI-Ausgaben der Tech-Konzerne die hohen Bewertungen nicht rechtfertigen. Auch Nvidia rutschte ab: Die Aktie gab um 14 Prozent nach, ihr stärkster Tagesverlust seit dem DeepSeek-Abverkauf, nachdem Reuters über eine Prüfung ihrer Bilanzierung durch die US-Börsenaufsicht SEC berichtet hatte. Chiptitel wie AMD (minus 12,6 Prozent) und Broadcom (minus 12,1 Prozent) gaben ebenfalls stark nach, der Halbleiterindex PHLX sank um 9,2 Prozent.\n\nAuch der größte Börsengang aller Zeiten, das Debüt von Anthropic, drehte die Stimmung nicht. Im Hintergrund stehen auch politische Sorgen: Bei den US-Zwischenwahlen schnitten Kandidaten gut ab, die den Bau von KI-Datenzentren bremsen wollen. Als einzige Branche schlossen Verbrauchsgüter im Plus, Anleihen zogen an und der Volatilitätsindex VIX kletterte auf den höchsten Stand seit März.",
+      "src": "AP",
+      "url": "https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"
+    },
+    {
+      "sub": "Aktien allgemein",
+      "h": "KI-Abverkauf schwappt nach Asien über: Taiwans Börse verliert 17,5 Prozent in der Woche",
+      "s": "Der KI-Abverkauf hat am Freitag weltweit Börsen erfasst. Taiwans Leitindex TAIEX fiel um 6,23 Prozent auf 36.033 Punkte und notierte wöchentlich 17,5 Prozent im Minus, den größten Wochenverlust seiner Geschichte. Japans Nikkei rutschte um 5,06 Prozent auf 56.437 Punkte, den fünftgrößten Tagespunktverlust seit Bestehen des Index.",
+      "l": "Belastet wurden die asiatischen Märkte vor allem von Chiplieferanten des KI-Ausbaus: Die ADR des Chipauftragsfertigers TSMC gab um 9 Prozent nach, darunter litten auch Speicherhersteller wie Micron (minus 14 Prozent) und SanDisk (minus 16 Prozent). In Japan wirkte sich der Sinkflug vor allem bei SoftBank und dem Testersteller Advantest aus, Südkoreas Kospi verlor ebenfalls mehr als 5 Prozent, der Won schwächte sich zusätzlich ab.\n\nAuch europäische Indizes gaben am Freitag deutlich nach, während Indien zulegte. Anleger sammelten sich in defensiven Titeln, die einzige Branche mit Plus waren Verbrauchsgüter. Einzelwerte entkamen dem Abwärtssog: Global Payments sprang auf Berichte über ein mögliches Übernahmeangebot aus Private-Equity-Kreisen, Gap punktete mit besseren Quartalszahlen.",
+      "src": "Börsenrückblick (Cappnotes)",
+      "unc": true
+    },
+    {
+      "sub": "Die 5 weltweit größten Aktien",
+      "h": "Die fünf wertvollsten Unternehmen: Apple verteidigt Platz eins mit 4,98 Billionen Dollar",
+      "s": "Apple bleibt das wertvollste börsennotierte Unternehmen der Welt. Microsoft, Alphabet, Nvidia und Amazon folgen. Zahlen von Yahoo Finance, Stand Schlusskurse Freitag, 20. November. Die Reihenfolge hat sich zum Vortag nicht verändert.",
+      "l": "Platz 1: Apple, 4,98 Billionen US-Dollar (minus 1,90 Prozent am Vortag). Der iPhone-Konzern kam über die turbulente Handelswoche besser als die KI-Schwergewichte.\n\nPlatz 2: Microsoft, 3,60 Billionen Dollar (minus 2,77 Prozent).\n\nPlatz 3: Alphabet, 3,26 Billionen Dollar (minus 2,70 Prozent).\n\nPlatz 4: Nvidia, 3,03 Billionen Dollar (minus 14,01 Prozent). Der Chiphersteller büßte allein in der Korrekturwoche rund 900 Milliarden Dollar an Wert ein, bleibt aber vor Amazon auf Rang vier.\n\nPlatz 5: Amazon, 2,67 Billionen Dollar (minus 4,10 Prozent). Es gab keine Verschiebung im Ranking gegenüber dem Vortag; hinter Amazon folgt mit SpaceX (1,74 Billionen) bereits ein deutlich kleineres Unternehmen.",
+      "src": "Börsendaten (Funkfolio, Schlusskurse 20.11.2026)",
+      "url": "https://funkfolio.com/companies"
+    },
+    {
+      "sub": "Anthropic",
+      "h": "Nach Rekord-IPO: Anthropic-Aktie gibt am zweiten Handelstag 9,3 Prozent ab",
+      "s": "Die Aktie des KI-Unternehmens Anthropic ist am zweiten Handelstag unter Druck geraten. Am Freitag fielen die Papiere (Ticker ANT) um 9,3 Prozent auf 88,14 US-Dollar, liegen damit aber weiterhin über dem Ausgabepreis von 83 Dollar. Zum Wochenschluss lag der voll verwässerte Börsenwert bei rund 1,6 Billionen Dollar.",
+      "l": "Anthropic war am 19. November an der Nasdaq gestartet und hatte mit 81 Milliarden Dollar Emissionserlös den größten Börsengang der US-Geschichte hingelegt, bei einer Bewertung von 1,5 Billionen Dollar. Am ersten Handelstag notierte die Aktie zwischenzeitlich mit 115,10 Dollar, rutschte danach aber deutlich ab; am Freitag lag sie zeitweise mehr als 23 Prozent unter diesem Höchststand.\n\nAnalysten stellten am Freitag zwei Fragen: Ob Anthropic wie KI-Hardwarefirmen im Wellental des KI-Abverkaufs mitschwimmt, oder ob der Markt dem Unternehmen als erstem reinen KI-Entwickler eine Eigenbewertung zugesteht. Am Freitag überwogen die Zweifel, ob das Wachstum die Bewertung tragen kann; ein Börsenwert von 1,6 Billionen Dollar gilt für ein junges Unternehmen ohne etablierte Gewinne als ambitioniert.",
+      "src": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+    },
+    {
+      "sub": "Goldkurs",
+      "h": "Goldpreis auf Tiefstand seit 14 Monaten: rund 3.535 US-Dollar je Feinunze",
+      "s": "Der Goldpreis ist am Freitag weiter gefallen. Eine Feinunze kostete am 20. November um 3.535 US-Dollar, 2,51 Prozent weniger als am Vortag. Im Monatsvergleich gab der Preis rund 14 Prozent nach, im Jahresvergleich rund 13 Prozent. Es war der niedrigste Stand seit über einem Jahr.",
+      "url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+      "sub": "Bitcoin",
+      "h": "Bitcoin erholt sich leicht: Kurs bei rund 58.900 US-Dollar nach hartem Monatsverlust",
+      "s": "Der Bitcoin-Kurs lag am Sonntagmorgen um 07:00 deutscher Zeit bei rund 58.944 US-Dollar, 5,68 Prozent über dem Stand von 24 Stunden zuvor. Im Wochenvergleich bleibt der Kurs mit minus 9,15 Prozent im Minus, im November verbuchte Bitcoin rund 28 Prozent Verlust. Damit sind die Sommargewinne weitgehend aufgezehrt.",
+      "l": "Die kurze Belebung im Zuge einer leichten Erholung an den Kryptomärkten konnte die Schieflage des Novembers nicht kaschieren: Seit Jahresbeginn notiert Bitcoin rund 33 Prozent tiefer, die Gesamtmarktkapitalisierung der Kryptowährungen liegt bei nur noch gut 2 Billionen Dollar. Beim kurzzeitigen Sprung über die psychologisch wichtige Marke von 60.000 Dollar gab der Kurs die Erlöse zuerst wieder ab.\n\nMarktbeobachter verweisen auf zwei Belastungen: Der Abverkauf an den Aktienmärkten hatte auch bei Kryptowährungen Liquidität abgezogen, und die Erwartung eines US-Zinsanstiegs im Dezember macht risikoreiche Anlagen insgesamt unattraktiver. Beobachter schauen nun auf die US-Inflationsdaten in der kommenden Urlaubswoche.",
+      "src": "CoinCodex",
+      "t": "07:00",
+      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    }
+  ]
+}
