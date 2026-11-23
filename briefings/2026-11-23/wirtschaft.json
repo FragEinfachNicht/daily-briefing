@@ -2,50 +2,66 @@
   "items": [
     {
       "sub": "Märkte und Konjunktur",
-      "h": "Schlimmste Börsenwoche seit Monaten: Nasdaq notiert im Jahresminus",
-      "s": "Der Abverkauf an den Aktienmärkten hat sich am Ende der Woche am Freitag noch einmal verschärft. Der S&P 500 verlor 3,7 Prozent und rutschte zusammen mit dem Dow in die Korrektur, der technologielastige Nasdaq sackte um 5,28 Prozent ab und notiert damit für das Gesamtjahr im Minus. Für die Woche verbuchte der S&P 500 einen Verlust von 8,6 Prozent, die schwächste Woche seit April 2025.",
-      "l": "Angetrieben wurde der Abverkauf von der Sorge, dass die KI-Ausgaben der Tech-Konzerne die hohen Bewertungen nicht rechtfertigen. Auch Nvidia rutschte ab: Die Aktie gab um 14 Prozent nach, ihr stärkster Tagesverlust seit dem DeepSeek-Abverkauf, nachdem Reuters über eine Prüfung ihrer Bilanzierung durch die US-Börsenaufsicht SEC berichtet hatte. Chiptitel wie AMD (minus 12,6 Prozent) und Broadcom (minus 12,1 Prozent) gaben ebenfalls stark nach, der Halbleiterindex PHLX sank um 9,2 Prozent.\n\nAuch der größte Börsengang aller Zeiten, das Debüt von Anthropic, drehte die Stimmung nicht. Im Hintergrund stehen auch politische Sorgen: Bei den US-Zwischenwahlen schnitten Kandidaten gut ab, die den Bau von KI-Datenzentren bremsen wollen. Als einzige Branche schlossen Verbrauchsgüter im Plus, Anleihen zogen an und der Volatilitätsindex VIX kletterte auf den höchsten Stand seit März.",
-      "src": "AP",
-      "url": "https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"
+      "h": "Börsen schließen nach wochenlangem Abverkauf tiefrot ins Wochenende",
+      "s": "Am Freitag setzten die globalen Börsen ihren Abwärtstrend fort: Der S&P 500 verlor 3,7 Prozent auf 6.910,39 Punkte, der Dow Jones 1,9 Prozent auf 48.147,33 Punkte, der Nasdaq gar 5,3 Prozent auf 22.617,73 Punkte. Ausgelöst wurde der Abverkauf vor allem durch die anhaltende Korrektur bei KI-Titeln.",
+      "l": "Der S&P 500 notiert damit im siebten Verlusttag in Folge, für den Nasdaq war es der stärkste Tagesverlust dieser Korrekturphase. Anleger sorgen sich, dass die Milliardeninvestitionen in KI-Rechenzentren weit über den Erträgen liegen und die Finanzierung derzeit teuer ist. Hinzu kommen belastende Zinsprognosen.\n\nAuch in Europa und Asien fielen die Kurse: Der DAX ging tiefrot ins Wochenende, Japans Nikkei schloss auf dem niedrigsten Stand seit sieben Monaten. Analysten rechnen für die kommende Woche mit weiterhin hoher Schwankung. Wichtig sind nun die Konjunkturdaten der Woche und die Frage, ob die Notenbanken signalisieren, dass Zinskürzungen öffentlich erwartet werden.",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/22/crypto-market-today-nov-22-bitcoin-reclaims-usd60-000-after-usd1-8-billion-liquidation-wipeout-is-the-worst-over/"
+    },
+    {
+      "sub": "Märkte und Konjunktur",
+      "h": "EU und Indonesien unterzeichnen umfassendes Freihandelsabkommen",
+      "s": "Nach fast zehn Jahren Verhandlungen haben die EU und Indonesien ein weitreichendes Freihandelsabkommen plus Investitionsschutzabkommen unterzeichnet. Zölle auf bis zu 98,5 Prozent der Warenkategorien sollen nach vollständiger Umsetzung entfallen. EU-Exporteuren spart das nach Kommissionsangaben rund 600 Millionen Euro pro Jahr.",
+      "l": "Für die europäische Autoindustrie ist die Einigung wichtig: Indonesien erhebt derzeit bis zu 50 Prozent Einfuhrzoll auf europäische Autos, diese Abgabe soll binnen fünf Jahren entfallen. Die EU verspricht sich zudem einen besseren Zugang zu kritischen Rohstoffen, denn Indonesien gehört zu den führenden Produzenten von Nickel und Kobalt für Batterien.\n\nVorgesehen sind unter anderem ein Verbot von Exportmonopolen für Rohstoffe und Regeln gegen diskriminierende Preise. Damit sollen Lieferketten verlässlicher werden. Rechtlich müssen dem Abkommen noch das EU-Parlament und die Mitgliedstaaten zustimmen. Umwelt- und Menschenrechtsorganisationen verlangen zudem Kontrollen der Zulieferketten.",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "t": "21:17"
     },
     {
       "sub": "Aktien allgemein",
-      "h": "KI-Abverkauf schwappt nach Asien über: Taiwans Börse verliert 17,5 Prozent in der Woche",
-      "s": "Der KI-Abverkauf hat am Freitag weltweit Börsen erfasst. Taiwans Leitindex TAIEX fiel um 6,23 Prozent auf 36.033 Punkte und notierte wöchentlich 17,5 Prozent im Minus, den größten Wochenverlust seiner Geschichte. Japans Nikkei rutschte um 5,06 Prozent auf 56.437 Punkte, den fünftgrößten Tagespunktverlust seit Bestehen des Index.",
-      "l": "Belastet wurden die asiatischen Märkte vor allem von Chiplieferanten des KI-Ausbaus: Die ADR des Chipauftragsfertigers TSMC gab um 9 Prozent nach, darunter litten auch Speicherhersteller wie Micron (minus 14 Prozent) und SanDisk (minus 16 Prozent). In Japan wirkte sich der Sinkflug vor allem bei SoftBank und dem Testersteller Advantest aus, Südkoreas Kospi verlor ebenfalls mehr als 5 Prozent, der Won schwächte sich zusätzlich ab.\n\nAuch europäische Indizes gaben am Freitag deutlich nach, während Indien zulegte. Anleger sammelten sich in defensiven Titeln, die einzige Branche mit Plus waren Verbrauchsgüter. Einzelwerte entkamen dem Abwärtssog: Global Payments sprang auf Berichte über ein mögliches Übernahmeangebot aus Private-Equity-Kreisen, Gap punktete mit besseren Quartalszahlen.",
-      "src": "Börsenrückblick (Cappnotes)",
-      "unc": true
+      "h": "Halbleiterwerte geben stark nach, Nvidia wird Wochenverlierer im Dow",
+      "s": "Nvidia war mit einem Wochenminus von 22,9 Prozent der größte Verlierer im Dow Jones, am Freitag brach die Aktie um 14 Prozent ein. Der Halbleitersektor geriet mit: Der iShares Semiconductor ETF verlor an einem Tag 5,7 Prozent, Micron rund 9,5 Prozent, Broadcom und AMD mehr als 7 Prozent.",
+      "l": "Zur Woche: Nvidia hatte am Dienstag Rekordzahlen vorgelegt, der Umsatz stieg um 103 Prozent auf 115,8 Milliarden Dollar. Das half nicht gegen den Abwärtstrend, denn am gleichen Tag berichtete das Wall Street Journal über eine zivilrechtliche Untersuchung der US-Börsenaufsicht SEC, die auch die Bilanzierung umfassen soll. Kurz zuvor war Firmengründer Jensen Huang zurückgetreten.\n\nFür die Branche bleibt die Frage offen, ob die bisherigen Investitionen in KI-Rechenzentren weit über den künftigen Erträgen liegen. Einige Anleger rotierten kurzfristig in defensivere Werte. Marktbeobachter erwarten erst wieder Ruhe, wenn konkrete Geschäftszahlen oder Kostensparprogramme die Bewertungen stützen.",
+      "src": "aktiencheck.de",
+      "url": "https://aktiencheck.de/artikel/nvidia-aktie-dow-jones-verlierer-der-woche-sec-ermittlungen-14-prozent-crash",
+      "t": "09:41"
     },
     {
       "sub": "Die 5 weltweit größten Aktien",
-      "h": "Die fünf wertvollsten Unternehmen: Apple verteidigt Platz eins mit 4,98 Billionen Dollar",
-      "s": "Apple bleibt das wertvollste börsennotierte Unternehmen der Welt. Microsoft, Alphabet, Nvidia und Amazon folgen. Zahlen von Yahoo Finance, Stand Schlusskurse Freitag, 20. November. Die Reihenfolge hat sich zum Vortag nicht verändert.",
-      "l": "Platz 1: Apple, 4,98 Billionen US-Dollar (minus 1,90 Prozent am Vortag). Der iPhone-Konzern kam über die turbulente Handelswoche besser als die KI-Schwergewichte.\n\nPlatz 2: Microsoft, 3,60 Billionen Dollar (minus 2,77 Prozent).\n\nPlatz 3: Alphabet, 3,26 Billionen Dollar (minus 2,70 Prozent).\n\nPlatz 4: Nvidia, 3,03 Billionen Dollar (minus 14,01 Prozent). Der Chiphersteller büßte allein in der Korrekturwoche rund 900 Milliarden Dollar an Wert ein, bleibt aber vor Amazon auf Rang vier.\n\nPlatz 5: Amazon, 2,67 Billionen Dollar (minus 4,10 Prozent). Es gab keine Verschiebung im Ranking gegenüber dem Vortag; hinter Amazon folgt mit SpaceX (1,74 Billionen) bereits ein deutlich kleineres Unternehmen.",
-      "src": "Börsendaten (Funkfolio, Schlusskurse 20.11.2026)",
-      "url": "https://funkfolio.com/companies"
+      "h": "Top 5 nach Börsenwert: Alphabet verdrängt Nvidia vom dritten Platz",
+      "s": "Stand: Handelsschluss Freitag, 20. November 2026.\n\nPlatz 1: Apple, rund 5,0 Billionen US-Dollar Börsenwert (Kurs 342,56 US-Dollar, minus 1,9 Prozent zum Vortagesschluss)\n\nPlatz 2: Microsoft, rund 3,6 Billionen US-Dollar (Kurs 484,52 US-Dollar, minus 2,8 Prozent zum Vortagesschluss)\n\nPlatz 3: Alphabet, rund 3,4 Billionen US-Dollar (Kurs 264,00 US-Dollar, minus 2,6 Prozent zum Vortagesschluss)\n\nPlatz 4: Nvidia, rund 3,3 Billionen US-Dollar (Kurs 125,53 US-Dollar, minus 14,0 Prozent zum Vortagesschluss)\n\nPlatz 5: Amazon, rund 2,7 Billionen US-Dollar (Kurs 246,82 US-Dollar, minus 4,1 Prozent zum Vortagesschluss)",
+      "l": "Zur Entwicklung: Am Freitag überholte Alphabet Nvidia nach Börsenwert und verdrängte das Unternehmen vom dritten Platz, wie Yahoo Finance berichtete. Nvidia liegt damit rund 41 Prozent unter dem Höchststand von Anfang Oktober, als der Konzern zeitweise nahezu 5,7 Billionen Dollar wert war. Apple hält auch nach dem Abverkauf einen klaren Vorsprung.\n\nDie Abstände zwischen Microsoft, Alphabet und Nvidia sind eng geworden und können sich in einem einzigen Handelstag verschieben. Amazon bleibt hinter dem führenden Quartett zurück. Für die kommende Woche entscheidet sich, ob sich die Kurse stabilisieren oder die Korrektur bei den KI-Favoriten weitergeht.",
+      "src": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-behind-alphabet-loses-155123392.html",
+      "t": "16:51"
     },
     {
       "sub": "Anthropic",
-      "h": "Nach Rekord-IPO: Anthropic-Aktie gibt am zweiten Handelstag 9,3 Prozent ab",
-      "s": "Die Aktie des KI-Unternehmens Anthropic ist am zweiten Handelstag unter Druck geraten. Am Freitag fielen die Papiere (Ticker ANT) um 9,3 Prozent auf 88,14 US-Dollar, liegen damit aber weiterhin über dem Ausgabepreis von 83 Dollar. Zum Wochenschluss lag der voll verwässerte Börsenwert bei rund 1,6 Billionen Dollar.",
-      "l": "Anthropic war am 19. November an der Nasdaq gestartet und hatte mit 81 Milliarden Dollar Emissionserlös den größten Börsengang der US-Geschichte hingelegt, bei einer Bewertung von 1,5 Billionen Dollar. Am ersten Handelstag notierte die Aktie zwischenzeitlich mit 115,10 Dollar, rutschte danach aber deutlich ab; am Freitag lag sie zeitweise mehr als 23 Prozent unter diesem Höchststand.\n\nAnalysten stellten am Freitag zwei Fragen: Ob Anthropic wie KI-Hardwarefirmen im Wellental des KI-Abverkaufs mitschwimmt, oder ob der Markt dem Unternehmen als erstem reinen KI-Entwickler eine Eigenbewertung zugesteht. Am Freitag überwogen die Zweifel, ob das Wachstum die Bewertung tragen kann; ein Börsenwert von 1,6 Billionen Dollar gilt für ein junges Unternehmen ohne etablierte Gewinne als ambitioniert.",
-      "src": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+      "h": "Anthropic-Aktie nach Rekord-Börsengang weiter unter Druck",
+      "s": "Die jüngst börsennotierte KI-Firma Anthropic gab am Freitag 8,5 Prozent nach und schloss mit 88,91 US-Dollar. Nach Recherchen von Fachdiensten haben die Platzierungsbanken ihre Zusatzoption auf weitere Aktien vollständig ausgeübt, damit ist der Börsengang abgeschlossen.",
+      "l": "Zur Einordnung: Anthropic hatte am Mittwoch mit einem Rekord-Börsengang gestartet und war zeitweise mehr als 1,8 Billionen Dollar wert gewesen. Die letzte Phase der Emission fiel mitten in die schwächste Tech-Börsenwoche seit Jahren, so dass die Aktie seit Start deutlich im Minus notiert.\n\nBeobachter sehen zwei Effekte: Einerseits zieht der Börsengang Kapital aus etablierten KI-Werten ab, andererseits macht er die gesamte Branche anfälliger für Kritik an hohen Bewertungen. Wie sich die Aktie in der neuen Handelswoche entwickelt, hängt auch vom allgemeinen Kursverlauf der Tech-Branche ab.",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/22/crypto-market-today-nov-22-bitcoin-reclaims-usd60-000-after-usd1-8-billion-liquidation-wipeout-is-the-worst-over/",
+      "t": "23:20",
+      "unc": true
     },
     {
       "sub": "Goldkurs",
-      "h": "Goldpreis auf Tiefstand seit 14 Monaten: rund 3.535 US-Dollar je Feinunze",
-      "s": "Der Goldpreis ist am Freitag weiter gefallen. Eine Feinunze kostete am 20. November um 3.535 US-Dollar, 2,51 Prozent weniger als am Vortag. Im Monatsvergleich gab der Preis rund 14 Prozent nach, im Jahresvergleich rund 13 Prozent. Es war der niedrigste Stand seit über einem Jahr.",
-      "url": "https://tradingeconomics.com/commodity/gold"
+      "h": "Goldpreis weitgehend unverändert bei rund 3.532 US-Dollar",
+      "s": "Am Sonntagabend notierte der Goldpreis bei 3.532,80 US-Dollar je Feinunze und damit auf dem Niveau des Vortages. Auch Silber und Platin zeigten kaum Bewegungen. Größere Ausschläge blieben aus, da die wichtigsten Börsen am Wochenende geschlossen waren.",
+      "l": "Zur Einordnung: Gold hatte zuletzt wie andere Rohstoffe unter dem breiten Abverkauf an den Aktienmärkten gelitten, zuvor hatte der Kurs im Krisenumfeld mehrfach Rekorde erreicht. Als sicherer Hafen bleibt Gold bei Anlegern beliebt, wenn Aktienkurse unter Druck geraten oder geopolitische Risiken steigen.\n\nFür die kommende Woche sind vor allem zwei Faktoren wichtig: der Kurs des US-Dollar und die Zinserwartungen an die Notenbanken. Beide beeinflussen, wie attraktiv Gold als Anlage erscheint. Auch die Spannungen im Golf und in der Ukraine spielen für die Stimmung eine Rolle.",
+      "src": "finanzen.net",
+      "url": "https://www.finanzen.at/nachrichten/rohstoffe/rohstoffe-im-fokus-so-bewegen-sich-goldpreis-&-co-am-sonntagabend-1036790125",
+      "t": "20:43"
     },
     {
       "sub": "Bitcoin",
-      "h": "Bitcoin erholt sich leicht: Kurs bei rund 58.900 US-Dollar nach hartem Monatsverlust",
-      "s": "Der Bitcoin-Kurs lag am Sonntagmorgen um 07:00 deutscher Zeit bei rund 58.944 US-Dollar, 5,68 Prozent über dem Stand von 24 Stunden zuvor. Im Wochenvergleich bleibt der Kurs mit minus 9,15 Prozent im Minus, im November verbuchte Bitcoin rund 28 Prozent Verlust. Damit sind die Sommargewinne weitgehend aufgezehrt.",
-      "l": "Die kurze Belebung im Zuge einer leichten Erholung an den Kryptomärkten konnte die Schieflage des Novembers nicht kaschieren: Seit Jahresbeginn notiert Bitcoin rund 33 Prozent tiefer, die Gesamtmarktkapitalisierung der Kryptowährungen liegt bei nur noch gut 2 Billionen Dollar. Beim kurzzeitigen Sprung über die psychologisch wichtige Marke von 60.000 Dollar gab der Kurs die Erlöse zuerst wieder ab.\n\nMarktbeobachter verweisen auf zwei Belastungen: Der Abverkauf an den Aktienmärkten hatte auch bei Kryptowährungen Liquidität abgezogen, und die Erwartung eines US-Zinsanstiegs im Dezember macht risikoreiche Anlagen insgesamt unattraktiver. Beobachter schauen nun auf die US-Inflationsdaten in der kommenden Urlaubswoche.",
-      "src": "CoinCodex",
-      "t": "07:00",
-      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+      "h": "Bitcoin erobert nach Zwischentief die Marke von 60.000 Dollar zurück",
+      "s": "Am Sonntagabend notierte der Bitcoin bei rund 60.785 US-Dollar, ein Plus von rund 1,2 Prozent am Tag. Zuvor war der Kurs am Freitag auf ein Zwei-Jahres-Tief von nahezu 55.000 Dollar gefallen und hatte Zwangsliquidationen von rund 1,8 Milliarden US-Dollar ausgelöst.",
+      "l": "Zur Erklärung: Der Einbruch war Teil eines breiten Risikoabbaus an Aktien, Rohstoffen und Kryptowährungen. US-Krypto-Etfs verloren am Freitag deutlich; der iShares Bitcoin Trust gab 5,87 Prozent nach, der Fidelity Wise Origin Bitcoin Fund 6,16 Prozent. Der Markt suchte am Wochenende erste Stabilität, dass viele verschuldete Positionen inzwischen aus dem Markt sind.\n\nOb die Erholung hält, ist nicht sicher. Die Analysten weisen darauf hin, dass Millionen von Positionen liquidiert wurden und der Markt daher weniger stark belastet ist als zuvor. Am Montag öffneten die US-Börsen wieder und zeigen dann, wie Anleger die Kryptowährung bewerten.",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/22/crypto-market-today-nov-22-bitcoin-reclaims-usd60-000-after-usd1-8-billion-liquidation-wipeout-is-the-worst-over/",
+      "t": "23:20"
     }
   ]
 }

@@ -2,54 +2,54 @@
   "items": [
     {
       "sub": "Raumfahrt und Natur",
-      "h": "Nach acht Jahren im All: Sonde BepiColombo erreicht die Umlaufbahn des Merkur",
-      "s": "Die europäisch-japanische Doppelsonde BepiColombo ist in die Umlaufbahn des Merkur eingetreten. Die ESA bestätigte die Ankunft in den frühen Morgenstunden des Sonntags. Die Sonde war 2018 gestartet und legte rund acht Jahre zurück. Erst eine zweite Mission zuvor war je am Merkur angekommen.",
-      "l": "BepiColombo ist ein Gemeinschaftsprojekt der europäischen Raumfahrtagentur ESA und der japanischen JAXA und startete 2018 in Französisch-Guayana. Die ESA meldete nach dem Einschwenken: Die Sonde sei mit der Bodenstation in Kontakt, die Flugdynamiker hätten die Orbiteinfangung bestätigt. Ein Update zur Lage des Raumfahrzeugs kündigte die Agentur für Anfang der kommenden Woche an.\n\nDer Merkur ist der kleinste und innerste Planet des Sonnensystems, mit Temperaturen zwischen rund 430 Grad Plus und 180 Grad Minus auch technisch besonders anspruchsvoll. Nach dem Plan trennen sich der europäische und der japanische Orbiter am 9. und 10. Dezember, die wissenschaftliche Missionsphase soll im April 2027 beginnen. Erst die NASA-Sonde Mariner 10 (Start 1973) und die Mission Messenger waren zuvor je am Merkur gewesen.",
-      "src": "Euronews",
-      "t": "16:27",
-      "url": "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey"
+      "h": "SpaceX-Cargo-Kapsel Dragon ist auf der Erde gelandet",
+      "s": "Die Dragon-Kapsel von SpaceX hat nach der Rückkehr von der Raumstation ISS im Pazifik vor Kalifornien gelandet. An Bord waren mehr als 2.800 Kilogramm Forschungsmaterial, darunter Proben von Experimenten. Damit endet die 35. Versorgungsmission von SpaceX für die NASA.",
+      "l": "Die Kapsel war am 13. Oktober gestartet und hatte am 15. Oktober an der ISS angedockt. Jetzt dockte sie ab und brachte vom Freitag Nachmittag an Forschungsproben zurück zur Erde, darunter Daten, die nach Angaben der NASA künftige Raumfahrt und das Leben auf der Erde verbessern könnten.\n\nFür die NASA ist die Rückkehr wichtig, weil viele Proben im Weltraum gekühlt gelagert werden mussten und im Labor erst ausgewertet werden können. Für die Astronauten an Bord ist der Nachschub damit wieder abgeschlossen. Dragon ist eines der wichtigsten Werkzeuge der ISS-Versorgung.",
+      "src": "Space.com (via EuropeSays)",
+      "url": "https://www.europesays.com/us/1203039/"
+    },
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "Schweres Seebeben der Stärke 7,0 in der Bandasee",
+      "s": "In der Bandasee östlich von Indonesien hat sich ein Erdbeben der Stärke 7,0 ereignet. Das Zentrum lag rund 124 Kilometer tief, daher galt die Gefahr für Schäden als begrenzt. Erste Berichte über Verletzte oder Zerstörung gab es zunächst nicht.",
+      "l": "Zum Hintergrund: Bandasee stoßen die australische und die pazifische Platte aufeinander, deshalb der australischen und der pazifischen Platte, deshalb treten dort regelmäßig stärkere Beben auf. Die Tiefe von mehr als 120 Kilometern dämpft die Auswirkungen an der Oberfläche deutlich.\n\nGeophysiker untersuchen in den kommenden Tagen seismische Daten, um mögliche Nachbeben und das Risiko weiterer Beben besser abschätzen zu können. Die Küstenbewohner in der Region müssen vor allem mit Nachbeben rechnen, Warnungen vor einem Tsunami wurden zunächst nicht veröffentlicht.",
+      "src": "Xinhua",
+      "url": "https://english.news.cn/20261121/98eee5b68db340efb0dff46cd72d3e42/c.html",
+      "t": "10:52"
     },
     {
       "sub": "Forschung und Entdeckungen",
-      "h": "Menschenrechtlerinnen und Umweltschützer warnen: Sogar Kakteen drohen die Trockenheit zu viel",
-      "s": "Ein internationales Forscherteam hat gezeigt, dass zahlreiche Kakteenarten durch extreme Dürren Teile ihres Lebensraums verlieren könnten. Ausgerechnet die an Trockenheit angepassten Pflanzen stoßen demnach bei zunehmenden Hitzestress an Grenzen. Der Befund werde in Fachkreisen als Alarmzeichen für Ökosysteme gewertet.",
-      "l": "Kakteen sind an Wasserarmut angepasst, doch Lösungen können selbst die robustesten Arten überfordern: Wenn Dürren länger andauern und häufiger auftreten, sinkt nach dieser Analyse ihre Belastbarkeit, so dass ganze Regionen für sie unbewohnbar werden können. Das Forscherteam hatte Verbreitungsdaten und künftige Klimaszenarien überlagert.\n\nDer Befund hatte auch Folgen über den Artenschutz hinaus: Kakteen sind als Nahrungsquelle und Lebensraum für viele Tiere wichtig. Die Forschenden empfehlen, Schutzgebiete künftig stärker nach künftigen Klimazonen statt nach heutigen Verbreitungskarten auszuwählen.",
-      "src": "Süddeutsche Zeitung",
-      "t": "18:27",
-      "url": "https://www.sueddeutsche.de/politik/news-cop26-ostsee-soeder-li.3584381"
+      "h": "Studie: Im Kalahari-Kraton reift ein alter Riss erneut",
+      "s": "Forscher von der Botswana International University of Science and Technology und der Lamont-Doherty Earth Observatory zeigen, dass sich im Inneren des Kalahari-Kratons in Botswana tektonische Spannungen aufbauen. Ein alter Riss, der als erloschen galt, hat laut der Studie im Fachjournal Tectonics erneut aktiviert.",
+      "l": "Zur Einordnung: Kratone sind die alten Kerne der Kontinente, dort innerhalb von Gesteinen mit einem Alter bis zu 3,7 Milliarden Jahren. Sie galten als zu kalt, dick und starr, um aufzubrechen. Ein Beben der Stärke 6,5 im Jahr 2017 mitten im Kraton machte Forscher nachdenklich, so die Autoren.\n\nDie neue Analyse von seismischen Daten und geologischen Messungen zeigt, dass ein alter Grabenbruch dort unter Kräften liegt, die wieder gestreckt werden. Damit müsse die klassische Vorstellung von der Stabilität solcher Regionen korrigiert werden. Für Ingenieure sind die Ergebnisse wichtig, weil sie die Bebengefahr in Teilen des südlichen Afrika neu bewerten helfen.",
+      "src": "Phys.org",
+      "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
+      "t": "13:25"
     },
     {
-      "sub": "Geschichte",
-      "h": "Archäologie: Mütter im antiken Himera stillten ihre Kinder fast vier Jahre",
-      "s": "Vor rund 2.500 Jahren stillten Mütter in der griechischen Kolonie Himera auf Sizilien ihre Kinder im Schnitt fast vier Jahre lang. Das rekonstruierte ein Forschungsteam unter anderem der University of Georgia anhand von Isotopen im Knochenkollagen. Die Beikost begann dagegen früh. Die Untersuchung erschien im European Journal of Archaeology.",
-      "l": "Das Team untersuchte Knochen aus den Nekropolen der Stadt Himera, die vom 7. bis zum 5. Jahrhundert vor Christus an der Nordküste Siziliens bestand und in der Griechen, einheimische Siziler und Phönizier zusammenlebten. In den Gräberfeldern wurden inzwischen mehr als 13.000 Bestattungen analysiert.\n\nDie Stillzeiten liegen deutlich über den Empfehlungen antiker Ärzte – und weit über heutigen Orientierungswerten: In Deutschland stillen Mütter laut Daten des Robert Koch-Instituts durchschnittlich rund acht Monate, die noch weiter aktuellen Leitlinien zielen auf mindestens zwölf Monate Gesamtstilldauer. Da in der antiken Studie nur Menschen einbezogen werden konnten, die im Kindes- oder Jugendalter starben, warnen die Forschenden vor zu schnellen Schlüssen auf den Alltag der damaligen Gesamtbevölkerung.",
-      "src": "Forschung und Wissen",
-      "t": "09:53",
-      "url": "https://www.forschung-und-wissen.de/nachrichten/archaeologie/muetter-im-antiken-himera-stillten-ihre-kinder-fast-vier-jahre-lang-133716116"
-    },
-    {
-      "sub": "Medizin und Gesundheit",
-      "h": "Rekord: Menschliche Leber in Sydney 47 Tage außerhalb des Körpers am Leben gehalten",
-      "s": "Ärzte und Forscher in Sydney haben nach eigenen Angaben eine menschliche Leber 47 Tage in einer Perfusionsmaschine außerhalb des Körpers aktiv gehalten. Das sei ein Rekord. Das Verfahren könnte die Zahl nutzbarer Spenderorgane erhöhen, weil Lebern länger transportiert und getestet werden können.",
-      "l": "Bei der Perfusion wird das Organ außerhalb des Körpers mit Blut bzw. einer Nährlösung durchspült und dort über ungewöhnlich lange Zeit am Laufen gehalten. Bisher galten längere Zeiträume außerhalb des Körpers als kaum machbar; der neue Wert zeigt, dass ein Organ über Wochen hinweg stabil am Leben gehalten werden kann. Das wäre eine Voraussetzung, um Lebern über größere Distanzen zu transportieren und ihre Funktion vorher ausführlich zu prüfen.\n\nFachleuten zufolge könnte das Verfahren langfristig dazu beitragen, dass Organe, die heute als nicht nutzbar abgelegt werden, doch noch transplantiert werden können. Das Verfahren ist nach Angaben der beteiligten Einrichtung weiterhin in der Erprobung; es liegen keine veröffentlichten klinischen Ergebnisse vor.",
-      "src": "Forschung und Wissen",
-      "unc": true
+      "sub": "Raumfahrt und Natur",
+      "h": "Uranus erreicht in dieser Woche seine Opposition",
+      "s": "Der Planet Uranus steht in dieser Woche in Opposition zur Sonne und ist damit die gesamte Nacht über zu sehen. Beobachter können ihn mit einem Fernrohr als kleines, grünlich schimmernden Lichtpunkt erkennen. Wegen seiner großen Entfernung ist er mit freiem Auge kaum sichtbar.",
+      "l": "Zur Einordnung: Bei einer Opposition steht ein äußerer Planet der Erde am nächsten und erscheint am größten und hellsten. Uranus umrundet die Sonne in rund 84 Jahren, so dass er jedes Jahr etwas mehr als einen Oppositionstermin durchläuft.\n\nLetztlich bleiben Beobachtungen eine Frage des Standorts: Wer in dunkler Umgebung ein Fernrohr verwendet, hat gute Chancen. Astronomen empfehlen, auch die Nachbarplaneten zu verfolgen, die aktuell spät in der Nacht aufgehen. Wer die Gelegenheit verpasst, muss bis zum nächsten Oppositionsfenster warten.",
+      "src": "Astronomy.com",
+      "url": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-20-to-27-2026/"
     },
     {
       "sub": "Umwelt und Klima",
-      "h": "Polarwirbel dreht im November ungewöhnlich früh seine Windrichtung um",
-      "s": "Der Polarwirbel über der Arktis hat nach Beobachtungen im November ungewöhnlich früh seine Windrichtung umgekehrt, ein Ereignis, das sonst erst im Spätwinter oder Frühjahr beobachtet wird. Wetterdienste beobachten daraufhin regelmäßig Kaltlufteinbrüche nach Europa und Nordamerika. Nach jetzigem Stand hat sich der Wirbel bereits wieder erholt.",
-      "l": "Der Polarwirbel ist ein Kaltluftsystem in etwa 30 Kilometern Höhe, dessen Stabilität die jahreszeitliche Verteilung kalter Luftmassen mitbestimmt. Gerät er aus der Balance, kann kalte Polarluft nach Süden ausweichen. Diese Umkehrereignisse sind selten, treten aber in den letzten Jahren gehäuft auf.\n\nNach aktuellen Beobachtungen hat sich der Wirbel bereits wieder stabilisiert, wie meteorologische Dienste berichten. Für die kommende Winterhalbjahr bleibt die Einschätzung vorläufig: Eine sichere Vorhersage des Winterwetters lasse sich daraus noch nicht ablesen.",
-      "src": "Forschung und Wissen",
-      "unc": true
+      "h": "Salvage-Team versucht, gestrandetes Frachtschiff vor Frankreich zu befreien",
+      "s": "Vor der südwestfranzösischen Küste ist der 169 Meter lange Frachter MIRO G unter maltesischer Flagge auf Grund gelaufen. Das Schiff ist leer, führt aber mehr als 100 Tonnen Treibstoff mit und stellt damit eine potenzielle Umweltgefahr dar. Schlechtes Wetter erschwert die Bergung.",
+      "l": "Zur Erinnerung: Der Frachter hatte Strand unweit von Lit-et-Mixe erreicht, nachdem er in heftigem Sturm mit Windböen bis zu 90 Stundenkilometern die Kontrolle verloren hatte. Die 19 Besatzungsmitglieder waren bereits zu Beginn gerett worden, weitere elf Personen, darunter der Kapitän, wurden am Samstag mit Hubschraubern abgeholt.\n\nUm das Schiff zu stabilisieren, sind seine Ballasttanks mit Meerwasser gefüllt worden. Das verhindert Umkippen, muss aber später wieder ausgepumpt werden, damit das Schiff abgezogen werden kann. Die beiden Hauptgeneratoren des Schiffes sind ausgefallen, Ingenieure arbeiten an einer Notstromversorgung. Ein französischer Bergungsschlepper ist vor Ort.",
+      "src": "Euronews",
+      "url": "https://www.euronews.com/2026/11/21/salvage-operation-under-way-after-cargo-ship-runs-aground-off-french-coast",
+      "t": "22:55"
     },
     {
-      "sub": "Medizin und Gesundheit",
-      "h": "Studie: Abendliche Handyzeit geht bei Jugendlichen stark auf den Schlaf",
-      "s": "Eine US-Studie mit 218 Jugendlichen verbindet abendliche Handynutzung bei Mädchen mit deutlich weniger Schlaf. Pro Stunde Bildschirmzeit am Abend schlossen die Mädchen rund 71 Minuten früher ab. Die Autoren empfehlen, Bildschirme vor dem Schlafengehen konsequent wegzulegen.",
-      "l": "Die Studie untersuchte, wie sich Bildschirmzeit am Abend auf Schlafdauer und Schlafqualität auswirkt. Danach fiel der Effekt bei Mädchen besonders deutlich aus: Pro Stunde Nutzung am Abend verlor sie rund 71 Minuten Schlaf, weil sie später ins Bett gingen und den Bildschirm im Bett weiter nutzten.\n\nDie Autoren sehen die Ergebnisse als Hinweis, dass der Zeitpunkt der Nutzung wichtiger ist als die Gesamtmenge am Tag. Zur Einordnung weisen sie darauf hin, dass Beobachtungsstudien keine Kausalität beweisen können; Haushalte mit unruhigerem Schlafablauf könnten auch mehr abends online sein. Empfohlen wird trotzdem ein fester, bildschirmfreier Zeitraum vor dem Schlafen.",
-      "src": "Forschung und Wissen",
-      "unc": true
+      "sub": "Technik",
+      "h": "SpaceX startet zweimal binnen 32 Stunden von demselben Pad",
+      "s": "SpaceX hat am Sonntagmorgen kalifornischer Zeit eine Falcon-9-Rakete mit der geheimen Nutzlast NROL-136 gestartet, nur rund 32 Stunden nach dem Start einer anderen Rakete vom selben Pad. Der Konzern bestätigte, dass dies der schnellste Wechsel von einem Start zum nächsten am gleichen Startpad war.",
+      "l": "Zur Einordnung: Vorangegangen war der Start einer Rakete der US-Weltraumstreitkräfte am Freitagabend vom selben Komplex SLC-4 East in Vandenberg. Beide Starts benutzten verschiedene Booster, es ging also um die Wiederverwendung der Startplattform. Die Verlautbarungen von SpaceX betonen die Möglichkeit, schnellere Startserien zu ermöglichen.\n\nFür den am Sonntag gestarteten Booster war es der 14. Flug. Insgesamt verfolgt SpaceX das Ziel, mehrfachstarts pro Tag zu ermöglich und militärische Missionen schneller voranzubringen. Welche Satelliten NROL-136 umfasst, hat der Nationale Reconnaissance-Office wie üblich nicht mitgeteilt.",
+      "src": "Tesla North",
+      "url": "https://teslanorth.com/2026/11/22/spacex-nrol-136-vandenberg-32-hours/"
     }
   ]
 }

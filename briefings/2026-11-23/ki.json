@@ -1,49 +1,39 @@
 {
   "items": [
     {
-      "sub": "Forschung",
-      "h": "OpenAI veröffentlicht erstmals Perplexity-Zahlen und schlägt gemeinsame Sicherheitsgrenzen vor",
-      "s": "OpenAI-Chefwissenschaftler Jakub Pachocki hat erstmals die internen Trainingswerte (Perplexity) der GPT-Modelle veröffentlicht: GPT-3.5 lag bei rund 0,99, aktuelle Modelle unter 0,8. Er schlägt zugleich vor, dass führende KI-Labore gemeinsame Sicherheitsgrenzen vereinbaren.",
-      "l": "Perplexity misst, wie gut ein Sprachmodell den nächsten Textbaustein vorhersagt; niedrigere Werte zeigen stärkere Modelle. Pachocki ordnete ein, dass ab Werten unter 0,8 in den internen Tests nennenswerte Durchbrüche in IT-Sicherheit und Mathematik auftraten; für offene Mathematikaufgaben nannte er rund 0,76.\n\nDer Vorschlag für gemeinsame Sicherheitslinien folgt auf die Debatte nach den Zwischenwahlen in den USA, bei der ein bremsender Umgang mit KI-Datenzentren und Modellen ein Thema war. Konkret soll es nach Pachockis Idee unter anderem gemeinsame Prüfungen geben, bevor Modelle mit Spitzenfähigkeiten freigegeben werden. Konkrete Zusagen anderer Labore gibt es noch nicht.",
-      "src": "AI Weekly",
-      "t": "05:20",
-      "url": "https://aiweekly.co/ai-news-today"
+      "sub": "Branchennews",
+      "h": "Musk warnt vor Liquiditätsengpass der KI-Branche im nächsten Jahr",
+      "s": "Elon Musk hat am Samstag auf der Plattform X gewarnt, die KI-Industrie könne schon wenige Monate Verzögerung mit hohen Kosten treffen. Zwischen der Bezahlung von Rechenleistung und zuverlässigen Einnahmen laufen schnell Hunderte Milliarden Dollar an Zwischenfinanzierung auf, schrieb er als Antwort auf den Forscher François Chollet.",
+      "l": "Zur Einordnung: Viele KI-Konzerne kaufen teure Chips, Rechenzentren und Strom, bevor daraus Einnahmen fließen. Diese Vorfinanzierung ist ein Risiko, wenn sich der Markt abkühlt oder Lieferketten stocken.\n\nMusks Äußerungen kommen in einer Phase, in der mehrere langfristige Investitionsverträge der Konzerne in Frage gestellt werden. Kritiker verweisen darauf, dass derartige Aussagen miter von Konkurrenzwillen motiviert sein können, da Musk selbst mit xAI im AI-Geschäft aktiv ist. Genaue Berechnungen präsentierte er nicht.",
+      "src": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-morning-brief-22-nov-2026-musks-cash-warning-copilots-205/",
+      "unc": true
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Streit um Preise: Studie sieht Claude-Enterprise-Nutzer bei 205 Dollar im Monat",
+      "s": "Eine von Microsoft in Auftrag gegebene Studie sieht die monatlichen Kosten für einen intensiven Claude-Enterprise-Nutzer bei 205 US-Dollar, für Copilot dagegen bei 30 Dollar und für ChatGPT Enterprise bei 81 Dollar. Anthropic widerspricht und verweist auf durchschnittliche Kosten von unter 75 Dollar für Nutzer ohne Programmieraufgaben.",
+      "l": "Zur Einordnung: Es geht nicht um Listenpreise, sondern um die Frage, wie teuer der tägliche Einsatz der Modelle für Firmen ist, etwa über API-Gebühren und Rechenzeit. Die Zahlen sind parteiisch: Microsoft finanzierte die Studie und stellt Copilot günstiger dar. Anthropic sagt, die Methodik sei nicht offen gelegt.\n\nFür Unternehmen bleibt die Botschaft, dass sich Gesamtkosten stark nach Nutzerszenario unterscheiden, je nachdem wie häufig Modelle eingesetzt werden. Transparenz über Abrechnungsmodelle wird damit zum Auswahlkriterium. Am Montag sollen zudem vier aktiv gemanagte Fonds starten, die auf Anthropic-Aktien setzen.",
+      "src": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-morning-brief-22-nov-2026-musks-cash-warning-copilots-205/",
+      "unc": true
     },
     {
       "sub": "Forschung",
-      "h": "Lean-Community bestätigt Riemann-Beweis von Anthropic-Forscher und Claude",
-      "s": "Die Gemeinschaften hinter dem Beweisassistenten Lean und der Bibliothek Mathlib haben nach tagelanger Prüfung erklärt, sie hätten volle Zuversicht, dass der Beweis der Riemannschen Vermutung von Levent Alpöge mit Claude korrekt ist. Alle 175.187 Module kompilierten, die Kernprüfung wurde bestanden.",
-      "l": "Bislang bestand der Beweis aus rund 17 Millionen Zeilen Lean-Code, die die Mathematik formalisieren. Nach einem Tag automatisierter Prüfung - Übersetzen, Abgleich der Aussagen, Prüfung im Beweiskern - kamen die Freiwilligen der Lean- und Mathlib-Community nun zum Schluss, der Beweis sei korrekt; auch eine Prüfung am Massachusetts Institute of Technology bestätigte das Ergebnis.\n\nDie Riemannsche Vermutung gilt seit 1859 als wichtigste offene Frage der reinen Mathematik. Der Beweis ist der zweite binnen Wochenfrist, den ein KI-Unternehmen für sich beansprucht, nachdem OpenAI im Herbst einen Beweis zu Flüssigkeitsgleichungen gemeldet hatte. Alpöge hatte zuvor betont, dass die Lösung im Wechselspiel zwischen Mensch und Modell entstanden sei und nicht als Ergebnis einer alleinstehenden Maschine verstanden werden sollte.",
-      "src": "AI Weekly",
-      "t": "05:20",
-      "url": "https://aiweekly.co/ai-news-today"
+      "h": "OpenAI berichtet: KI-Modelle schreiben Circuit-Code für AMD-Chips",
+      "s": "OpenAI berichtet, seine Modelle hätten Circuit-Code für einen AMD-Grafikchip umgeschrieben und die Leistung um bis zu 14 Prozent verbessert. Ein Teil der Änderungen sei bereits in einem Design gelandet, das zur Fertigung eingereicht wurde. AMD selbst hat die Zahlen bislang nicht bestätigt.",
+      "l": "Zur Einordnung: Es geht um Beschreibungen von Chipschaltungen in der Hardware-Designsprache SystemVerilog, gemessen an stark optimierten Basisversionen. Verifizierungen durch Standard-Tools hätten bestätigt, dass sich das Verhalten der Schaltungen nicht änderte. OpenAI sagt, in weniger als fünf Monaten sei so etwa ein Jahr Entwicklungsfortschritt komprimiert worden.\n\nFalls sich die Angaben bestätigen, wäre es ein Novum, dass ein KI-Modell produktionsreife Chip-Logik beisteuert. Die Zahlen stammen aber allein von OpenAI, einen unabhängigen Nachweis gibt es noch nicht. Branchenkenner weisen darauf hin, dass Erfolge in der Chipindustrie stets von Fertigung und Tests abhängen.",
+      "src": "AIToolsRecap",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-november-22-2026",
+      "unc": true
     },
     {
-      "sub": "Sicherheit und Datenschutz",
-      "h": "Together AI nach Datenleck: Unbefugte lasen Kundensprachproben aus",
-      "s": "Der KI-Anbieter Together AI hat eingeräumt, dass ein KI-Coding-Agent ein Zugangsdatum für ein privates Hugging-Face-Repository öffentlich pushte. Unbefugte luden daraufhin Muster von Kundenanfragen an die Modelle MiniMax M3, GLM-5.2 und Kimi K2.6 herunter. Auch andere Anbieter waren betroffen.",
-      "l": "Die Offenlegung vom 21. November folgte einer Sicherheitsstudie des Unternehmens Dragos, das über Monate rund zwei Millionen markierte Testanfragen über KI-Dienste schickte. Dabei zeigte sich, dass mehrere Hosting-Anbieter Anfragen mitlasen oder Hinweise auf Null-Daten-Retention ignoreierten.\n\nAls Folge hat der Aggregator Openrouter drei Anbieter - Novita, Phala und Together - aus seinem Programm ausgeschlossen und 125 Endpunkte aus der Zero-Data-Retention-Berechtigung entfernt. Für Kunden ist der Fall ein Hinweis, sensible Eingaben über Konfigurationen zu schützen und Verträge mit Anbietern auf Datennutzung zu prüfen. Together AI erklärte, das Zugangsdatum sei gesperrt worden.",
-      "src": "AI Weekly",
-      "t": "05:20",
-      "url": "https://aiweekly.co/ai-news-today"
-    },
-    {
-      "sub": "Tools und Anwendungen",
-      "h": "Apple rollt Siri-KI-Funktionen aus und öffnet Drittanbieter-Programm",
-      "s": "Apple hat KI-Funktionen für Siri in acht eigenen Apps ausgerollt, darunter Kalender, Dateien, Mail, Karten und Nachrichten. Zugleich startet ein Entwicklervorschau-Programm, mit dem Drittanbieter App-Intents-Aktionen wie Liefer- und Reservierungsprüfungen anbieten können.",
-      "l": "Die Funktionen laufen nach Angaben des Unternehmens auf kompatiblen Geräten direkt auf dem Gerät. Ein begleitendes Developer-Preview-Programm ist auf ausgewählte Märkte beschränkt; Entwickler können mehrschrittige Aktionen, sogenannte App-Skills, anlegen, etwa Lieferstatus prüfen, Tische reservieren oder Bestellungen aufgeben.\n\nDer Schritt ist für Apple auch ein Abgrenzungsversuch gegenüber den großen Chatbot-Plattformen: Statt einer eigenen universalen Assistenten-App setzt Apple auf verteilte Funktionen in den System-Apps und auf Schnittstellen für Drittanbieter. Beobachter schauen nun, wie gut die Aktionen im Alltag funktionieren und wie schnell externe Apps nachziehen.",
-      "src": "AI Weekly",
-      "t": "05:20",
-      "url": "https://aiweekly.co/ai-news-today"
-    },
-    {
-      "sub": "Regulierung und Recht",
-      "h": "Disney, Universal und Warner wollen Quellcode von Midjourney v8 erzwingen",
-      "s": "Die Studios Disney, Universal und Warner Bros. haben in einem US-Gerichtsverfahren beantragt, dass Midjourney den vollständigen Quellcode seines Bildmodells v8 und eine interne Komponente herausgibt. Der Antrag wurde am 21. November mit einer Expertenerklärung hinterlegt.",
-      "l": "Die Studios wollen mit dem Zwangsantrag (Motion to Compel) nachweisen, wie genau das Bildmodell ihre geschützten Werke gelernt und reproduziert hat. Der Fall ist eines der zentralen Musterklagen zum Verhältnis von generativer KI und Urheberrecht in den USA.\n\nMidjourney kann dem Antrag widersprechen; das Gericht muss über die Offenlegung entscheiden. Beobachter erwarten, dass die Entscheidung auch für andere laufende Verfahren richtungsweisend ist, weil der Quellcode zeigen könnte, ob Trainingsdaten aus urheberrechtlich geschützten Werken stammen.",
-      "src": "AI Weekly",
-      "t": "05:20",
-      "url": "https://aiweekly.co/ai-news-today"
+      "sub": "Regulierung und Politik",
+      "h": "Signal will KI-Assistenten den Blick auf private Chats verwehren",
+      "s": "Signal reagiert darauf, dass eingebaute KI-Assistenten wie Siri AI und Gemini private Nachrichten vom Bildschirm ablesen können. Unter iOS 27 blockiert der Messenger standardmäßig Screenshots, auf Android aktiviert er bei erkanntem KI-Zugriff den Bildschirmschutz. Signal-Chefin Meredith Whittaker nennt solche Agenten eine existenzielle Bedrohung für den Datenschutz.",
+      "l": "Zur Technik: Ende-zu-Ende-Verschlüsselung schützt Nachrichten unterwegs. Sobald sie auf dem Display entschlüsselt erscheinen, können Assistenten mit Systemrechten den Inhalt abfotografieren und in Datenbanken oder an Servere weitergeben. Das betrifft auch Gesprächspartner, die selbst keinen Assistenten nutzen.\n\nDie Schutzmechanismen funktionieren nicht auf jedem Android-Gerät, und unter macOS 27 fehlt eine zuverlässige technische Sperre, dort empfiehlt Signal, den Messenger manuell von der Siri-Auswertung auszunehmen. Der Messenger fordert von Apple, Google und Microsoft Schnittstellen, mit denen Apps den Zugriff von KI-Agenten gezielt unterbinden können. Der Streit zeigt, wie Betreiber von Betriebssystemen und Datenschutzdienste aneinandergeraten.",
+      "src": "ComputerBase",
+      "url": "https://www.computerbase.de/news/apps/signal-gegen-ki-siri-und-gemini-sollen-chats-nicht-mitlesen.100446/"
     }
   ]
 }

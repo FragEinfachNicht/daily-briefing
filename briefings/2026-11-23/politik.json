@@ -2,45 +2,65 @@
   "items": [
     {
       "sub": "Weltgeschehen und Konflikte",
-      "h": "Russische Angriffe auf Region Kiew: Mindestens 14 Tote, Wohnhaus eingestürzt",
-      "s": "Bei russischen Nachtangriffen auf die Region Kiew sind mindestens 14 Menschen getötet worden. In Dymer, rund 45 Kilometer nördlich der Hauptstadt, traf ein Sprengkörper ein fünfgeschossiges Wohngebäude, das teilweise einstürzte. Rettungskräfte suchen nach eigenen Angaben noch nach Verschütteten. Präsident Selenskyj fordert die USA erneut auf, bereits bezahlte Patriot-Abwehrraketen freizugeben.",
-      "l": "In der Stadt Wyshnewe südwestlich von Kiew kamen drei Menschen ums Leben, als eine russische Drohne ein Lebensmittelgeschäft traf; 15 Personen wurden nach Angaben des Bürgermeisters verletzt. Ein weiterer Toter ist aus Bila Tserkva gemeldet worden, wo ein Wohnhaus in Brand geriet.\n\nSelenskyj teilte außerdem mit, Russland habe in der vergangenen Woche rund 2.700 Angriffsdrohnen, fast 1.460 gelenkte Fliegerbomben und 165 Raketen über der Ukraine eingesetzt, darunter viele ballistische Raketen, zum Teil aus nordkoreanischer Produktion. Die ukrainische Luftabwehr sei bei dieser Angriffsdichte chronisch unterversorgt. Die Partnerstaaten hätten die Patriot-Abfangraketen bereits über ein Nato-abgestimmtes Beschaffungsprogramm bezahlt, die Auslieferung stehe aber noch unter dem Vorbehalt der Freigabe durch die US-Regierung. Selenskyj nannte es deshalb besonders schwer verständlich, dass die Lieferung ballistischer Abwehrsysteme weiter verzögert wird.",
-      "src": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+      "h": "Nach russischem Drohnenangriff in Dymer werden 15 Menschen vermisst",
+      "s": "Bei einem russischen Drohnenangriff auf ein fünfstöckiges Wohnhaus in Dymer nordwestlich von Kiew werden 15 Menschen vermisst, darunter ein elfjähriges Mädchen und ein siebenjähriger Junge. Zwei Leichen wurden aus den Trümmern geborgen, mindestens vier Personen wurden verletzt. Die Rettungsarbeiten vor Ort dauern an.",
+      "l": "Dymer liegt rund 60 Kilometer nördlich von Kiew. Kurz zuvor hatte die Ukraine mitgeteilt, Russland habe von Donnerstagabend bis Freitagmorgen allein mehr als 400 Angriffsdrohnen und über 110 Raketen eingesetzt; in Kiew starben dabei mindestens sieben Menschen und zwei Brücken über den Dnipro wurden beschädigt. Vor Ort sind Notfallteams, Sozialdienste und Psychologen im Einsatz.\n\nSelenskyj zufolge feuerte Russland diese Woche rund 2.700 Drohnen, nahezu 1.460 Gleitbomben und 165 Raketen auf 20 ukrainische Regionen, darunter viele ballistische Raketen, auch nordkoreanischer Herkunft. Er forderte die Partner erneut auf, Abfangraketen schneller zu liefern und bereits bezahlte Systeme über die NATO-Initiative PURL freizugeben. Portugiesische Angaben bestätigen derweil, dass die Ukraine in der Nacht selbst Ziele in Russland angriff, unter anderem eine Nationalgardeeinrichtung bei Krasnodar.",
+      "src": "Euronews",
+      "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region",
+      "t": "12:20"
     },
     {
-      "sub": "Europa/EU",
-      "h": "Klimakonferenz COP31 gescheitert: Erstmals seit 2000 kein Abschlussbeschluss",
-      "s": "Die UN-Klimakonferenz in Antalya ist ohne Abschlussdokument zu Ende gegangen. Nach 44 Stunden Verlängerung lehnten EU, Großbritannien und weitere Staaten den Kompromisstext ab, weil er fossile Energien nicht mehr erwähnte. Konferenzpräsident Murat Kurum stellte das Scheitern der großen Abschlusserklärung fest. Offene Punkte wandern zur COP32 nach Addis Abeba.",
-      "l": "Der letzte Kompromissvorschlag der Präsidentschaft aus der Türkei und Australien sah die Formulierung vor, die 1,5-Grad-Grenze werde überschritten, verzichtete aber auf jede klare Benennung von Kohle, Öl und Gas als Hauptursache der Erwärmung und erwähnte die Dubai-Vereinbarung von 2023 zum Ausstieg aus fossilen Energien nur noch verschwommen. Für die EU-Ratspräsidentschaft sagte Irlands Klimaminister Darragh O'Brien im Plenum: \"Wir akzeptieren keine COP, die fossile Energien grünwäscht.\" Auch Panama, die Marshallinseln, Norwegen und kleine Inselstaaten wie Tuvalu lehnten den Text ab.\n\nKurum erklärte daraufhin, der sogenannte Antalya-Pakt und das Begleitdokument seien nicht angenommen, ein neuer Anlauf stehe nicht an. Es ist die erste Klimakonferenz seit der COP im Jahr 2000 in Den Haag, die ganz ohne Abschlussbeschluss endete, und zugleich die längste der Geschichte. UN-Generalsekretär António Guterres zeigte sich tief enttäuscht und warnte, jede Verzögerung mache Klimaschutz teurer und schwieriger. Die offenen Entscheidungen wandern nach Verfahrensregel 16 der Klimarahmenkonvention automatisch zur COP32 im November 2027 nach Addis Abeba.",
-      "src": "Health Policy Watch",
-      "t": "02:06",
-      "url": "https://healthpolicy-watch.news/cop31-consensus-collapse-at-climate-summit/"
+      "sub": "Klimapolitik",
+      "h": "COP31 in Antalya gescheitert: keine Abschlusserklärung",
+      "s": "Die Weltklimakonferenz in Antalya ist ohne Abschlusserklärung geendet. EU-Staaten, Panama und die Marshallinseln lehnten den Entwurf ab, weil er fossile Energien fast vollständig ausklammert. Konferenzpräsident Murat Kurum stellte klar, der Text sei niemandem aufgezwungen worden.",
+      "l": "Fast zwei Wochen tagten die Teilnehmer, am Ende ging es in die bislang längste Verlängerung einer Weltklimakonferenz mit mehr als 49 Stunden Ausschöpfung. Der von der türkisch-australischen Konferenzleitung vorgelegte „Antalya-Pakt“ enthielt kein ausdrückliches Bekenntnis zur Abkehr von Kohle, Öl und Gas, sondern nur einen Querverweis auf den gemeinsamen Beschluss von Dubai aus dem Jahr 2023.\n\nIrlands Umweltminister Darragh O'Brien erklärte im Namen der EU-Ratspräsidentschaft, man werde keine Erklärung unterstützen, in der fossile Brennstoffe nicht einmal erwähnt werden. Auch der deutsche Bundesumweltminister Carsten Schneider nannte den Entwurf für Deutschland nicht zustimmungsfähig. Bei rund 196 Teilnehmerstaaten wären Beschlüsse nur im Konsens möglich gewesen. Die Klimaschutzziele bleiben damit bis zur nächsten Verhandlungsrunde ungeregelt.",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
+      "t": "16:30"
     },
     {
       "sub": "Weltgeschehen und Konflikte",
-      "h": "Drohnenangriff in der Ostsee: Russischer Frachter „Sparta II“ brennt weiter",
-      "s": "Der unter russischer Flagge fahrende Frachter Sparta II brennt seit dem mutmaßlich ukrainischen Drohnenangriff am Samstag weiter; der Brand konnte nach Angaben der finnischen Küstenwache über die Nacht zum Sonntag nicht gelöscht werden. Das Schiff trieb in finnische Gewässer und wird inzwischen in Richtung russische Hoheitsgewässer geschleppt. Finnland und Estland warnen vor einer Ausweitung des Krieges auf die Ostsee.",
-      "l": "Die Sparta II fährt für ein russisches Militärlogistikunternehmen und war auf dem Weg nach Kaliningrad, als sie nach Angaben der finnischen Armee in der Finnischen Bucht vor der Insel Gogland von Drohnen getroffen wurde, in internationalen Gewässern. Beide Nato-Staaten Finnland und Estland wie auch Russland bestätigten den Angriff; die estnische Grenzschutzbehörde sprach von Hinweisen auf Explosionen an Bord. Die 16 Besatzungsmitglieder kamen auf ein anderes russisches Schiff in Sicherheit.\n\nSicherheitspolitisch wiegt der Vorfall schwer, weil er sich mitten in einer stark befahrenen Seezone unter den Augen zweier Nato-Länder ereignete. Finnlands Ministerpräsident Petteri Orpo schrieb: \"Der Krieg greift auf Gebiete in unserer Nachbarschaft über.\" Erläuterte aber auch, die Ukraine habe das Recht, gegen den Aggressor zu kämpfen. In Deutschland löst der Fall eine Debatte über den Schutz kritischer Infrastruktur und die angespannte Lage im Ostseeraum aus.",
-      "src": "ORF.at",
-      "t": "19:59",
-      "url": "https://orf.at/stories/3448934/"
+      "h": "Iran greift US-Basen in Bahrain an, Tanker in der Straße von Hormuz getroffen",
+      "s": "Iran hat in der Nacht zum Sonntag zwei Wellen von Drohnen und ballistischen Raketen auf vier US-Basen in Bahrain abgefeuert, wo sich das Hauptquartier der US-Fünften Flotte befindet. Zugleich wurden im Streitgebiet von Hormuz drei Öltanker von Projektilen getroffen. Bahrain meldete abgefangene Angriffe und ein Feuer auf einem zivilen Industriegrundstück, es gab keine Verletzten.",
+      "l": "Die iranische Revolutionsgarde behauptete, zwei Patriot-Batterien und ein Radarsystem zerstört zu haben, was Bahrain und das US-Militär nicht bestätigten. Bahrains Luftverteidigung sprach von einer „abscheulichen iranischen Aggression“ und meldete abgefangene Geschosse. Die Spannungen sind Teil einer wochenlangen Krise um die von den USA verhängte Marineblockade und das Sanktionssystem, das die iranische Wirtschaft belastet.\n\nDas britische Marine-Koordinationzentrum UKMTO meldete, zwei Tanker seien aus dem Persischen Golf auslaufend von Projektilen getroffen worden. Iranische Medien sprachen von einem Minentreffer auf einem dritten Tanker. Teherans Armeesprecher Mohammad Akraminia drohte, jeder neue Angriff werde entschieden und umgehend beantwortet und die Verteidigung des Landes nicht auf ein bestimmtes Gebiet begrenzt. Beobachter warnen vor einer Eskalationsspirale im Golf.",
+      "src": "Euronews",
+      "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+      "t": "22:32"
     },
     {
       "sub": "USA",
-      "h": "Demokraten sichern sich größte Mehrheit im US-Repräsentantenhaus seit 1992",
-      "s": "Nach den Zwischenwahlen kontrollieren die Demokraten laut am Sonntag veröffentlichter Zählung mit dem Gewinn eines Sitzes in North Carolina mindestens 258 der 435 Sitze im US-Repräsentantenhaus. Das ist die größte Mehrheit einer Partei seit 1992. Vier Rennen sind noch nicht entschieden.",
-      "l": "Die klare Mehrheit stärkt die Position der Demokraten gegenüber Präsident Donald Trump deutlich: Ausschüsse, Etatrechte und Kontrollbefugnisse gegen die Regierung liegen künftig bei der Opposition. Der Sitzgewinn in North Carolina rundete eine Reihe knapper Ergebnisse ab, die teils wochenlang ausgezählt worden waren.\n\nDie Partei nutzt den Schwung zugleich für den Blick nach vorn: In den USA diskutieren Demokraten bereits mögliche Kandidaturen für die Präsidentschaftswahl 2028. Innenpolitisch wächst derweil der Druck auf Fraktionschef Chuck Schumer, der die Demokraten seit 2017 im Senat führt und bei der Neuwahl der Führung mit einer Herausforderung durch Chris Van Hollen konfrontiert ist. Trump reagierte mit harscher Kritik und erklärte, mit Schumer lasse es sich sehr schwer zusammenarbeiten.",
+      "h": "US-Demokraten erreichen mit 258 Sitzen größte Mehrheit im Repräsentantenhaus seit 1992",
+      "s": "Nach einer Nachzählung in North Carolina erringt die Demokratische Partei mindestens 258 der 435 Sitze im US-Repräsentantenhaus, ihre größte Mehrheit seit 1992. In North Carolina setzte sich der Demokrat Chuck Hubbard knapp gegen die langjährige Republikanerin Virginia Foxx durch.",
+      "l": "Zur Entscheidung kam es nach einer Neuauszählung, bei der nur rund 330 Stimmen entschieden. Demokraten haben in diesem Wahljahr insgesamt rund 47 Sitze im Repräsentantenhaus gewonnen; im auslaufenden Kongress hielten sie noch 214. Im Senat werden sie künftig auf 56 der 100 Sitze kommen, ebenfalls ihre größte Mehrheit seit mehr als einem Jahrzehnt.\n\nDie Kongressmehrheit schränkt Präsident Donald Trump ein: Noch hat er ein Vetorecht, ohne dass die Demokraten es aushebeln können. Sie wollen sich dennoch schnell auf Gesetzesvorhaben und Haushalt verständigen, Sie rechnen mit Konflikten über Haushalt und Richtlinien. Politische Beobachter erwarten eine Welle von Kandidatenbewerbungen für die Präsidentschaftswahl 2028.",
       "src": "Al Jazeera",
-      "url": "https://www.aljazeera.com/tag/donald-trump/"
+      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat",
+      "t": "19:07"
     },
     {
       "sub": "Deutschland",
-      "h": "Justizministerin Hubig will Mordparagrafen bei Femiziden verschärfen",
-      "s": "Bundesjustizministerin Stefanie Hubig (SPD) will den Mordparagrafen im Strafgesetzbuch ändern. Künftig sollen geschlechtsspezifische oder sonst menschenverachtende Beweggründe ausdrücklich als Mordmerkmal genannt werden. Das berichtet die Bild am Sonntag. Hubig will damit Femizide eindeutig als Mord erfassen lassen.",
-      "l": "Der Vorstoß richtet sich auf Femizide, also die Tötung von Frauen, häufig durch Partner oder Ex-Partner. Der Mordparagraf nennt bereits besondere Verwerfungen und niedrige Beweggründe, für geschlechtsspezifische Motive fehlt bislang aber eine ausdrückliche Nennung.\n\nEin erweiterter Tatbestand soll solche Taten rechtlich klarer erfassen und Strafverfahren aus Sicht des Ministeriums erleichtern. Kritisch könnte die Abstimmung mit dem Koalitionspartner CDU/CSU werden. Details zu einem Gesetzentwurf stehen noch nicht fest; die Ministerin will das Vorhaben nach Angaben ihres Ministeriums in den kommenden Wochen auf den Weg bringen.",
-      "src": "AFP",
-      "unc": true
+      "h": "Justizministerin Hubig will Femizide künftig klar als Mord ahnden",
+      "s": "Bundesjustizministerin Stefanie Hubig hat einen Gesetzentwurf vorgelegt, der Femizide künftig eindeutig als Mord erfassen soll. Geschlechtsspezifische oder sonstige menschenverachtende Beweggründe sollen ausdrücklich als Mordmerkmale genannt werden. Der Entwurf soll bald in die Bundesregierung und dann in den Bundestag eingebracht werden.",
+      "l": "Heute können solche Taten bereits als Mord geahndet werden, etwa wenn niedrige Beweggründe nachgewiesen werden. Das gelingt aber nicht in jedem Fall; einer „Trennungstötung“ wird bei der Strafzumessung nicht immer Mordcharakter beigemessen. Genau hier setzt die Reform an. Einen eigenständigen Straftatbestand Femizid lehnt Hubig ab, weil er aus ihrer Sicht keine Vorteile gegenüber den geplanten Änderungen habe.\n\nGroße Studien zeigen, dass ein erheblicher Teil der Tötungen von Frauen in Deutschland Femizide sind und dass sie oft von aktuellen oder früheren Partnern begangen werden. Hubig betonte: „Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden.“ Die Opposition diskutiert die Ausgestaltung, für die Beratungen im Bundestag sind konkrete Termine geplant.",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+      "t": "13:00"
+    },
+    {
+      "sub": "Europa/EU",
+      "h": "Estland schließt am 1. Dezember die letzten Grenzübergänge zu Russland",
+      "s": "Estland schließt zum 1. Dezember die letzten drei Grenzübergänge zu Russland, darunter die Narva-Brücke. Vor der Frist bildeten sich lange Schlangen von Menschen, die zum letzten Mal Verwandte besuchen wollen. Zur Begründung verweist Tallinn auf einen mutmaßlichen versuchten Anschlag auf eine Drohnenfabrik nördlich der Hauptstadt.",
+      "l": "Bislang waren Narva, Luhamaa und Koidula für Fußgänger und offenbar auch Warenverkehr geöffnet. Der Fahrzeugübergang über Narva war von Russland bereits im Februar 2024 mit Verweis auf angebliche Renovierungsarbeiten ausgesetzt worden; Estland ordnete an, dass der Verkehr bis zum Ende des Ukraine-Kriegs unterbrochen bleibt. Mehrere europäische Länder, darunter Deutschland, beschuldigen Moskau, hinter Sabotageakten undhybriden Angriffen gegen Unterstützer der Ukraine zu stehen.\n\nDie estnische Polizei erklärt, die Schließungen würden es russischen Geheimdiensten schwerer machen, Menschen anzuwerben oder zu beeinflussen, und Sanktionsumgehungen behindern. Die Stadt Narva mit rund 50.000 Einwohnern ist mehrheitlich russischsprachig, viele Bewohner haben Verwandte auf der anderen Seite des Flusses. Familien befürchten künftig eine zeitaufwendige Einreise über Drittländer.",
+      "src": "n-tv",
+      "url": "https://www.n-tv.de/politik/Estlands-Grenzschliessung-trennt-Familien-id31564116.html",
+      "t": "14:50"
+    },
+    {
+      "sub": "Weltgeschehen und Konflikte",
+      "h": "Taiwan warnt Kanada vor engeren Handelsbeziehungen mit China",
+      "s": "Taiwans Vizeminister Chen Ming-chi hat den kanadischen Premier Mark Carney gewarnet, ein Ausbau der Handelsbeziehungen mit China bringe das Risiko wirtschaftlicher Nötigung. Peking nutze Abhängigkeiten gezielt für politische Ziele, sagte er der Nachrichtenagentur AP beim Halifax International Security Forum.",
+      "l": "Carney hatte zuvor gemahnt, dass große Mächte wirtschaftliche Verflechtung als Waffe nutzen, darunter diskutieren die USA mit Zöllen und China mit Beschränkungen bei kritischen Mineralien. Chen verwies auf Taiwans Erfahrungen: Der Anteil der Auslandsinvestitionen, die nach China flossen, sank von mehr als 80 Prozent im Jahr 2010 auf 3,8 Prozent im Vorjahr, der Exportanteil nach China und Hongkong von nahezu 44 Prozent 2020 auf rund 27 Prozent.\n\nZugleich warnte er, chinesische Elektroautos könnten kanadische Hersteller gefährden und stellen wegen ihrer vernetzten Technik auch ein Überwachungsrisiko dar. Er erinnerte an die Inhaftierung der beiden kanadäischen Staatsbürger Michael Kovrig und Michael Spavor während chinesisch-kanadischer Spannungen. Kanada sieht sein Handelsprofil mit China anders und exportiert dorthin vor allem Agrarprodukte und Energie.",
+      "src": "AP",
+      "t": "14:19"
     }
   ]
 }

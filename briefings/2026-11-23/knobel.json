@@ -2,15 +2,15 @@
   "items": [
     {
       "sub": "Logikrätsel",
-      "h": "Die drei falsch beschrifteten Kisten",
-      "s": "Vor dir stehen drei verschlossene Kisten. Eine enthält nur Äpfel, eine nur Birnen, eine Äpfel und Birnen. Alle drei Kisten sind falsch beschriftet: Die Aufschriften lauten Äpfel, Birnen und Äpfel und Birnen. Du darfst genau eine Frucht aus genau einer Kiste ziehen, ohne in die Kiste zu schauen. Wie findest du heraus, welche Kiste welchen Inhalt hat?",
-      "sol": "Ziehe eine Frucht aus der Kiste mit der Aufschrift Äpfel und Birnen. Sie kann definitionsgemäß keine Mischkiste sein, weil die Beschriftung falsch ist. Enthält sie einen Apfel, muss sie lauter Äpfel enthalten. Die Kiste mit der Aufschrift Birnen kann dann keine reine Birnenkiste sein und auch keine Apfelkiste, ist also die Mischkiste. Übrig bleibt als reine Birnenkiste die, auf der Äpfel steht. Enthält die gezogene Frucht hingegen eine Birne, ist es genau umgekehrt: Die gezogene Kiste ist die reine Birnenkiste, die Kiste mit der Aufschrift Äpfel die Mischkiste und die Kiste mit der Aufschrift Birnen die reine Apfelkiste."
+      "h": "Die drei Schachteln mit falschen Etiketten",
+      "s": "Drei Schachteln enthalten Münzen: eine nur Goldmünzen, eine nur Silbermünzen, eine eine Mischung aus beiden. Auf jeder Schachtel klebt ein Etikett, aber keines der Etiketten stimmt. Du darfst genau eine Münze aus einer einzigen Schachtel ziehen, ohne hineinzuschauen. Wie findest du heraus, was in welcher Schachtel liegt?",
+      "sol": "Ziehe eine Münze aus der Schachtel mit dem Etikett „Gemischt\u201c. Da alle Etiketten falsch sind, kann diese Schachtel nicht gemischt sein. Zeigst du eine Goldmünze, enthält sie nur Goldmünzen; zeigst du eine Silbermünze, nur Silbermünzen. Angenommen, es ist eine Goldmünze: Die Schachtel mit dem Etikett „Silber\u201c kann dann weder Silber- noch Goldmünzen enthalten, also ist sie die gemischte Schachtel. Die Schachtel mit dem Etikett „Gold\u201c enthält folglich nur Silbermünzen. Bei einer gezogenen Silbermünze ergibt sich die Lösung entsprechend spiegelbildlich."
     },
     {
       "sub": "Mathe und Zahlen",
-      "h": "Das Sparschwein, das jeden Tag doppelt so schnell wächst",
-      "s": "Amela wirft heute einen Cent in ihr Sparschwein und verspricht sich, jeden Tag exakt das Doppelte des Vortages einzuzahlen: 1 Cent, 2 Cent, 4 Cent und so weiter. An welchem Tag übersteigt ihre Einzahlung zum ersten Mal eine Million Euro?",
-      "sol": "Am n-ten Tag zahlt Amela 2 hoch (n minus 1) Cent ein. Eine Million Euro sind 100.000.000 Cent. 2 hoch 26 ist 67.108.864 Cent, also knapp 671.089 Euro, noch zu wenig. 2 hoch 27 ist 134.217.728 Cent, also rund 1.342.177 Euro. Da die Einzahlung am Tag 1 genau 1 Cent entspricht 2 hoch 0, ist der Zielwert 2 hoch 27 erst am 28. Tag erreicht: Am 28. Tag übersteigt ihre Einzahlung erstmals eine Million Euro."
+      "h": "Vater und Sohn im Altersverhältnis",
+      "s": "Ein Vater ist genau dreimal so alt wie sein Sohn. In zwölf Jahren wird er nur noch genau doppelt so alt sein wie sein Sohn. Wie alt sind Vater und Sohn heute?",
+      "sol": "Der Sohn ist 12 Jahre alt, der Vater 36. Prüfung: Heute ist der Vater 3 mal 12, also 36 Jahre alt und damit dreimal so alt wie der Sohn. In zwölf Jahren ist der Vater 48 und der Sohn 24, und 48 ist genau doppelt so viel wie 24. Die Bedingung ist also erfüllt."
     }
   ]
 }

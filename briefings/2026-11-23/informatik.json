@@ -2,45 +2,35 @@
   "items": [
     {
       "sub": "Sicherheit und Datenschutz",
-      "h": "Schwere Lücke in Linux-KVM: Gast-VM konnte Speicher des Wirts auslesen",
-      "s": "Eine Schwachstelle in KVM, dem Hypervisor im Linux-Kernel, erlaubte auf AMD-Hosts mit verschachtelter Virtualisierung, aus einer eigenen virtuellen Maschine Speicher des Hostsystems zu lesen. Forscher von Terra Security lasen so auf einem DigitalOcean-Server rund 127 Gigabyte. Korrigierte Kernel sind bereits verfügbar.",
-      "l": "Auf einem geteilten Host kann dieser Speicher virtuelle Maschinen anderer Kunden enthalten. Die Lücke ist als CVE-2026-99312 eingestuft und betrifft nur Hosts mit AMD-Prozessoren, auf denen verschachtelte Virtualisierung aktiviert ist. Der Forscher Oren Yomtov entdeckte sie über ein Bug-Bounty-Programm; die KVM-Entwickler wurden am 21. Oktober informiert und führten die Korrektur am 2. November in den Kernel ein.\n\nDer betroffene Cloud-Betreiber hat seine Flotte bereits mit einem Live-Patch versehen und teilte Kunden mit, dass sie nichts unternehmen müssen. Wer eigene KVM-Hosts auf AMD-Hardware betreibt, sollte den Host-Kernel aktualisieren oder die verschachtelte Virtualisierung abschalten. Für Angriffe aus dem Internet reicht die Lücke nicht aus, ein Angreifer braucht Kontrolle über eine Gast-VM auf dem Host. Nach Angaben der Forscher gibt es keine Hinweise auf Missbrauch außerhalb der Forschung.",
+      "h": "US-Behörde warnt: Cyberkriminelle nutzen kritische Lücken in Unternehmenssoftware",
+      "s": "Die US-Behörde CISA hat vier schwerwiegende Schwachstellen in ihre Liste ausgenutzter Lücken aufgenommen. Betroffen sind Apache Roller, Cisco Expressway, SAP NetWeaver und VMware vCenter. Drei der Lücken erreichen den höchsten Schweregrad, Angriffe sind nachweislich im Umlauf.",
+      "l": "Zur Einordnung: Am gravierendsten ist die Lücke in VMware vCenter: Ein Angreifer im Netzwerk kann sich ohne Anmeldung Zugriff auf das System verschaffen. Bei Cisco Expressway lässt sich die Anmeldung wegen fest einprogrammierter Zugangsdaten umgehen. Bei Apache Roller erlaubt eine Lücke die Ausführung fremden Codes über eine Schnittstelle, die vor der Anmeldung erreichbar ist.\n\nDer Betreiber von Apache Roller hat eingeräumt, dass die Lücke aktiv ausgenutzt wird. Fachleute raten, alle vier Produkte schnellstmöglich zu aktualisieren und die Systeme im Netzwerk vom Internet zu trennen. CISA verlangt von US-Behörden die Behebung binnen kurzer Frist, das Vorgehen gilt als verbindliche Orientierung auch für Unternehmen.",
       "src": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
-    },
-    {
-      "sub": "Sicherheit und Datenschutz",
-      "h": "NoisyTCP: Elf Jahre alter Linux-Kernel-Fehler erlaubt Fernabsturz von Servern",
-      "s": "Die Schwachstelle NoisyTCP (CVE-2026-99288) schlummerte elf Jahre im TCP-Code des Linux-Kernels. Ein nicht angemeldeter Angreifer kann unauthentifiziert über IP-Fragmente und TCP-Pakete eine Race Condition auslösen und Server zum Absturz bringen. Betroffen sind Standarddienste wie Nginx, Apache und SSH auf Maschinen mit mehreren Empfangswarteschlangen.",
-      "l": "Der Fehler wurde 2015 in den Kernel eingebaut und erst am 3. November 2026 korrigiert, der Reporter Hyunwoo Kim veröffentlichte seine Ausarbeitung nach Ablauf der Embargo-Frist. Ausgelöst wird der Fehler, wenn zwei CPUs gleichzeitig auf denselben Speicherbereich einer halboffenen Verbindung zugreifen; der Kernel stürzt dann mit einem Nullzeiger-Fehler ab.\n\nBesonders verwundbar sind Cloud- und virtualisierte Server: Auf QEMU- und KVM-Testsystemen genügte nach den Messungen des Forschers eine Zeit zwischen fünf Sekunden und zwei Minuten, auf ruhiger Bare-Metal-Hardware rund 14 Stunden. Ein volles Remote-Code-Execution-Szenario gelang nicht; der kommerzielle Schaden liegt in der Verfügbarkeit, weil ein abstürzender Container den ganzen Host mitreißen kann. Fast alle Linux-Distributionen haben die Korrektur inzwischen übernommen.",
-      "src": "Cyber Security News",
-      "t": "05:26",
-      "url": "https://cybersecuritynews.com/noisytcp-linux-kernel-vulnerability/"
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
     },
     {
       "sub": "Linux und Open Source",
-      "h": "Debian 13.8 bringt über 150 Sicherheitsupdates in einem Schwung",
-      "s": "Die Debian-Entwickler haben Version 13.8 ihrer Distribution veröffentlicht. Das Update bündelt rund 150 Sicherheitsaktualisierungen und mehr als 120 Fehlerkorrekturen. Bestehende Installationen lassen sich über das normale Paketmanagement aktualisieren; eine Neuinstallation ist nicht nötig.",
-      "l": "Die Punktversion ist Teil des regulären Zyklus der stabilen Distribution: Sicherheits- und Stabilitätskorrekturen werden gesammelt ausgeliefert, während die Basisversion gleich bleibt. Betroffen sind unter anderem Systembibliotheken und weit verbreitete Serverdienste.\n\nNeben Debian 13.8 erschienen in der Woche auch aktualisierte Versionen von Rocky Linux 10.3 und AlmaLinux 10.3, die als Enterprise-Nachfolger von Red Hat Enterprise Linux positioniert sind, sowie ein Notfall-Update von Tails 7.17.1, das wegen einer Sicherheitslücke die Erweiterung uBlock Origin entfernt. Microsoft gab außerdem Azure Linux 4 als produktionsreife Version frei.",
+      "h": "CachyOS bringt Anti-Cheat-Unterstützung und Recovery-System",
+      "s": "Die auf Geschwindigkeit ausgelegte Linux-Distribution CachyOS hat ihr November-Update veröffentlicht. Kern des Updates ist ein eigener Linux-Kernel, der die Systemanforderungen der Anti-Cheat-Software Easy Anti-Cheat erfüllt. Damit sollen mehr Spiele unter Linux lauffähig werden.",
+      "l": "Zur Technik: Easy Anti-Cheat prüft beim Spielstart viele Systemeigenschaften. Der neue Kernel linux-cachyos-eac arbeitet mit Secure Boot, TPM 2.0 und Kernel Lockdown zusammen und erhält einen eigenen Eintrag im Bootmenü. Nutzer können darüber bestimmen, mit welchem Kernel das System startet, Garantien, dass jedes Spiel läuft, gibt es trotzdem nicht.\n\nZusätzlich bringt das Update ein eigenständiges Wiederherstellungssystem namens cachyos-recovery, das direkt vom Bootloader startet. Es kann verschlüsselte Systeme bearbeiten und aus Snapshots wiederherstellen. Auch der Paketinstaller wurde überarbeitet und zeigt vor der Installation von AUR-Paketen konkrete Vorschau mit statischer Analyse auf verdächtige Zeilen.",
       "src": "Linuxiac",
-      "t": "23:55",
-      "url": "https://linuxiac.com/linuxiac-weekly-wrap-up-week-47-2026-november-16-22/"
+      "url": "https://linuxiac.com/cachyos-november-2026-release-adds-easy-anti-cheat-support/"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "Berichte: Samsung und TSMC stoppen teilweise Chip-Lieferungen nach China",
+      "s": "Nach Berichten mehrerer südkoreanischer und asiatischer Medien haben Samsung Electronics und TSMC einen Teil ihrer Lieferungen nach China gestoppt. Grund sind verschärfte US-Exportkontrollen für leistungsfähige Chips. Für die Smartphone-Produktion in China besteht laut Berichten Verlangsamungsgefahr.",
+      "l": "Zur Einordnung: Die US-Behörde für Exportkontrolle hat die Regeln für KI-Chips zuletzt verschärft. Bei Samsung soll es um fortgeschrittene KI-Chips gehen. Konkrete Zahlen zum Umfang des Stopps sind derzeit nicht öffentlich. Weder Samsung noch TSMC haben die Berichte bestätigt.\n\nDie Auswirkungen treffen die chinesische Elektronikindustrie, aber auch eigene Konzernstandorte in China, wenn Vorgänge stocken. Beobachter rechnen damit, dass chinesische Hersteller ihre Beschaffung diversifizieren oder eigene Chips entwickeln. Wie sich die US-Politik nach den Midterms weiterentwickelt, ist offen.",
+      "src": "Seoul Economic Daily lt. Medienberichten",
+      "unc": true
     },
     {
       "sub": "Software und Entwicklung",
-      "h": "PHP 8.6 erschienen: Partielle Funktionsanwendung und neue Polling-API",
-      "s": "Die Skriptsprache PHP ist in Version 8.6 erschienen. Zentrale Neuerungen sind partielle Funktionsanwendung im Sprachkern und eine neue Polling-API für effizientere Ein- und Ausgabe. Parallel wurden Patches für 18 Sicherheitslücken veröffentlicht, darunter eine Remote-Code-Execution-Schwachstelle.",
-      "l": "Partielle Funktionsanwendung erlaubt es, Funktionen mit Festwert auszustatten und so wiederverwendbare Bausteine zu erzeugen, was viele Bibliotheken bisher über Umwege abbildeten. Die neue Polling-API soll blockierende I/O-Operationen verringern und Anwendungen unter Last schneller machen.\n\nFür Betreiber wichtiger ist die Sicherheitsseite: Im November-Update wurden 18 Schwachstellen geschlossen, unter anderem eine Remote-Code-Execution-Lücke im Session-Upload-Progress-Mechanismus (CVE-2026-115560). Administratoren sollten die Updates zeitnah einspielen. Auch WebDriver- und Paket-Projekte wie Wireshark 4.6.10 (39 Sicherheitskorrekturen) und ClamAV 1.5.5 (10 Lücken) erhalten diese Woche technische Aktualisierungen.",
-      "src": "Linuxiac",
-      "url": "https://linuxiac.com/linuxiac-weekly-wrap-up-week-47-2026-november-16-22/"
-    },
-    {
-      "sub": "Netzwerke und Internet",
-      "h": "Hackers leak data on 16,000 Visa, Mastercard & JPMorgan customers",
-      "s": "Hacker haben Daten von rund 16.000 Kunden von Visa, Mastercard und der US-Bank JPMorgan veröffentlicht. Das meldete der Nachrichtensender Euronews unter Berufung auf Ermittler. Zu Umfang, Herkunft und Verantwortlichen gibt es noch keine unabhängige Bestätigung.",
-      "l": "Nach ersten Angaben wurden Kunden- und Transaktionsdaten in Umlauf gebracht; unklar ist noch, ob es sich um einen Datenabfluss oder einen Hackerangriff handelt. Die Unternehmen sollen die betroffenen Kunden informieren.\n\nDer Fall reiht sich in eine Häufung von Cyberanschlägen auf Finanzdienstleister dar. Sicherheitsexperten raten Betroffenen, Zahlungsabgaben zu kontrollieren und Konto-Zugangsdaten zu ändern.",
-      "src": "Euronews",
-      "unc": true
+      "h": "IT-Störung bei Delta: Rund 1.250 Flüge verspätet",
+      "s": "Bei der Fluglinie Delta hat am Sonntag ein Problem im automatisiertem System für die Berechnung von Gewicht und Trimmen der Flugzeuge zu landesweiten Verspätungen geführt. Am Abend waren zeitweise rund 1.250 Flüge verspätet, ein Großteil davon entfiel auf Delta. Die Störung sei inzwischen behoben.",
+      "l": "Zur Technik: Vor jedem Start müssen Fluggesellschaften berechnen, wie das Gewicht der Passagiere, des Gepäcks und des Treibstoffs verteilt ist. Delta berechnet das automatisiert. Muss dies manuell geschehen, dauert der Ablauf länger und der Flugplan verschiebt sich.\n\nDer Vorfall fällt in die Zeit des großangelegten Thanksgiving-Reiseverkehrs in den USA, was die Wartezeit vergrößerte. Delta gab an, rund 70 Prozent der Störungen gingen auf das Automatisierungssystem zurück, der Rest auf Unwetter. Auch zeitweise Startstopps in Atlanta wurden gemeldet. Passagiere mussten teilweise mit Verspätungen von mehreren Stunden rechnen.",
+      "src": "Atlanta News First",
+      "url": "https://www.atlantanewsfirst.com/2026/11/22/ground-stop-issued-delta-flights-en-route-atlanta/"
     }
   ]
 }

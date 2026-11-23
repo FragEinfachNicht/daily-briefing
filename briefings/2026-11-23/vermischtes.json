@@ -1,34 +1,28 @@
 {
   "items": [
     {
-      "sub": "Kurioses",
-      "h": "Mann mit Alzheimer nach elf Tagen im brasilianischen Regenwald lebend gefunden",
-      "s": "In Brasilien ist ein 74-jähriger Mann mit Alzheimer-Krankheit nach elf Tagen im Amazonas-Regenwald lebend gefunden worden. Er hatte sich von wilden Früchten ernährt und auf Blättern geschlafen. Retter fanden ihn rund zehn Kilometer von der Stelle entfernt, an der er verschwunden war.",
-      "l": "Der frühere Goldsucher Ferreira dos Santos kannte die Gegend gut. Seine Enkelin hatte über soziale Medien um Unterstützung gebeten, kurz bevor die Suche eigentlich beendet werden sollte. Aufnahmen zeigen den Mann Desorientiert auf einer Trage; er wurde in ein Krankenhaus gebracht.\n\nSuchtrupps berichteten, sie hätten aus Palmenblättern gebaute Schlafplätze und im Kreis laufende Fußspuren gefunden. Der Fall sorgte in Brasilien für Aufmerksamkeit, weil der Rentner in dichtem Dschungel ohne Vorräte überlebte.",
-      "src": "AFP",
-      "t": "00:16"
-    },
-    {
-      "sub": "Sport",
-      "h": "Verstappen gewinnt Formel-1-Rennen in Las Vegas",
-      "s": "Max Verstappen hat den Großen Preis von Las Vegas gewonnen. Das meldete die Süddeutsche Zeitung in ihrem Abendüberblick vom Samstag. Weitere Details liefert der Rennbericht der Zeitung.",
-      "src": "Süddeutsche Zeitung",
-      "t": "18:27",
-      "url": "https://www.sueddeutsche.de/politik/news-cop26-ostsee-soeder-li.3584381"
-    },
-    {
-      "sub": "Gesellschaft",
-      "h": "Prinzessin Kate spricht in TV-Doku über ihre Krebserkrankung",
-      "s": "Rund zwei Jahre nach ihrer überstandenen Krebserkrankung spricht die britische Prinzessin Kate in einer Fernsehdokumentation über die Krankheit und ihre Genesung. Der Film mit dem Titel Heal, zu Deutsch Heilen, wird am 29. November von der BBC ausgestrahlt. Das teilte der Kensington-Palast am Samstag mit.",
-      "src": "AFP"
+      "sub": "Weltgeschehen",
+      "h": "Brand in indonesischer Süßwarenfabrik: Dutzende Tote befürchtet",
+      "s": "Bei einem Feuer in einer Süßwarenfabrik in Cikande rund 50 Kilometer westlich von Jakarta sind mindestens drei Menschen gestorben, 32 weitere werden vermisst. Etwa 60 Menschen sollen sich bei Ausbruch des Brandes im Gebäude aufgehalten haben, 29 überlebten. Erschwert wird die Suche durch eingestürzte Gebäudeteile.",
+      "l": "Rettungskräfte trugen laut Polizei bereits 24 Leichensäcke aus der Ruine, in den meisten befanden sich nur einzelne menschliche Überreste, die nur mit DNA-Analysen identifiziert werden können. Mehrere Verletzte werden in Krankenhäusern behandelt.\n\nDie Ursache ist noch unklar, die Ermittlungen laufen. In Indonesien kommt es immer wieder zu tödlichen Brandkatastrophen, erst im Dezember vergangenen Jahres starben bei einem Bürobrand in Jakarta mindestens 22 Menschen. Die Behörden prüfen nun, wie Baustandards und Brandschutz in Fabriken besser durchgesetzt werden können."
     },
     {
       "sub": "Kurioses",
-      "h": "Trumps Thanksgiving-Truthähne ziehen ins Luxushotel ein",
-      "s": "Die beiden Truthähne, die Präsident Donald Trump an Thanksgiving begnadigen soll, sind am Sonntag im Luxushotel Willard InterContinental in Washington eingezogen. Das US-Landwirtschaftsministerium feierte sie auf X als sehr besondere Gäste, die Geschichte der Zeremonie reicht bis 1947 zurück.",
-      "src": "Fox News",
-      "t": "04:57",
-      "unc": true
+      "h": "Costa-Concordia-Kapitän Schettino nach über neun Jahren Haft auf Bewährung frei",
+      "s": "Francesco Schettino, Kapitän des 2012 havarierten Kreuzfahrtschiffs Costa Concordia, ist nach mehr als neun Jahren Haft auf Bewährung aus dem römischen Gefängnis Rebibbia entlassen worden. Das römische Überwachungsgericht genehmigte die Alternative zur Haft. Die Havarie hatte 32 Menschen das Leben gekostet.",
+      "l": "Zur Erinnerung: Im Januar 2012 war die Costa Concordia vor der Insel Giglio auf Felsen gelaufen und gekentert, 32 Menschen starben. Schettino war 2015 zu 16 Jahren Haft verurteilt worden, das Urteil wurde 2017 letztinstanzlich bestätigt. Ihm wurde unter anderem vorgeworfen, das sinkende Schiff zu früh verlassen zu haben.\n\nSeine Anwältin begrüßte die Entscheidung und verwies auf eine sehr positive Beurteilung im Vollzugsprogramm. Für die Angehörigen der Opfer sind die Bilder des Kapitäns, das Schiff vorzeitig zu verlassen, bis heute präsent. Die Bewährungsauflagen gelten für einen Übergangszeitraum."
+    },
+    {
+      "sub": "Weltgeschehen",
+      "h": "Nach Drohnenangriff auf russischen Frachter in der Ostsee laufen Bergungsarbeiten",
+      "s": "Vor Finnland ist der russische Frachter Sparta II am Samstagmorgen von Drohnen getroffen worden und in Brand geraten, wie das Verteidigungsministerium in Helsinki mitteilte. Der Vorfall geschah in internationalen Gewässern des Finnischen Meerbusens. Finnland schickte Seenotretter zum Schiff.",
+      "l": "Finnlands Ministerpräsident Petteri Orpo deutete an, dass es sich um einen ukrainischen Angriff gehandelt haben könnte; Kiew habe das Recht, sich zu verteidigen. Eine Stellungnahme der Ukraine gab es zunächst nicht. Der Frachter steht laut EU-Listen unter Sanktionen.\n\nNach dem Angriff trieb das brennende Schiff in Richtung finnischer Gewässer, am Nachmittag meldete Finnland zudem eine Luftraumverletzung durch einen russischen Hubschrauber. Berichten zufolge soll die Sparta II zunächst in Sicherheit geschleppt werden. Der Vorfall zeigt, wie sich der Russland-Ukraine-Krieg auf die Ostsee ausweitet."
+    },
+    {
+      "sub": "Weltgeschehen",
+      "h": "Mutmaßlicher ukrainischer Drohnenangriff auf russisches Kriegsschiff in Bengasi",
+      "s": "Im libyschen Bengasi ist ein russisches Kriegsschiff von mutmaßlichen ukrainischen See-Drohnen getroffen worden. Die Fregatte Merkury wurde nach Angaben zweier libyscher Militäroffiziere schwer beschädigt und ein Feuer ausgelöst. Mehrere Drohnen seien abgefangen worden, zwei hätten das Schiff getroffen.",
+      "l": "Die Offiziere gehörten der Libyschen Nationalarmee an, die den Osten des Landes kontrolliert, und sprachen unter anonymen Bedingungen. Satellitenbilder zeigten laut CBS-Partner BBC ein brennendes Boot im Hafen, Stunden später lag es teilweise unter Wasser. Wer für den Angriff verantwortlich ist, blieb zunächst offen, eine Bestätigung aus Kiew gab es nicht.\n\nLibyen ist seit Jahren in einen Machtkampf zwischen konkurrierenden Regierungen im Osten und Westen des Landes gespalten; russische Kräfte sind in der Region präsent. Der Vorfall ist ein weiteres Zeichen, dass sich der Russland-Ukraine-Krieg geografisch ausweitet."
     }
   ]
 }

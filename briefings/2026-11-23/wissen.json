@@ -1,24 +1,28 @@
 {
   "items": [
     {
-      "sub": "Körper",
-      "h": "Das Gehirn wiegt wenig, verbraucht aber ein Fünftel der Energie",
-      "s": "Das menschliche Gehirn macht nur rund zwei Prozent des Körpergewichts aus, verbraucht aber etwa 20 Prozent des Grundumsatzes. Der hohe Verbrauch entsteht vor allem durch die ständige Signalübertragung zwischen den rund 86 Milliarden Nervenzellen."
-    },
-    {
-      "sub": "Astronomie",
-      "h": "Neptun wurde 1846 am Schreibtisch entdeckt, bevor ihn ein Teleskop fand",
-      "s": "Neptun ist der erste Planet, der mit Mathematik gefunden wurde, bevor ihn jemand gezielt beobachtete. Urbain Le Verrier berechnete 1846 aus Störungen der Uranusbahn die Position eines unbekannten Planeten. Johann Gottfried Galle fand ihn am Berliner Observatorium in derselben Nacht in unmittelbarer Nähe der berechneten Stelle."
-    },
-    {
       "sub": "Natur",
-      "h": "Eine Wanze in China lebt ungestört im Netz ihrer Fressfeindin",
-      "s": "In China haben Forscher eine winzige Wanzenart dokumentiert, die dauerhaft im Netz einer Spinne lebt. Sie frisst dort die Insektenreste von den erbeuteten Tieren der Spinne und wird von ihr nicht attackiert. Den Vorteil der Tarnung erkauft sich die Wanze offenbar mit einem unauffälligen Leben direkt neben der Jägerin."
+      "h": "Kraken haben drei Herzen und blaues Blut",
+      "s": "Kraken besitzen drei Herzen und bläuliches Blut. Zwei der Herzen pumpen Blut durch die Kiemen, das dritte Herz versorgt den übrigen Körper. Ihr Blut enthält statt Hämoglobin den Kupferfarbstoff Hämocyanin, der Sauerstoff bindet und blau färbt.",
+      "l": "Das System hat eine Besonderheit: Das Herz, das den Körper versorgt, steht beim Schwimmen still. Deshalb ziehen sich Kraken im Freiwasser lieber kriechend fort, das ist für ihr Kreislaufsystem schonender als Schwimmen.\n\nHämocyanin arbeitet anders als das eisenhaltige Hämoglobin der Wirbeltiere und ist an Kälte angepasst, was im kühlen Tiefseewasser vorteilhaft ist. Beim Einatmen wird der Kiensauerstoff über die zwei Herzpaare aufgenommen. Bei drei Herzen und blauem Blut ist der Krake damit eine der ungewöhnlichen Blaupausen des Tierreichs."
     },
     {
       "sub": "Alltag",
-      "h": "Abgekühlte Kartoffeln und Reis lassen den Blutzucker langsamer steigen",
-      "s": "Kartoffeln, Reis oder Brot, die nach dem Kochen abgekühlt und wieder erwärmt wurden, lassen den Blutzucker schwächer ansteigen als frisch zubereitete. Der Grund ist die sogenannte resistente Stärke, die beim Abkühlen entsteht und im Dünndarm langsamer verdaut wird. Der Effekt bleibt beim erneuten Erwärmen weitgehend erhalten."
+      "h": "Honig verdirbt praktisch nie",
+      "s": "Honig ist praktisch unverderblich. Mit einem Zuckeranteil von rund 80 Prozent und sehr wenig Wasser entzieht er Mikroorganismen die Lebensgrundlage. Archäologen fanden in über 3.000 Jahre alten ägyptischen Grabkammern Honig, der noch genießbar gewesen sein soll.",
+      "l": "Verdickter oder auskristallisierter Honig ist aber kein Zeichen für Verderb, sondern ein physikalischer Vorgang, der sich durch vorsichtiges Erwärmen leicht rückgängig machen lässt. Wichtig ist trockene Lagerung, denn wenn Wasser hineingelangt, können Gärprozesse beginnen.\n\nFür die Haltbarkeit sind auch der niedrige pH-Wert und antimikrobielle Stoffe verantwortlich, die Bienen in den Honig einbringen. Auf Küchentischen bleibt Honig deshalb lange haltbar, ohne Kühlung, im Gegensatz zu den meisten Lebensmitteln."
+    },
+    {
+      "sub": "Technik",
+      "h": "Der Eiffelturm wird im Sommer höher",
+      "s": "Der Eiffelturm in Paris ist im Sommer bis zu 15 Zentimeter höher als im Winter. Beim Erwärmen dehnen sich die Metallträger aus, der Turm wächst sichtbar. Umgekehrt zieht er sich bei Kälte wieder zusammen.",
+      "l": "Der Effekt zeigt, wie empfindlich Stahlkonstruktionen auf Temperatur reagieren: Bei Hitze dehnen sich die Metallträger spürbar aus, der Turm wächst messbar. Im Winter zieht sich die Konstruktion wieder zusammen, dann ist er niedriger.\n\nDer Turm besteht aus rund 7.300 Tonnen Eisen und wurde für die Weltausstellung 1889 errichtet. Wegen seiner Höhe musste ohnehin mit Temperaturwechseln gerechnet werden. Solche Bewegungen sind bei allen großen Stahlbauten üblich, von Brücken bis zu Kirchtürmen."
+    },
+    {
+      "sub": "Natur",
+      "h": "Bananen sind Beeren, Erdbeeren nicht",
+      "s": "Botanisch gesehen zählt die Banane zu den Beeren, die Erdbeere dagegen nicht. Beeren entstehen aus einer einzelnen Blüte mit einem Fruchtknoten, während die Erdbeere eine Sammel NUSS FRUCHT ist, deren eigentliche Früchte die kleinen Nüsschen auf der Rotfläche sind.",
+      "l": "Damit ist umgekehrt der Satz, die Erdbeere sei eine Beere, ein verbreiteter Irrtum. Die rote Fläche ist eine Blütenachse, auf der viele kleine Nüsschen sitzen. Zitronen, Kürbisse oder Wassermelonen gelten dagegen botanisch als Beeren.\n\nDie Banane wiederum entsteht aus einer einzigen Blüte mit unterständigem Fruchtknoten, erfüllt also die Definition der Beere. In der Küche spielen solche Unterscheidungen keine Rolle, aber sie zeigen, wie Alltagssprache und Botanik auseinandergehen können."
     }
   ]
 }
