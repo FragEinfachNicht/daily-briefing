@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "sub": "Software und Entwicklung",
+      "h": "CrowdStrike kauft Zscaler für rund 44 Milliarden US-Dollar",
+      "s": "Der US-Sicherheitsanbieter CrowdStrike kauft das Cloud-Sicherheitsunternehmen Zscaler in einem reinen Aktiendeal im Wert von rund 43,9 Milliarden US-Dollar. Die Unternehmen erklärten das am Montag. Es ist eine der größten Übernahmen in der Cybersecurity-Branche, die nach einer Reihe schwerer Hackerangriffe auf Banken und Supermarktketten in den USA geschlossen wird.",
+      "l": "Beide Firmen sind in ihren Bereichen Marktführer: CrowdStrike ist vor allem für Schutz von Firmencomputern bekannt, Zscaler für die Absicherung von Cloud-Diensten und Netzwerkverbindungen. Die Übernahme soll nach Angaben der Unternehmen die Produkte zusammenführen und Kunden eine Plattform aus einer Hand bieten.\n\nAm Markt sorgte der Kurs für Aufsehen: CrowdStrike verlor 7,4 Prozent, Zscaler gewann 18,6 Prozent. Analyst Dan Ives von Yorkville Ives sprach vom deutlichsten Signal, dass die Cybersecurity-Branche zu einer Handvoll Plattformen konsolidiert wird: Im Zeitalter der künstlichen Intelligenz zwinge der Markt Anbieter, die bisher nur kooperierten, zur Fusion. Beobachter rechnen mit einer längeren Kartellprüfung in den USA und Europa, da die Sparte Cybersicherheit bereits von wenigen Großanbietern dominiert wird.",
+      "src": "AP",
+      "url": "https://apnews.com/article/crowdstrike-zscaler-cybersecurity-ai-artificial-intelligence-cf5a66aaa14f98763eabfb767ff8727c",
+      "t": "14:05"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Datenleck bei der EU-Akademie nach KI-gestütztem Cyberangriff",
+      "s": "Die EU-Kommission hat Nutzer der Website EU-Akademie über ein Datenleck informiert. Personendaten seien bei einem großen, mit Unterstützung künstlicher Intelligenz durchgeführten Cyberangriff abgeflossen, der bereits im vergangenen Monat gegen die EU-Institution gestartet worden war, teilte die Kommission am Montag mit.",
+      "l": "Die EU-Akademie ist eine Lernplattform der Kommission, auf der sich Beschäftigte und externe Nutzer weiterbilden. Welche Daten genau betroffen sind und wie viele Nutzer infrage kommen, ließ die Kommission zunächst offen. Betroffene wurden darüber informiert, welche Schritte zu ihrem eigenen Schutz sinnvoll sind.\n\nDer Fall zeigt, dass auch EU-Institutionen Zielscheiben von hochgradig automatisierten Angriffen geworden sind. IT-Sicherheitsforscher haben in den vergangenen Monaten warnend darauf verwiesen, dass KI-Werkzeuge es Angreifern erleichtern, Phishing-Nachrichten zu personalisieren und Sicherheitslücken in größeren Mengen auszuprobieren. Ob hinter dem Angriff kriminelle Gruppen oder staatliche Akteure stecken, war zunächst nicht bekannt.",
+      "src": "AP",
+      "url": "https://apnews.com/article/european-commission-cyberattack-website-artex-ai-02e1f69e46ad9f82484b66b2f86df53b",
+      "t": "14:24"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "Nvidia holt Jensen Huang als CEO zurück, Trump meldet direkten Einfluss an",
+      "s": "Der Chiphersteller Nvidia hat Jensen Huang mit sofortiger Wirkung wieder als Vorstandsvorsitzenden eingesetzt. Der Vorstand stimmte dem einstimmig zu. Trump sagte, die Entscheidung sei seinem eigenen Kontakt mit Nvidias Aufsichtsrat gefolgt, und nannte sie richtig und angemessen: „Das Land braucht Jensens Führung“, schrieb er.",
+      "l": "Huang war vor rund zwei Wochen zurückgetreten, nachdem er außereheliche Verhältnisse eingestanden hatte, darunter mit der chinesischen Geschäftsfrau Alice Huang, die US-Nachrichtendienste als mögliche Spionin einstufen. Nvidia hatte sein Angebot einer Rückkehr zunächst abgelehnt; erst jetzt zeigte sich der Vorstand mit Huangs Offenheit zufrieden. Huang selbst erklärte, er übernehme die Aufgabe mit großer Demut und könne es kaum erwarten, wieder an die Arbeit zu gehen.\n\nFür die Chipbranche ist der Wechsel mehr als eine Personalie: Die Trump-Regierung hatte im November verschärfte Exportkontrollen für KI-Chips eingeführt, die chinesischen Unternehmen den Fernzugriff auf Nvidias Technik erschweren sollen. Zuletzt hatte Nvidia am 18. November Quartalszahlen vorgelegt, deren Umsatz sich auf mehr als 115 Milliarden Dollar verdoppelt hatte, bei einem Netto-Gewinn von 65,3 Milliarden Dollar. Demokratische Abgeordnete kritisierten die Rückholung des CEOs als Beweis dafür, dass mächtige Konzernlenker unter den Regeln stünden.",
+      "src": "AP",
+      "url": "https://apnews.com/article/nvidia-jensen-huang-39d4b34ffaa867b4e669893b5fd5028f",
+      "t": "15:02"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "Drohschreiben gegen hunderte Schulen: Behörden sehen keine ernsthafte Gefahr",
+      "s": "Rund 450 Schulen in Deutschland haben zum Wochenbeginn Drohnachrichten per E-Mail erhalten. Bund und Länder sehen derzeit keine ernsthafte Bedrohung. Eine ähnliche Welle hatte zuvor Schulen in Italien, Großbritannien und Irland getroffen, am Montag wurden auch aus Dänemark Drohschreiben gemeldet.",
+      "l": "Die Mails erreichten Einrichtungen in mehreren Bundesländern; einzelne Schulen reagierten mit Kontrollen oder zeitweisen Evakuierungen. Die Sicherheitsbehörden untersuchen, ob ein europäischer Zusammenhang besteht, denn in Italien hatten Mitte November besonders viele Schulen Drohschreiben erhalten, danach betroffen waren Großbritannien, Irland und nun auch Dänemark.\n\nFür die IT-Verantwortlichen der Länder zeigt der Vorfall, dass Massen-E-Mails mit geringem Aufwand erhebliche Unruhe auslösen können. Empfehlungen lauten, Filterregeln zu schärfen, Vorfälle zentral zu melden und auf bestehende Notfallpläne zu setzen. Zu den Absendern und deren Motiven gab es zunächst keine Angaben.",
+      "src": "AFP",
+      "t": "12:37"
+    }
+  ]
+}

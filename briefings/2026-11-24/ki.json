@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "sub": "Regulierung und Politik",
+      "h": "UN-Generalsekretär fordert binnen Jahresfrist ein Risikomanagement für KI",
+      "s": "UN-Generalsekretär António Guterres hat die Staaten aufgefordert, binnen eines Jahres einen internationalen Rahmen zur Begrenzung der Risiken künstlicher Intelligenz zu vereinbaren. Als ersten Schritt schlägt er gemeinsame Sicherheitsmaßnahmen, ein Bewertungssystem und Mindestanforderungen für unabhängige Kontrolle vor.",
+      "l": "Guterres stellte seine Forderung am Montag auf. Eine internationale Regulierung von KI gestaltet sich in der Praxis schwierig, weil die USA und China in der Forschung und Entwicklung um die Führung konkurrieren und sich bisher nur vereinzelt auf Standards verständigt haben. Die Vereinten Nationen sehen daher vor allem in vereinbarten Mindeststandards und unabhängiger Kontrolle einen realistischen Ansatz.\n\nWichtig war schon ein Gipfel wenige Monate zuvor: Im September hatten sich unter anderem Anthropic-Chef Dario Amodei, OpenAI-Boss Sam Altman und Elon Musk in New York ausgetauscht. Ob die Mitgliedstaaten den Zeitplan von zwölf Monaten tragen, gilt als unsicher; frühere Initiativen der Vereinten Nationen zu KI blieben überwiegend Abschlusserklärungen ohne bindende Wirkung.",
+      "src": "AFP",
+      "t": "20:02"
+    },
+    {
+      "sub": "Regulierung und Politik",
+      "h": "US-Bundesstaaten verklagen Musks Konzern wegen Grok-Bildern",
+      "s": "Mindestens zwei US-Bundesstaaten haben am Montag Klagen gegen Elon Musks Unternehmen eingereicht. Den Klagen zufolge haben die Betreiber die Entwicklung des KI-Chatbots Grok ohne ausreichende Schutzmaßnahmen vorangetrieben, wodurch eine Flut sexualisierter Bilder, teils ohne Einwilligung der Abgebildeten, entstehen konnte. Malaysia und Indonesien hatten deshalb zeitweise Verbote verhängt.",
+      "l": "Die beiden demokratischen Generalstaatsanwälte argumentieren, dass Konsumenten Schaden genommen haben, weil das Unternehmen auf praktisch alle Schutzvorkehrungen verzichtet hatte, als es Grok startete. Der Chatbot wurde laut Klageschrift von Anfang an damit beworben, „gewagte Fragen“ zu beantworten, die von anderen KI-Systemen abgelehnt würden.\n\nNach internationaler Kritik blockierte Grok Nutzern ohne Bezahlung die Bildgenerierung, was die Proteste zwar dämpfte, die Klagen aber nicht abwendete. Die Kläger werfen dem Unternehmen zudem falsche und irreführende Mitteilungen zu den behaupteten Schutzmaßnahmen vor. Weitere Bundesstaaten und Länder prüften laut AP eigene Schritte; für Musk und seine Firmen könnte ein Rechtsstreit mit unangenehmen Forderungen entstehen.",
+      "src": "AP",
+      "url": "https://apnews.com/article/grok-lawsuit-elon-musk-ai-abuse-images-452cc64e7169a55868f797982d0e8238",
+      "t": "14:44"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Huang-Rückkehr beruhigt die KI-Finanzierung, doch die Abhängigkeiten bleiben",
+      "s": "Die Rückkehr von Jensen Huang an die Spitze von Nvidia gilt an den Finanzmärkten auch deshalb als so wichtig, weil das Unternehmen viele Kunden und Zulieferer der KI-Branche mitfinanziert. Zu den so unterstützten Firmen gehört nach AP-Informationen auch das gerade börsennotierte Anthropic. Analysten von Barclays rechnen nicht mit einem Abbruch des KI-Ausbaus, sondern mit einem langsameren und selektiveren Tempo.",
+      "l": "Viele KI-Unternehmen, die Nvidia-Chips kaufen, arbeiten noch nicht profitabel und verbrennen rasch Geld. Nvidia mit seinen Milliardenreserven half ihnen etwa bei Investitionen in Rechenleistung oder bei der Entwicklung von Produkten, die wiederum auf Nvidia-Chips setzen. Kritiker sehen darin ein Kreislauf-System, das bei einem Einbruch wie der in der Vorwoche gefährlich ruckeln kann.\n\nHinzu kommt der politische Druck: Trump hatte sich mehrere Tage lang für Huangs Rückholung eingesetzt und nannte die Entscheidung des Aufsichtsrats schließlich richtig und angemessen. Demokraten nutzten den Ablauf, um dem Präsidenten Nähe zu Tech-Konzernen vorzuwerfen. In der Branche wird inzwischen offen diskutiert, ob das Wachstum der KI-Investmentwelle sich ohne die Hilfe des Chip-Giganten selbst tragen kann.",
+      "src": "AP",
+      "url": "https://apnews.com/article/nvidia-jensen-huang-chips-return-trump-china-01ba8c83e7d7d4fa79c22ca5dbc47d22",
+      "t": "02:10"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Datencenter-Boom belastet oft ärmere Gegenden: Anwohner wehren sich",
+      "s": "Der Bau neuer Datencenter trifft nach einer Analyse der Agentur AP häufig ärmere, oft mehrheitlich von Schwarzen bewohnte Gemeinden in den USA. Im Bundesstaat Georgia etwa liegt das Großprojekt nahe Augusta, wo die nächstgelegene Wohngegend zu 67 Prozent von Schwarzen bewohnt ist; dort kämpfen Anwohner um Mitspracherecht, während Politiker den Ausbau vorantreiben.",
+      "l": "Die Analyse listet Beispiele von Memphis über Maryland bis Mississippi auf. In einem Fall in North Carolina zog ein Projektentwickler seinen Standort in einen anderen Landkreis um, dessen nächste Wohnumgebung mehrheitlich von Schwarzen bewohnt wurde und deren mittleres Einkommen nur etwa ein Drittel betrug; die Kreisverwaltung genehmigte das Projekt zügig.\n\nDer Datencenter-Bau der KI-Industrie bringt Arbeit und Steuerquellen, verbraucht aber viel Energie und Wasser. Die Trump-Regierung appelliert an Gemeinden, die Anlagen zu akzeptieren, auch wenn sich politischer Widerstand häuft. Andere Branchen sollen von Nebeneffekten profitieren: Der Bauboom hat Angehörige von Berufen wie Elektrikern und Installateuren höhere Löhne gebracht.",
+      "src": "AP",
+      "url": "https://apnews.com/article/data-centers-black-communities-georgia-louisiana-mississippi-2288a4183181e6fdb61d4aa0a3e93705",
+      "t": "21:19"
+    }
+  ]
+}

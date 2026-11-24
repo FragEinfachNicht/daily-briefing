@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "sub": "Logikrätsel",
+      "h": "Neun Kugeln, eine ist leichter",
+      "s": "Vor dir liegen neun Kugeln, die exakt gleich aussehen. Acht von ihnen wiegen exakt gleich viel, eine einzige ist etwas leichter. Du hast eine Balkenwaage ohne Gewichte, darfst du aber nur zwei Wiegungen machen. Wie findest du die leichte Kugel auf jeden Fall?",
+      "sol": "Teile die Kugeln in drei Gruppen zu je drei. Wiege die erste Dreiergruppe gegen die zweite: Sind beide gleich schwer, liegt die leichte Kugel in der dritten Gruppe, sonst in der jeweils leichteren. Aus dieser Dreiergruppe wiegst du dann zwei beliebig herausgegriffene Kugeln gegeneinander. Sind sie gleich schwer, ist die dritte Kugel die leichte, sonst diejenige, die auf der leichteren Waagschale liegt."
+    },
+    {
+      "sub": "Mathe und Zahlen",
+      "h": "Die Schnecke im Brunnen",
+      "s": "Eine Schnecke sitzt am Boden eines zehn Meter tiefen, trockenen Brunnens. Jeden Tag klettert sie am Vormittag drei Meter hoch. In der Nacht rutscht sie aber wieder zwei Meter zurück. An welchem Tag erreicht sie nachmittags den Brunnenrand und kann hinauskriechen?",
+      "sol": "Am achten Tag. Nach jedem Tag und der darauf folgenden Nacht liegt die Schnecke genau einen Meter höher als am Morgen zuvor. Nach sieben Abenden und Nächten befindet sie sich also sieben Meter über dem Boden. Am achten Vormittag klettert sie von dort drei Meter nach oben und erreicht mit zehn Metern den Rand. Weil sie aussteigt, rutscht sie nicht mehr zurück."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "sub": "Astronomie",
+      "h": "Der Jupitermond Ganymed ist größer als der Planet Merkur",
+      "s": "Jupiters größter Mond Ganymed ist mit einem Durchmesser von rund 5.268 Kilometern größer als der Planet Merkur, der es auf etwa 4.880 Kilometer bringt. Ganymed gilt als der größte Mond im Sonnensystem und übertrifft damit auch den kleinsten Planeten. Auf seiner eisigen Oberfläche gibt es nach heutigem Wissensstand zudem einen salzigen Ozean unter der Kruste."
+    },
+    {
+      "sub": "Körper",
+      "h": "Das Herz pumpt rund 7.000 Liter Blut am Tag",
+      "s": "Das menschliche Herz fördert in Ruhe etwa fünf Liter Blut pro Minute durch den Körper. Über einen Tag summiert sich das auf rund 7.000 Liter, im Jahr also mehr als 2,5 Millionen Liter. Bei schwerer körperlicher Anstrengung steigt die Förderleistung auf ein Mehrfaches an."
+    },
+    {
+      "sub": "Natur",
+      "h": "In Island leben keine Mücken",
+      "s": "Island ist eines der wenigen Länder der Welt, in dem es keine Mücken gibt. Benachbarte Länder wie Norwegen, Schweden und Finnland haben Mücken, Island nicht. Warum das so ist, ist bislang nicht abschließend geklärt; das unbeständige, kühle Klima gilt als wahrscheinlichster Grund."
+    },
+    {
+      "sub": "Alltag",
+      "h": "In Neuseeland leben rund fünf Mal so viele Schafe wie Menschen",
+      "s": "Neuseeland hat weltweit die höchste Schafdichte pro Kopf. Der Bestand liegt je nach Zählung bei etwa 20 Millionen Tieren, die Zahl der Einwohner bei gut fünf Millionen, so dass rechnerisch rund vier bis fünf Schafe auf jeden Einwohner kommen. Schafwolle und Lammfleisch gehören bis heute zu den wichtigsten Exportgütern des Landes."
+    },
+    {
+      "sub": "Technik",
+      "h": "Der erste gescannte Barcode zierte ein Kaugummi-Päckchen",
+      "s": "Die erste Ware, die an einer Supermarktkasse mit Barcode gescannt wurde, war am 26. Juni 1974 ein Zehnerpack Kaugummi der Marke Juicy Fruit in einem Supermarkt im US-Bundesstaat Ohio. Der Beleg wurde später museal gesichert. Der heutige Strichcode, ausgedacht in den 1950er Jahren, verbindet seit diesem Tag Warenwirtschaft und Kassen mehr oder weniger weltweit."
+    }
+  ]
+}
