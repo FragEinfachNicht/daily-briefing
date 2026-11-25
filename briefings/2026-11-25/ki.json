@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "sub": "Forschung",
+      "h": "Mitarbeiter von Anthropic und OpenAI halten interne Modelle für zu unsicher",
+      "s": "Laut einem Bericht des Nachrichtendienstes Axios glauben viele Beschäftigte, dass unveröffentlichte Modelle ihrer Unternehmen zu mächtig und zu unsicher für eine öffentliche Freigabe seien. Intern Modelle von Anthropic und OpenAI sind deutlich stärker als die veröffentlichten, etwa 24 interne Quellen sprechen von wachsender Sorge.",
+      "l": "Beispiele zeigen den Stand der Technik: Ein Mathematiker bei Anthropic soll mit einer unveröffentlichten Forschungsversion von Claude einen Beweis der Riemannschen Vermutung skizziert haben, ein Modell von OpenAI half bei Beweisen für hunderte Mathe-Vorhaben. Internen Debatten zufolge stellt sich die Frage, ob Frontier-Modelleünftig überhaupt noch öffentlich erscheinen oder nur innerhalb der Labore bleiben.\n\nEin OpenAI-Sprecher sagte, neue Sicherheitsanforderungen könnten das Tempo verlangsamen, mit dem Modelle das Publikum erreichen. Ein Anthropic-Sprecher betonte, ein rein interner Betrieb beige nicht automatisch sicher: Verantwortung begins in der Training und umfasse auch den eigenen Gebrauch, nicht nur die Freigabe. Mehr als zwei Dutzend Quellen im Umfeld der Firmen bestätigen Axios die Debatte.",
+      "src": "Axios"
+    },
+    {
+      "sub": "Regulierung und Politik",
+      "h": "EU-Konzept zur Umsetzung des AI Act für Hochrisiko-Systeme in Konsultation",
+      "s": "Die EU hat einen Entwurf vorgelegt, der für Hochrisiko-KI unter anderem Folgenabschätzungen und die Offenlegung von Restrisiken in einer Datenbank vorsieht. Rückmeldungen können bis zum 15. Januar 2027 eingereicht werden, freiwillige Praxistests der Vorlage sind bis zum 4. Dezember 2026 möglich. Die Berichte dazu stammen vom Dienstag.",
+      "l": "Der Entwurf konkretisiert Pflichten für Betreiber von Hochrisiko-Systemen der KI, etwa in Verwaltung, Beschäftigung und kritischer Infrastruktur. Im Zentrum stehen die Bewertung der Auswirkungen auf Grundrechte und die Pflicht, verbleibende Restrisiken zentral in einer Datenbank offenzulegen, damit Behörden und Betroffene den Überblick behalten.\n\nFür Unternehmen ist der Zeitplan relevant: Die Rückmeldefrist läuft bis Mitte Januar, wer die Vorlage testen will, kann sich bis Anfang Dezember in ein freiwilliges Verfahren eintragen. Einordnung: Der AI-Act selbst gilt seit Sommer 2024, transgender Folgen gehen [''] in Stufen. Institutionen wie Betreiber Parallel hälten den Aufwand für Hochrisiko-Systeme derzeit als größte Hürde in der Praxis.",
+      "src": "ad-hoc-news",
+      "unc": true
+    },
+    {
+      "sub": "Branchennews",
+      "h": "KI-Aktien brechen wieder ein: Nvidia minus 7,6 Prozent, CoreWeave minus 12,7",
+      "s": "Der Montagsaufschwung der KI-Branche hat am Dienstag nicht gehalten. Nvidia verlor 7,6 Prozent nach dem größten Tagesgewinn seit mehr als zwei Jahrzehnten, Cloud-Anbieter CoreWeave sank 12,7 Prozent, der Energie- und Datencenter-Zulieferer GE Vernova 5,5 Prozent. Auch Anthropic rutschte erstmals unter den Ausgabepreis.",
+      "l": "Der Rückwurf zeigt die Grundspannung der Branche: Klar ist, dass die unbeliebte Frage bleibt, ob die Milliardeninvestitionen in Rechenzentren sich in Profitabilität und Produktivitätsoptimisten auszahlen; hohe Zinsen machen die Finanzierung teurer, und die Gewinne der Demokraten bei den Zwischenwahlen haben die Sorge vor strengerer Regulierung, etwa Baustopps für neue Datencenter, verstärkt.\n\nAuffällig war die Rotation: Werte außerhalb der KI-Sparte hielten sich gut, zwei von drei Aktien im S&P 500 stiegen, trotz des Indexminus. Der Dow überwand die 50.000-Punkte-Marke. Die morgigen PCE-Inflationsdaten und mögliche Zinsschritte der Fed bleiben die zentralen Treiber für das Preisieren der KI-Werte in den nächsten Wochen.",
+      "src": "AP / AktienCheck"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "Ulmer Forscher: KI-Modell macht Arztberichte verständlicher",
+      "s": "Ein offenes KI-Sprachmodell kann komplexe medizinische Befunde in eine patientenfreundlichere Sprache übertragen. Das zeigt eine Studie unter Beteiligung des Instituts für Geriatrische Forschung des Universitätsklinikums Ulm. In weiteren Studien soll geprüft werden, ob verständlichere Berichte auch Therapietreue und Behandlungserfolg verbessern.",
+      "l": "Arztbriefe sind voll von Fachbegriffen und Abkürzungen, die Patientinnen und Patienten oft nicht verstehen. Die Ulmer Forscher haben untersucht, wie ein frei verfügbares Sprachmodell solche Texte automatisiert Patientenfreundlich umbaut, ohne den medizinischen Gehalt zu verändern.\n\nErste Resultate sind ermutigend, die Übersetzungen galten als nachvollziehbar und richtig. Offen bleibt, ob verständlichere Befunde auch tatsächlich die Zusammenarbeit verbessert: In prospektiven Studien will das Team messen, wie sich das auf Therapietreue, Einbindung der Patienten und Behandlungserfolg auswirkt. Bis ein breiter Einsatz in Kliniken möglich ist, sind Datenschutzprüfung und Qualitätskontrolle nötig.",
+      "src": "Ulm-News",
+      "t": "10:59"
+    }
+  ]
+}

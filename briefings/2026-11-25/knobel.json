@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "sub": "Logikrätsel",
+      "h": "Die zwei Türen und zwei Wächter",
+      "s": "Du stehst vor zwei Türen. Hinter einer wartet der Ausgang, hinter der anderen eine Sackgasse. Vor den Türen stehen zwei Wächter, einer von beiden sagt immer die Wahrheit, der andere immer die Unwahrheit. Du weißt nicht, wer wer ist. Du darfst genau eine Frage an einen der beiden Wächter stellen und danach eine Tür öffnen. Welche Frage stellst du?",
+      "sol": "Stelle einem beliebigen Wächter die Frage: Welche Tür würde der andere Wächter als richtig bezeichnen? Fragst du den Wahrheitssprecher, gibt er dir verlässlich die falsche Antwort des Lügners wieder. Fragst du den Lügner, verfälscht er die richtige Antwort des Wahrheitssprechers. In beiden Fällen zeigt die genannte Tür in die Sackgasse. Also öffnest du die andere Tür, und die führt sicher zum Ausgang."
+    },
+    {
+      "sub": "Mathe und Zahlen",
+      "h": "Schafe und Hühner auf dem Hof",
+      "s": "Auf einem Hof leben Schafe und Hühner. Zusammen haben die Tiere 30 Köpfe und 84 Beine. Schafe haben vier Beine, Hühner zwei. Wie viele Schafe und wie viele Hühner leben auf dem Hof?",
+      "sol": "Es sind zwölf Schafe und achtzehn Hühner. Rechnung: Sind S die Zahl der Schafe und H die der Hühner, gilt S plus H gleich 30 und vier S plus zwei H gleich 84. Aus der ersten Gleichung folgt H gleich 30 minus S. Eingesetzt ergibt vier S plus 60 minus zwei S gleich 84, also zwei S gleich 24, folglich S gleich 12 und H gleich 18. Probe: zwölf plus achtzehn ergibt 30 Köpfe, und 12 mal vier plus 18 mal zwei gleich 48 plus 36 gleich 84 Beine."
+    }
+  ]
+}

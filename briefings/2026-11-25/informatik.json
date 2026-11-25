@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Angriffe auf Cisco Expressway, SAP NetWeaver und VMware vCenter laufen",
+      "s": "Aktuell laufen konkrete Angriffe auf Sicherheitslücken in Cisco Expressway Series, SAP NetWeaver, VMware vCenter und Apache Roller. Die US-Behörde CISA warnt, die Cisco-Lücke erreicht mit 9,8 von 10 Punkten den kritischen Wert und wird nach Angaben der Sicherheitsfirma F6 aktiv ausgenutzt. Admins sollten schnell aktualisieren.",
+      "l": "Die Cisco-Lücke CVE-2026-76466 erlaubt nicht authentifizierten Angreifern aus dem Netz, wenn Geräte im Cluster laufen und bestimmte persistente Cookies vorliegen, beliebige Systembefehle als Root auszuführen. Die Version X15.5.20 schließt die Lücke, Nutzer von X14 und älter müssen migrieren. Bis dahin rät F6, die TCP-Ports 4371 und 4372 auf vertrauenswürdige Cluster-Knoten zu beschränken.\n\nEbenfalls neu ist die Warnung vor Angriffen auf eine JNDI-Injection-Schwachstelle im SAP NetWeaver Enterprise Portal, für die Updates seit dem November-Patchday 2025 existieren. Googles Sicherheitsfirma Mandiant berichtet von Angriffen auf eine vCenter-Lücke (CVE-2026-123890, kritisch), über die die Gang Armory Castle mit mutmaßlichen chinesischen Verbindungen seit September Hintertüren installiert, oft über einen Portalzugang von BeyondTrust.",
+      "src": "heise online",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html"
+    },
+    {
+      "sub": "Software und Open Source",
+      "h": "Firefox 161 erschienen: VPN-Regeln pro Website und klassische Themes",
+      "s": "Mozilla hat Firefox 161 freigegeben, die aktuelle stabile Version für Windows, macOS, Linux und Android. Neu sind bijvoorbeeld Steuerungen für den integrierten VPN auf Ebene einzelner Websites, ein Abschnitt mit klassischen Themes und eigene Tastenkürzel, etwa zum Kopieren der Tab-Adresse. Wie üblich sind sicherheitsrelevante Korrekturen an Board.",
+      "l": "Die pro-Website-Steuerung des VPN ist die zentrale Neuerung: Nutzer können Banken oder Verwaltungsoberflächen vom VPN ausnehmen und es nur für ausgewählte Seiten aktiv halten, mit getrennten Optionen für dauerhaft ein oder aus. Beim Import von Chromium-Browsing-Verläufen übernimmt Firefox jetzt auch Besuchszyklen, damit Vorschläge und Verknüpfungen schneller stimmen.\n\nDie Version 161 löst die jeweils vier Wochen alt gewordene Vorgängerversion ab; Firefox 162 ist dem Release-Kalender zufolge für den 4. Dezember geplant. Nutzer von langzeitunterstützten Versionen erhalten parallel微调 Korrekturen. Das Update verteilt sich automatisch, ein manueller Neustart des Browsers genügt.",
+      "src": "9to5Linux"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "Microsoft ruft nach 24-Stunden-Ausfall Code Red aus und überarbeitet Reaktion",
+      "s": "Nach dem rund 24-stündigen Ausfall Mitte dieses Monats, der Exchange Online, Outlook, Teams und Copilot zeitweise lahmlegte, hat Microsoft intern eine sogenannte Code-Red-Mobilmachung ausgerufen. Das berichtet die Agentur Reuters unter Berufung auf interne Schriftstücke. Der Vorfall gilt als der schwerste in der Geschichte von Exchange Online.",
+      "l": "Der Ausfall vom 12. auf den 13. November traf Regierungen von Australien über Japan bis in die USA, verzögerte Handelsgeschäfte und störte Kommunikationen von Fluggesellschaften. Auslöser war ein Windows-Defekt, der im Juli in Server-Komponenten eingeschleppt wurde, die Verbindungen zu Microsoft 365 verarbeiten; interne Prozesse konkurrierten um Ressourcen, bis Speicher und Rechenzeit knapp wurden.\n\nDer für Microsoft-365-Kern zuständige Präsident Jason Henderson sprach vom am stärksten kundenwirkenden Vorfall in der Geschichte von Exchange Online. Laut Reuters sieht der Umbau vor, dass kritische Reparstufen künftig binnen einer Stunde weltweit ausgerollt werden sollen statt wie bisher oft erst nach fünf bis sechs Tagen; dazu kommen tägliche Begleitung der Lage durch das Engineering-Team und wöchentliche Vorstandsberichte.",
+      "src": "Reuters"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "Laptops gut 14 Prozent teurer: KI-Boom treibt Preise für Elektronik",
+      "s": "Der Boom um künstliche Intelligenz macht Computer und Konsolen spürbar teurer. Nach Daten des Statistischen Bundesamts waren Laptops im Oktober fast 15 Prozent teurer als ein Jahr zuvor, Desktop-PCs gut 13 Prozent. Festplatten legten um 40,8 Prozent zu, Speicherkarten und USB-Sticks gut ein Fünftel.",
+      "l": "Der Hintergrund ist die Nachfrage nach Speicher- und Rechen-Kapazität durch Rechenzentren der KI-Industrie: Hersteller verlagern Fertigungskapazitäten von Verbrauchergütern auf Datacenter-Komponenten, was die Preise für Endkunden treibt. Besonders spürbar sind die Anstiege bei Speichern wie Festplatten und Flash-Chips.\n\nDie Entwicklung ist bemerkenswert, weil Computer, Konsolen und Handys in den Jahren zuvor teilweise deutlich billiger wurden: Desktop-PCs verbilligten sich binnen fünf Jahren um 16,3 Prozent, Mobiltelefone um 11,7 Prozent. Für Verbraucher heißt das aktuell: Beim Kauf neuer Geräte lohnt sich ein Vergleich, und Wartung oder Upgrades bestehender Hardware gewinnen an Attraktivität.",
+      "src": "dpa",
+      "t": "13:53"
+    }
+  ]
+}
