@@ -11,7 +11,7 @@
 2026-11-24 | In Island leben keine Mücken
 2026-11-24 | Neuseeland hat rund fünf Schafe pro Einwohner
 2026-11-24 | Der erste gescannte Barcode zierte Kaugummi
-2026-11-25 | Ein Bär und ein Pinguin begegnen sich in freier Wildbahn nie
-2026-11-25 | Ein Unterricht an der Universität Oxford ist älter als das Aztekenreich
-2026-11-25 | Ein Oberflächengewebe des Magens erneuert sich alle paar Tage
-2026-11-25 | Ein Schweden hat mehr Inseln als jedes andere Land
+2026-11-25 | Bär und Pinguin begegnen sich in freier Wildbahn nie
+2026-11-25 | Die Universität Oxford ist älter als das Aztekenreich
+2026-11-25 | Die Magenschleimhaut erneuert sich alle paar Tage
+2026-11-25 | Schweden hat mehr Inseln als jedes andere Land
