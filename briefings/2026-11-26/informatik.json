@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Hacker dringen in Analysesystem der CIA ein",
+      "s": "Unbekannte Hacker sind in ein nicht klassifiziertes Analysesystem der US-Auslandsgeheimdienstes CIA eingedrungen. Es wertet öffentlich zugängliche Informationen aus, etwa soziale Medien, Satellitenbilder und kommerzielle Datenströme. Die New York Times berichtet unter Berufung auf US-Regierungsvertreter, die Angreifer könnten ein chinesisches KI-Tool genutzt haben; eine offizielle Bestätigung fehlt.",
+      "l": "Das betroffene System sammelt laut AP-Informationen Daten aus öffentlichen Quellen und ist als Open-Source-System aufgebaut; klassifizierte Informationen seien laut einer Person mit Kenntnis des Vorfalls nicht kompromittiert. Der Vorfall gilt inzwischen als gelöst, war aber Teil einer Serie von Cyberangriffen auf US-Dienste.\n\nDie New York Times berichtet, die Ermittler ordneten die Spuren einem chinesischen KI-Tool zu. Der Fall befeuert die Debatte, wie sorgsam US-Behörden kommerzielle und chinesische KI-Werkzeuge für Analysezwecke einsetzen dürfen.\n\nUnabhängig davon bestätigte die US-Behörde FinCEN eigene Ermittlungen zu einem Cyberzwischenfall mit unbefugtem Zugriff auf einen begrenzten Teil ihrer Systeme. Weder CIA noch das Büros des Director of National Intelligence äußerten sich zu Details.",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "unc": true
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Offene Datenbanken mit 3,5 Milliarden Zugangsdaten entdeckt",
+      "s": "Forscher haben Datenbanken mit rund 3,5 Milliarden Zugangsdaten offen im Internet gefunden. Die Datensätze stammen nach vorläufiger Einordnung aus Infostealer-Malware, mit der Passwörter von Endgeräten gestohlen werden. Betroffene sollten vor allem gestohlene Passwörter sofort ändern.",
+      "l": "Die offenen Datenbanken bündeln offenbar die Beute monatelanger Angriffe: Infostealer sammeln gespeicherte Logins aus Browsern und Apps und verkaufen oder veröffentlichen sie in Sammlungen. Solche Datensätze sind der Rohstoff für Folgeangriffe wie Phishing und Kontoübernahmen.\n\nFür Betroffene ist entscheidend, dass Passwörter nicht mehrfach Verwendung finden: Wurde ein Login in einem Leak gefunden, sollte es überall ersetzt werden, wo es eingesetzt wurde. Zwei-Faktor-Authentifizierung schränkt den Schaden zusätzlich ein.",
+      "src": "IT-Sicherheitsnews",
+      "url": "https://www.itsicherheitnews.de/it-sicherheitsnews-taegliche-zusammenfassung-2026-11-25-11h-update-mittel-linux-kernel-mehrere-schwachstellen-ermoeglichen-nicht-spezifizierten-angriff-und-5-weitere-beitraege/",
+      "t": "09:32",
+      "unc": true
+    },
+    {
+      "sub": "Software und Entwicklung",
+      "h": "Microsoft bestätigt Authentifizierungsprobleme nach November-Updates",
+      "s": "Microsoft hat eingeräumt, dass die Windows-Sicherheitsupdates vom November bei manchen Drittanbieter-Anwendungen und Geräten NTLM-Authentifizierung scheitern lassen. Betroffen sind demnach auch Windows-Aktivierungen und die Leistung von SQL Server. Für die Fälle gibt es laut Microsoft Übergangslösungen.",
+      "l": "Die November-Updates schließen die als kritisch eingestufte Schwachstelle CVE-2026-118737 im Windows-RPC-Laufzeitumfeld: In Zukunft müssen authentifizierte NTLM-Sitzungen kryptografische Sitzungsschlüssel aufbauen und echte Nachrichtenkontrollsummen aushandeln. Das schützt gegen Relay-Angriffe, bricht aber Implementierungen, die sich bislang nicht vollständig an die NTLM-Anforderungen gehalten haben.\n\nMicrosoft stuft die November-Updates als erste Ausbaustufe dieser Härtung ein und bietet nach eigenen Angaben Workarounds an. Firmen sind aufgerufen, betroffene Anwendungen und Geräte zu prüfen, bevor die nächste Updatestufe kommt.",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+    },
+    {
+      "sub": "Linux und Open Source",
+      "h": "Linux Mint 27 in der Beta verfügbar, openSUSE bereitet Hack Week 26 vor",
+      "s": "Die Beta von Linux Mint 27 mit der Desktop-Umgebung Cinnamon 6.8 ist jetzt für Downloads verfügbar. Parallel bereiten die openSUSE- und SUSE-Communitys die Hack Week 26 vor, die Projekte unter anderem zu NetworkManager, btrfs und KI-Sicherheit vorantreiben soll.",
+      "l": "Linux Mint ist eine der verbreitetsten Desktop-Distributionen; die neue Hauptversion bringt nach Veröffentlichungsangaben die Desktop-Umgebung Cinnamon in Version 6.8 mit. Die Beta-Stufe dient dazu, Fehler zu finden, bevor ein stabiles Release erscheint.\n\nDie Hack Week ist ein jährliches Format, in dem Entwickler eine Woche lang konzentriert an neuen Ideen arbeiten. In diesem Jahr stehen unter anderem Verbesserungen am Netzwerk-Manager, am Dateisystem btrfs und an Sicherheitsfragen rund um künstliche Intelligenz im Fokus.",
+      "src": "9to5Linux",
+      "url": "https://9to5linux.com/linux-mint-27-beta-is-now-available-for-download-with-cinnamon-6-8"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "EU will KI und Quantencomputer mit rund 50 Milliarden Euro fördern",
+      "s": "Die EU-Kommission will europäische und nationale Förderprogramme für KI und Quantencomputer bündeln und gemeinsam mit der Europäischen Investitionsbank einen neuen Fonds aufsetzen. Der Zielumfang liegt nach Angaben von Digitalkommissarin Henna Virkkunen bei 50 Milliarden Euro. Im Fokus steht das Ziel, europäische Anbieter stärker zu machen.",
+      "l": "Quantencomputer versprechen Lösungen, die für klassische Rechner unerreichbar sind. Der Plan sieht vor, bisher verstreute nationale Programme zu koordinieren und gemeinsam mit der EIB Investitionen zu hebeln; Details zum Zeitplan stehen noch aus.\n\nVirkkunen erklärte, europäische Unternehmen sollten wachsen und zu Weltmarktführern werden. Beobachter weisen darauf hin, dass Europa in beiden Technologiebereichen gegenüber den USA und China an Boden verloren hat, und dass Geld allein den Rückstand kaum aufheben wird.",
+      "src": "AFP",
+      "t": "11:49"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "Bund bewilligt fast 28 Millionen Euro für Glasfaser-Ausbau im Kreis Kleve",
+      "s": "Der Bund hat Fördermittel von knapp 28 Millionen Euro für den Breitband-Ausbau im Kreis Kleve am Niederrhein freigegeben. Rund 8.000 Haushalte, die bislang keinen Glasfaseranschluss haben, sollen damit angebunden werden.",
+      "l": "Die Mittel fließen in den Ausbau des Breitbandnetzes, wo private Netzbetreiber nach Branchenlogik noch nicht gebaut haben. Welche Orte zuerst drankommen, richtet sich nach den Kriterien des Bundesprogramms.\n\nDer Vorgang passt in die laufende Netzdebatte: Der Bundesverband Breitbandkommunikation hatte auf seiner Konferenz im November den Wechsel von Kupfer auf Glasfaser als Hauptthema behandelt. In der Branche gilt der Wechsel als entscheidend, um Anschlüsse künftiger Anforderungen an Bandbreite und Zuverlässigkeit gerecht werden zu können; politische Weichenstellungen dazu stehen noch aus.",
+      "src": "RP Online",
+      "url": "https://rp-online.de/nrw/staedte/kleve/glasfaserausbau-im-kreis-kleve-bund-genehmigt-28-millionen-euro-foerdermittel_aid-158974437"
+    }
+  ]
+}

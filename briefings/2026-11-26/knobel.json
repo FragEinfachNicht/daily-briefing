@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "sub": "Logikrätsel",
+      "h": "Der Bauer, der Wolf, die Ziege und der Kohlkopf",
+      "s": "Ein Bauer muss mit einem Wolf, einer Ziege und einem Kohlkopf einen Fluss überqueren. Sein Kahn fasst außer ihm selbst nur eine der drei Frachten. Lässt er Wolf und Ziege allein zurück, frisst der Wolf die Ziege. Lässt er Ziege und Kohlkopf allein zurück, frisst die Ziege den Kohlkopf. Wolf und Kohlkopf allein sind unproblematisch. Wie bringt der Bauer alles sicher ans andere Ufer und mit wie wenig Überfahrten schafft er es?",
+      "sol": "In sieben Überfahrten. Erst fährt der Bauer die Ziege über und kehrt allein zurück. Dann nimmt er den Wolf mit, lässt am anderen Ufer aber die Ziege wieder einsteigen und bringt sie zurück ans Startufer. Dort lässt er die Ziege zurück und nimmt stattdessen den Kohlkopf mit. Kohlkopf und Wolf bleiben nun ohne Aufsicht friedlich zusammen, der Bauer kehrt leer zurück. Zuletzt fährt er ein letztes Mal mit der Ziege ans andere Ufer. Niemand frisst dabei je jemanden, der Wolf und der Kohlkopf stehen am Schluss gemeinsam am Ziel."
+    },
+    {
+      "sub": "Mathe und Zahlen",
+      "h": "66 Handschläge auf der Feier",
+      "s": "Auf einer Feier begrüßen sich alle Gäste beim Empfang. Jeder Gast schüttelt jedem anderen Gast genau einmal die Hand, keiner schüttelt sich selbst die Hand. Insgesamt kommen so genau 66 Händedrucke zustande. Wie viele Gäste sind auf der Feier?",
+      "sol": "Es sind zwölf Gäste. Bei n Gästen gibt jeder den anderen n-1 Gästen die Hand; jeder Händedruck wird dabei doppelt gezählt, einmal von jedem Beteiligten. Die Zahl der Händedrucke beträgt also n mal (n-1) geteilt durch zwei. Diese Zahl muss 66 sein, also n mal (n-1) gleich 132. Die Zahl zwölf erfüllt das, denn 12 mal 11 gleich 132. Probe: 12 mal 11 geteilt durch 2 ergibt genau 66 Händedrucke."
+    }
+  ]
+}

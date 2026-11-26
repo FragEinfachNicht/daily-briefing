@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "sub": "Branchennews",
+      "h": "Nvidia unter Druck: Rating-Wächter setzen Chipriese auf negative Beobachtung",
+      "s": "Die Ratingagentur SDie Ratingagentur S&P Global hat die schon bewertete AA-Bewertung von Nvidia auf negative Beobachtung gesetztP Global hat die AA-Bewertung von Nvidia auf negative Beobachtung gesetzt; die Aktie fiel am Mittwoch um nahezu 4 Prozent. Konzernchef Jensen Huang hat sich unterdessen bei der Belegschaft entschuldigt; interne Untersuchungen, auch zu Chip-Exporten, laufen weiter.",
+      "l": "Nvidias Aktie hatte nach der überraschenden Rückkehr von Jensen Huang an die Spitze des Konzerns zunächst um 33 Prozent zugelegt, die Erholung wurde jedoch durch die Sorgen um die laufenden Untersuchungen gedämpft. Für die negative Beobachtung entscheidend waren unter anderem die laufenden Ermittlungen und die gestiegenen Kreditversicherungskosten in der Branche.\n\nHuang war nach Enthüllungen über außereheliche Beziehungen, darunter zu einer Frau, die als mutmaßliche chinesische Nachrichtendienst-Mitarbeiterin eingestuft wird, vorübergehend zurückgetreten. Der Verwaltungsrat hatte zunächst versucht, eine Rückkehr zu verhindern, wurde laut Reuters-Informationen jedoch vom Weißen Haus unter Druck gesetzt; Trump und sein Team sollen dem Board rechtliche Zusicherungen gemacht haben.\n\nHuang entschuldigte sich am Dienstag eindrücklich bei der Belegschaft: Er habe einige schreckliche Fehler gemacht, sagte er laut einer Auswertung des Live-Streams der Betriebsversammlung durch die New York Times; er sei zudem in Therapie. Nvidia kündigte an, die internen Untersuchungen auch mit Blick auf Chip-Exporte fortzusetzen und einen Compliance-Chef zu suchen.",
+      "src": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html"
+    },
+    {
+      "sub": "Neue Modelle und Releases",
+      "h": "OpenAI bringt GPT-6.2 in den Chat-Tab von ChatGPT, nur für zahlende Kunden",
+      "s": "OpenAI rollt seit einigen Tagen eine für den Chat-Tab optimierte Variante von GPT-6.2 weltweit für die Tarife Plus, Pro, Business und Enterprise aus. Free- und Go-Nutzer gehen zunächst leer aus. Das Modell soll besser bei unordentlichen Alltagsaufgaben, Fotoerkennung und Preisalarmen sein; ältere Modelle werden zum 23. Dezember abgeschaltet.",
+      "l": "Nach den Release Notes von ChatGPT ist das neue Chat-Modell von einer Version von GPT-6.2 abgeleitet, die auf Unterhaltungen und alltägliche mehrstufige Arbeiten optimiert ist; die Auslieferung läuft seit dem 23. November phasenweise. OpenAI verspricht Fortschritte beim Lesen dichter Fotos, bei der Befolgung von Anweisungen für Websuchen und bei Preisbeobachtungen im Shopping-Bereich.\n\nDie Freigabe passt in einen arbeitsreichen November der großen Labs: Anthropic brachte Claude Fable 5.2 und Mythos 5.2, Google komplettierte Gemini 4 mit Carbon und Neon, OpenAI antwortete am 17. November mit GPT-6.2 Astra und Sol. Zum 23. Dezember verschwinden GPT-5.6 Sol und Terra aus Chat, Work und Codex, damit die Übergänge sauber über die Bühne gehen.",
+      "src": "India Today",
+      "url": "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "Update-Runde bei KI-Anbietern: Anthropic, DeepSeek, Google und Alibaba liefern nach",
+      "s": "Mehrere KI-Anbieter haben zeitgleich neue Funktionen und API-Updates ausgerollt. Anthropic führt eine Abrechnungs-Beta für die Code-Plattform ein, DeepSeek öffnet Suche, Datei- und Sprachfunktionen über seine Schnittstelle, Google macht Gemini Tasks in sechs Ländern kostenlos und bringt ein Robotik-Plugin, und Alibaba hebt Qwen4-Max in die allgemeine Verfügbarkeit.",
+      "l": "Bei Anthropic können Kunden über eine neue Billing-Beta bestehende Organisationen an die Code-Plattform anbinden; Hinweise der Anbieter deuten darauf hin, dass bestehende Sicherheitsrichtlinien dabei noch nicht automatisch übernommen werden. Bei DeepSeek lassen sich Suche, Datei-, Sprach- und Sicherheitsfunktionen künftig direkt über die API nutzen, die serverseitige Suche wird rein nach Tokens abgerechnet.\n\nGoogle hat Gemini Tasks in sechs Ländern zur kostenlosen Nutzung freigegeben und ein Plugin für Robotik-Anwendungsfälle veröffentlicht. Alibaba Cloud hat das Mixture-of-Experts-Modell Qwen4-Max mit 2,4 Billionen Parametern, davon 71 Milliarden aktiv pro Token, von der Vorab-Version in die allgemeine API-Verfügbarkeit überführt; der Vorschau-Tarif läuft am 25. November aus.\n\nEntwickler sollten laut der Übersicht Auslauf-Fristen und Anfragelimits prüfen, bevor sie Produkte darauf umstellen.",
+      "src": "KongchangAI",
+      "url": "https://kongchang.com/en/articles/gpt-6-2-dual-model-launch-qwen4-max-goes-ga-and-multiple-api-updates",
+      "t": "12:13"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Tidal löscht 29 Millionen KI-generierte Songs aus seinem Katalog",
+      "s": "Der Streamingdienst Tidal nimmt ab dem 9. Dezember keine vollständig KI-generierten Musikstücke mehr an und löscht rund 29 Millionen bestehende Titel. Nach Angaben des Managements stammen 94 Prozent der markierten Songs vom Musikgenerator Suno, 96 Prozent hatten keine einzige Wiedergabe. Täglich sollen bis zu 85.000 neue KI-Titel abgelehnt werden.",
+      "l": "In einer Mitteilung schrieb das Tidal-Management, die Maßnahme solle Künstlern und Hörern helfen: 43 Prozent der in den vergangenen 90 Tagen hochgeladenen Titel seien als KI-generiert erkannt worden, meist mit null Streams. Das Unternehmen will damit Platz für kommerzielle Kataloge menschlicher Künstler machen.\n\nDie Maßnahme steht exemplarisch für den wachsenden Widerstand der Musikbranche gegen die Flut automatisierter Uploads. Andere Dienste ringen derzeit ebenfalls damit, wie sie KI-Musik einordnen, kennzeichnen oder begrenzen können. Mit dem Termin am 9. Dezember setzt Tidal einen der härtesten Stichtage im Streamingmarkt.",
+      "src": "t-online",
+      "url": "https://www.t-online.de/digital/aktuelles/id_101546204/spotify-konkurrent-tidal-loescht-29-millionen-songs-was-betroffen-ist.html"
+    }
+  ]
+}

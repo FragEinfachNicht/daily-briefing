@@ -15,3 +15,7 @@
 2026-11-25 | Die Universität Oxford ist älter als das Aztekenreich
 2026-11-25 | Die Magenschleimhaut erneuert sich alle paar Tage
 2026-11-25 | Schweden hat mehr Inseln als jedes andere Land
+2026-11-26 | Die Leber kann sich nach Teilentfernung wieder neu aufbauen
+2026-11-26 | Das Schnabeltier legt Eier und ernährt Junge über Hautdrüsen am Bauch
+2026-11-26 | Licht läuft in Wasser rund ein Viertel langsamer als im Vakuum
+2026-11-26 | Ein großes scharfes s ist amtlich erst seit 2017

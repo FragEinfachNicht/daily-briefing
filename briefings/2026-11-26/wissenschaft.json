@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "ESA-Sonde Hera sendet erste Nahaufnahmen vom Krater auf dem Asteroiden Dimorphos",
+      "s": "Die europäische Raumsonde Hera hat erste Nahaufnahmen des Asteroidenmondes Dimorphos zur Erde geschickt. Zu sehen ist ein stadiongroßer Krater, den der NASA-Einschlag der Mission DART 2022 hinterlassen hat. Die in Deutschland entwickelte und gebaute Sonde soll in den kommenden sechs Monaten auswerten, wie genau der Einschlag die Gestalt des Himmelskörpers verändert hat.",
+      "l": "Die Bilder kamen am Mittwoch zusammen mit weiteren Messdaten von der Europäischen Weltraumorganisation ESA. Dimorphos ist der rund 151 Meter große Begleiter des etwa 730 Meter großen Asteroiden Didymos. Beide stellen für die Erde keine Bedrohung dar, das Manöver war ein Test der planetaren Verteidigung.\n\nDie Aufnahmen zeigen, dass die Oberfläche stärker verändert wurde als erwartet: Die frühere Rundung der Einschlagseite ist zu einem breiten Krater mit teils zigarrenförmiger Struktur im Zentrum geworden. Forscher wie der Asteroidenexperte Patrick Michel sprachen von Überraschungen bei den ersten Bildern.\n\nIn den kommenden sechs Monaten soll Hera die genauen Folgen des Einschlags vermessen, von der Masseverteilung bis zur neuen Umlaufbahn. Die Ergebnisse sollen helfen, Planetenabwehr künftig realistischer zu planen.",
+      "src": "AFP",
+      "t": "20:00"
+    },
+    {
+      "sub": "Umwelt und Klima",
+      "h": "Erstmals übersteigt der weltweite Kühlbedarf den Heizbedarf",
+      "s": "Nach Angaben der Internationalen Energieagentur liegt der Strombedarf für Kühlung erstmals höher als der fürs Heizen. In ihrem Bericht World Energy Outlook 2026 rechnet die IEA damit, dass der Kühlstrombedarf bis 2035 um rund 1.700 Terawattstunden steigt. Auch Deutschland ist betroffen: Die Zahl der Kühlgradtage lag zwischen Mai und August beim Dreifachen des früher üblichen Niveaus.",
+      "l": "Klimawandel, Bevölkerungswachstum und steigende Einkommen vor allem in Schwellenländern treiben den Bedarf an Klimatisierung. Nach IEA-Angaben leben weltweit rund 80 Prozent der Menschen in Gebieten, in denen zumindest zeitweise gekühlt werden muss, aber nur etwa 40 Prozent der Haushalte besitzen eine Klimaanlage.\n\nDie Verbreitung ist ungleich: In Australien, Japan und den USA liegt sie bei rund 90 Prozent, in Indien und Indonesien bei weniger als 20 Prozent. Die IEA erwartet, dass der Anteil in Schwellen- und Entwicklungsländern ohne China von unter 20 Prozent auf 32 Prozent bis 2035 und 45 Prozent bis 2050 steigt.\n\nMehr Kühlung bedeutet mehr Stromnachfrage, und deren Erzeugung erwärmt das Klima wiederum. Energieagenturen fordern deshalb effizientere Geräte und klimafreundliche Kühltechnologien.",
+      "src": "FR.de"
+    },
+    {
+      "sub": "Forschung und Entdeckungen",
+      "h": "Forscher schicken Mini-Gehirne ins All und finden Hinweise auf Alzheimer-Prozesse",
+      "s": "Ein Forschungsteam der University of California in San Diego hat menschliche Mini-Gehirne, sogenannte Hirnorganoide, zur ISS geflogen. Die am Mittwoch im Fachjournal Science Advances veröffentlichte Studie zeigt: Die Schwerelosigkeit verändert Prozesse, die mit Alzheimer in Verbindung gebracht werden, je nach genetischem Hintergrund unterschiedlich stark.",
+      "l": "Im Weltraum veränderten sich nach Teamangaben unter anderem die Verarbeitung der Eiweiße Amyloid und Tau, die auch typisch für Alzheimer sind; zudem reagierten Nervenzellen, die den Botenstoff GABA nutzen. Solche Veränderungen sind auf der Erde schwer zu beobachten, weshalb die Forscher die ISS als Forschungsumgebung nutzen.\n\nDie Aufnahme der Hirnorganoide ins Programm der nationalen ISS-Laboratorien erlaubt es, Erkrankungen des Nervensystems unter Weltraumbedingungen vergleichbar zu untersuchen. Das soll langfristig auch Studien zu Demenzerkrankungen auf der Erde befördern.\n\nDie Ergebnisse stammen aus Zellkulturen; ein direkter Rückschluss auf Patienten ist nicht möglich. Das Team will als Nächstes klären, welche molekularen Schalter für die Veränderungen verantwortlich sind.",
+      "src": "AAAS"
+    },
+    {
+      "sub": "Technik",
+      "h": "Neue Klimaanlage mit Salzlösung braucht rund 40 Prozent weniger Strom",
+      "s": "Eine neue Klimaanlage entfeuchtet die Luft mit einer konzentrierten Salzlösung statt mit einem Kühlteil. Im einjährigen Praxistest in einem Restaurant in Macon im US-Bundesstaat Georgia sparte das System nach Herstellerangaben rund 40 Prozent Strom, bei Spitzenlast sogar bis zu 89 Prozent.",
+      "l": "Der Hauptanteil des Stromverbrauchs herkömmlicher Klimaanlagen entfällt nicht auf das Kühlen selbst, sondern auf das Trocknen der Luft: Wasser wird auf kalten Oberflächen kondensiert, wofür tief abgekühlte Luft nötig ist. Die neue Technik von Blue Frog bindet die Luftfeuchtigkeit stattdessen chemisch in einer Salzlösung.\n\nNur die verbleibende Luft muss dann gekühlt werden, was mit deutlich weniger Aufwand auskommt. Beim einjährigen Einsatz in einem Waffle-House-Restaurant sank laut den Projektpartnern die elektrische Leistungsaufnahme bei Spitzenlast deutlich stärker als im Tagesmittel.\n\nOb sich die Technik außerhalb des Pilotbetriebs wirtschaftlich lohnt, ist noch offen. Interessant ist sie vor allem für Räume mit hoher Luftfeuchtigkeit und weil die Entfeuchtung den größten Anteil des Stromverbrauchs von Klimaanlagen ausmacht.",
+      "src": "forschung-und-wissen",
+      "url": "https://www.forschung-und-wissen.de/nachrichten/technik/klimaanlage-mit-salzloesung-spart-zwei-fuenftel-des-stroms-133716275",
+      "t": "20:03"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "Analyse: Zahl der Darmspiegelungen in Deutschland deutlich gestiegen",
+      "s": "Die Zahl der Darmspiegelungen in Deutschland hat nach einer am Mittwoch veröffentlichten Auswertung deutlich zugenommen. Der Präsident der Deutschen Krebsgesellschaft, Ghadimi, verwies in dem Zusammenhang erneut auf den Wert der HPV-Impfung auch für Jungen.",
+      "l": "In der Auswertung zeigte sich ein deutlicher Anstieg von Darmspiegelungen, der nach Angaben der Krebsgesellschaft als Erfolg der Vorsorge gewertet wird: Darmkrebs gehört zu den häufigsten Krebsarten in Deutschland, und eine früh entdeckte Vorstufe lässt sich meist vollständig entfernen.\n\nGhadimi betonte, dass auch Jungen von der Impfung gegen Humane Papillomviren profitieren: Jungen können sich mit HPV infizieren oder das Virus übertragen, und eine Infektion erhöht auch für sie das Risiko für Krebs, etwa im Mund- und Rachenraum. Die Ständige Impfkommission empfiehlt die Impfung daher für Mädchen und Jungen.",
+      "src": "AFP",
+      "t": "09:29"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "Gericht erlaubt Mäuseversuche an der Charité: Tierschutzverband verliert Klage",
+      "s": "Ein Berliner Gericht hat die Klage eines Tierschutzverbands gegen Tierversuche an der Charité abgewiesen. Untersucht wird ein bislang kaum behandelbarer und sehr aggressiver Tumor, der nach Gerichtsangaben in jedem Fall tödlich verläuft. Alternative Methoden gebe es für die Forschung nicht.",
+      "l": "Das Gericht stufte den Mäuseversuch des Arztes als unerlässlich ein. Die Bedeutung des Versuchs sei so groß, dass das Tierwohl in diesem Fall zurückstehe, hieß es zur Begründung; die Klage wurde daher abgewiesen.\n\nDer Fall zeigt die immer wieder aufflammenden Konflikte zwischen Tierversuchskritikern und Grundlagenforschung. Patientenverbände weisen darauf hin, dass für unheilbare Krebserkrankungen bislang keine Tierversuchsfreien Alternativen zur Verfügung stehen.",
+      "src": "AFP",
+      "t": "15:03"
+    }
+  ]
+}
