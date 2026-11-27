@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "sub": "Regulierung und Politik",
+      "h": "EU verbietet Nudify-Apps ab 2. Dezember",
+      "s": "Ab dem 2. Dezember verbietet die EU KI-Systeme, die ohne Einwilligung realistische intime Darstellungen identifizierbarer Personen erzeugen oder verändern, sogenannte Nudify-Apps. Auch KI-Systeme, die Darstellungen sexuellen Missbrauchs von Kindern erzeugen, werden verboten. Verstöße können Bußgelder von bis zu 35 Millionen Euro oder sieben Prozent des weltweiten Jahresumsatzes nach sich ziehen.",
+      "l": "Grundlage sind Ergänzungen zu Artikel 5 der KI-Verordnung (EU) 2024/1689, auf die sich Parlament und Rat im sogenannten Digital Omnibus verständigt hatten. Die Verschärfung reagiert auf die zunehmende Verbreitung sexualisierter KI-Fakes; in Deutschland hatte zuletzt etwa die Grünen-Politikerin Ricarda Lang ein Verbot gefordert.\n\nAußerdem endet am 2. Dezember eine Übergangsfrist für die maschinenlesbare Kennzeichnung älterer KI-Dienste. Die umfangreichen Pflichten für Hochrisiko-KI gelten dagegen erst ab dem 2. Dezember 2027 und dem 2. August 2028.",
+      "src": "Netz Trends",
+      "url": "https://www.netz-trends.de/ki-verordnung-nudify-verbot-dezember-2026/",
+      "t": "05:57"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Bund prüft größere Beteiligung an KI-Anbieter Cohere",
+      "s": "Die Bundesregierung beteiligt sich für einen symbolischen Euro am kanadisch-deutschen KI-Anbieter Cohere und erhält dafür besondere Mitspracherechte. Nach einem Bericht des Spiegel prüft das Digitalministerium zudem eine deutlich größere finanzielle Beteiligung. Cohere hat eine Fusion mit dem Heidelberger KI-Start-up Aleph Alpha vereinbart und will Büros in Heidelberg und Berlin aufbauen.",
+      "l": "Im Gegenzug verpflichtet sich das Unternehmen laut Digitalministerium zu konkreten Governance-Garantien, die die digitale Souveränität absichern sollen: Dazu gehören Beiträge zur KI-Wettbewerbsfähigkeit Deutschlands sowie Zusagen zu Arbeitsplätzen, Forschung und Investitionen im Land. Das Bundesfinanzministerium hatte der Mini-Beteiligung in der Vorwoche zugestimmt.\n\nKanada beteiligte sich in der jüngsten Finanzierungsrunde mit rund einer Milliarde Euro an dem fusionierten Unternehmen, das einen globalen KI-Champion bilden soll. Über eine darüber hinausgehende Bundesbeteiligung, für die womöglich Mittel aus einem geheimen Haushaltsposten genutzt werden könnten, wird in der Regierung noch beraten.",
+      "src": "IT-Fachportal",
+      "url": "https://www.it-fachportal.de/70998-bund-prueft-groessere-beteiligung-an-ki-anbieter-cohere/",
+      "t": "21:59"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "OpenAI korrigiert Abrechnungsfehler bei GPT-6.2",
+      "s": "OpenAI hat einen Fehler beim Zählen der Nutzung der neuen Modelle GPT-6.2 Astra und GPT-6.2 Sol eingeräumt: Seit dem Start am 17. November wurde der Verbrauch der meisten Nutzer zu niedrig erfasst. Zahlende Kunden erreichen ihre Limits nun schneller, für Astra rund 40 Prozent schneller als in der Vorwoche. Nachträglich berechnet wird niemandem etwas.",
+      "l": "Produktchef Thibault Sottiaux teilte den Fehler am Donnerstag auf der Plattform X mit. Als Entschädigung erhalten Nutzer der Tarife Go, Plus, Pro und Business einen einmaligen Banked Reset, mit dem sich das Nutzungskontingent jederzeit zurücksetzen lässt. OpenAI machte keine Angaben dazu, wie viele Nutzer betroffen waren und was genau schiefgelaufen ist.\n\nDas Unternehmen betont, beide Modelle erlaubten auch nach der Korrektur mehr Arbeit pro Kontingent als ihre Vorgänger. Nutzer können den Verbrauch nur eingeschränkt nachvollziehen; laut Hilfeseite können Unteragenten, Hintergrundaktivitäten und einige Werkzeuge in der Anzeige fehlen.",
+      "src": "heise online",
+      "url": "https://www.heise.de/en/news/OpenAI-corrects-billing-error-GPT-6-2-limits-arrive-sooner-11539518.html",
+      "t": "06:10"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Nach Huangs Rückkehr fluten KI-Parodien die Netzwerke",
+      "s": "Um den zurückgekehrten Nvidia-Chef Jensen Huang kursieren millionenfach geklickte Parodien, die mit KI erzeugt wurden: Videos zeigen ihn unter anderem in einem Bollywood-Gangsterfilm oder als Videospielfigur. Seine Wiedereinsetzung elf Tage nach dem Rücktritt wegen der Affäre mit einer mutmaßlichen Spionin hat die Flut weiter angeheizt.",
+      "l": "Forscher wie Joshua Tucker von der New York University weisen darauf hin, dass hyperrealistische Fälschungen nicht nur zur Desinformation dienen, sondern auch kreativ und ohne Täuschungsabsicht genutzt werden können. Einige Beobachter sehen in der Welle eine ironische Pointe: Ohne die Chips von Nvidia, auf denen generative KI läuft, wären Millionen solcher Meme kaum möglich.\n\nDie Affäre um Huang belastet den Konzern neben den diplomatischen und wirtschaftlichen Fragen auch im Bild; ob die Wiedereinsetzung den Verkaufsdruck auf die Aktie dauerhaft mindert, ist offen.",
+      "src": "AFP",
+      "t": "21:33"
+    }
+  ]
+}

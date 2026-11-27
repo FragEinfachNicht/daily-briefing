@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "sub": "Astronomie",
+      "h": "Auf dem Mars ist der Sonnenuntergang blau",
+      "s": "Weil der feine Marsstaub das Licht anders streut als die Erdatmosphäre, erscheint die Gegend um die Sonne beim Sonnenuntergang auf dem Mars bläulich. Tagsüber ist der Himmel dort dagegen milchig rötlich. Auf der Erde ist es genau umgekehrt: Der Taghimmel ist blau, der Sonnenuntergang rötlich."
+    },
+    {
+      "sub": "Körper",
+      "h": "Abends sind Menschen größer als morgens",
+      "s": "Menschen sind am Abend im Schnitt etwa ein bis zwei Zentimeter größer als nach dem Aufstehen. Tagsüber pressen Stehen, Gehen und Sitzen die Bandscheiben zwischen den Wirbeln zusammen, nachts füllen sie sich im Liegen wieder mit Flüssigkeit. Wer Körpergrößen vergleichen will, sollte sie deshalb immer zur gleichen Tageszeit messen."
+    },
+    {
+      "sub": "Geschichte",
+      "h": "Korea druckte mit Metalllettern vor Gutenberg",
+      "s": "Johannes Gutenberg entwickelte um 1450 in Mainz den Buchdruck mit beweglichen Metalllettern für Europa. In Korea wurde nachweislich schon 1377, also mehr als 70 Jahre früher, mit beweglichen Metalllettern gedruckt: Das Buch Jikji gilt als das älteste erhaltene mit dieser Technik gedruckte Buch der Welt."
+    },
+    {
+      "sub": "Physik",
+      "h": "Die Sonne macht fast die ganze Masse des Sonnensystems aus",
+      "s": "Die Sonne vereint rund 99,86 Prozent der gesamten Masse des Sonnensystems in sich. Der Rest verteilt sich auf alle Planeten, Monde, Asteroiden und Kometen, wobei allein Jupiter den größten Teil davon bindet. Ohne diese enorme Massenkonzentration würden die Planeten das Sonnensystem nicht auf stabilen Bahnen umkreisen."
+    }
+  ]
+}

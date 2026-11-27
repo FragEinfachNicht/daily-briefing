@@ -1,0 +1,38 @@
+{
+  "created": "06:14",
+  "window": "26.11., 06:00 bis 27.11., 06:00",
+  "topics": [
+    {
+      "id": "politik",
+      "name": "Politik"
+    },
+    {
+      "id": "wirtschaft",
+      "name": "Wirtschaft"
+    },
+    {
+      "id": "wissenschaft",
+      "name": "Wissenschaft"
+    },
+    {
+      "id": "informatik",
+      "name": "Informatik"
+    },
+    {
+      "id": "ki",
+      "name": "KI"
+    },
+    {
+      "id": "knobel",
+      "name": "Knobelecke"
+    },
+    {
+      "id": "wissen",
+      "name": "Wissensecke"
+    },
+    {
+      "id": "vermischtes",
+      "name": "Am Rande"
+    }
+  ]
+}

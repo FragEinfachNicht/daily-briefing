@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "sub": "Logikrätsel",
+      "h": "Der Mönch auf dem Berg",
+      "s": "Ein Mönch bricht am frühen Morgen zu einer Bergwanderung auf. Er wandert den schmalen Weg den ganzen Tag hinauf, hält immer wieder Rast, geht mal schneller, mal langsamer, auch mal ein Stück zurück, und erreicht den Gipfelpavillon zum Sonnenuntergang. Dort übernachtet er. Am nächsten Morgen bricht er zur gleichen Zeit auf und steigt denselben Weg hinab, wieder in wechselndem Tempo, und erreicht zum Sonnenuntergang das Tal. Gibt es mit Sicherheit einen Punkt auf dem Weg, an dem er bei beiden Wanderungen zur genau gleichen Tageszeit vorbeikommt?",
+      "sol": "Ja. Man stelle sich zwei Wanderer vor, die zur gleichen Zeit aufbrechen: der eine wandert von unten nach oben, der andere von oben nach unten, beide mit exakt dem Zeitplan des Mönchs an seinen beiden Wandertagen. Da beide denselben Weg benutzen, müssen sie sich zwangsläufig irgendwo begegnen. An dieser Begegnungsstelle ist der aufsteigende Wanderer zu derselben Tageszeit dort, wo der absteigende am anderen Tag zur gleichen Zeit war. Es gibt also mit Sicherheit mindestens einen solchen Punkt."
+    },
+    {
+      "sub": "Mathe und Zahlen",
+      "h": "Der Seerosenteich",
+      "s": "Auf einem Teich wächst eine Seerosenfläche, die sich jeden Tag genau verdoppelt. Von dem Tag an, an dem die Bedeckung beginnt, braucht sie 48 Tage, um den ganzen Teich zu bedecken. An welchem Tag war der Teich genau zur Hälfte bedeckt?",
+      "sol": "Am 47. Tag. Weil sich die Fläche jeden Tag verdoppelt, ist sie einen Tag vor der vollständigen Bedeckung genau halb so groß wie am letzten Tag. Am 48. Tag ist der Teich vollständig bedeckt, also war er am 47. Tag zur Hälfte bedeckt."
+    }
+  ]
+}

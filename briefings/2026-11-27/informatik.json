@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "BSI warnt vor Lawine automatisierter Cyberangriffe mit agentischer KI",
+      "s": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt vor einer möglichen Lawine neuer Cyberangriffe, bei denen Kriminelle agentische KI-Systeme nutzen, um Angriffe weitgehend zu automatisieren. Spezielle Plattformen verknüpfen große Sprachmodelle mit klassischen Hacking-Werkzeugen. BSI-Präsidentin Claudia Plattner mahnte Behörden und Unternehmen, ihre Abwehrfähigkeit dringend zu erhöhen.",
+      "l": "Mit sogenannten Agentic Offensive Frameworks reicht es laut BSI künftig aus, lediglich ein Angriffsziel zu benennen; autonome KI-Agenten suchen dann selbstständig nach Schwachstellen, nutzen sie aus oder schwenken bei Hindernissen auf andere Angriffswege um. Die nötigen Fachkenntnisse sanken deutlich, heißt es in dem am Donnerstag veröffentlichten Bericht. Dem BSI liegen bereits Fälle vor, in denen der Einsatz solcher Werkzeuge vermutet oder nachgewiesen wurde.\n\nKonkret nennt die Behörde Baukästen wie Artex, CAIRN oder PentAGI. Plattner rief dazu auf, grundlegende Schutzmaßnahmen schnellstmöglich umzusetzen: starke Passwörter, geschützte Schnittstellen sowie erarbeitete und geübte Notfallpläne. Künftig seien sowohl höhere Qualität als auch höhere Quantität von Angriffen zu erwarten.",
+      "src": "AFP",
+      "t": "15:32"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "Nvidia stoppt Chip-Exporte in vier südostasiatische Länder",
+      "s": "Nvidia hat laut einem Bericht der Financial Times den Export von Halbleitern nach Singapur, Thailand, Malaysia und Indonesien gestoppt. Geschäftspartner wie Dell und Supermicro wurden aufgefordert, keine Server mit Nvidia-Chips mehr in diese Länder zu liefern. Hintergrund ist die Sorge, dass chinesische Firmen über Rechenzentren in Südostasien an gesperrte US-Chiptechnik gelangen.",
+      "l": "Als betroffener Käufer nennt die Financial Times die Cloud-Firma Aolani in Singapur, die zum Tiktok-Mutterkonzern Bytedance gehört. Es sei unklar, ob der Stopp vorübergehend oder dauerhaft gilt. Washington hatte in der Vorwoche neue Vorschriften erlassen: Wer chinesischen Firmen in großem Umfang Rechenleistung auf Basis von Hochleistungschips zur Verfügung stellen will, braucht künftig eine US-Lizenz.\n\nDer Schritt ist Teil der Affäre um Konzernchef Jensen Huang, dem eine Verbindung zu einer mutmaßlichen chinesischen Spionin vorgeworfen wird. Huang trat zurück und wurde am Montag auf Drängen von US-Präsident Donald Trump wieder eingesetzt.",
+      "src": "AFP",
+      "t": "11:10"
+    },
+    {
+      "sub": "Software und Entwicklung",
+      "h": "Linus Torvalds weist extrem großen Kernel-Patch für Linux 7.4 zurück",
+      "s": "Linus Torvalds hat einen ungewöhnlich großen Pull-Request für den Release Candidate 5 von Linux 7.4 scharf kritisiert. Der Patch für das Dateisystem Ext4 umfasst 94 Änderungen mit über 41.000 neuen Codezeilen, zumeist Prüfroutinen für automatisierte Tests. Torvalds stört vor allem der späte Zeitpunkt mitten in der Stabilisierungsphase.",
+      "l": "Der zuständige Entwickler Theodore Ts'o hatte den Antrag eingereicht, der nach Berichten von Phoronix teilweise mithilfe von KI entstand. Torvalds lehnt KI-Werkzeuge in der Kernel-Entwicklung grundsätzlich nicht ab, er nutzt sie selbst; ärgern tun ihn aber das Ausmaß und das Timing, mitten in der Phase, in der nur noch Fehler behoben werden sollen.\n\nIn Tests steigerte ein im Paket enthaltener Patch von Daejun Park den Durchsatz von SSD-Festplatten. Der Release Candidate 5 von Linux 7.4 soll am Sonntag erscheinen.",
+      "src": "WinFuture",
+      "url": "https://winfuture.de/news,162914.html",
+      "t": "07:12"
+    },
+    {
+      "sub": "Linux und Open Source",
+      "h": "Pop!_OS 26.04 LTS mit COSMIC-Desktop erschienen",
+      "s": "System76 hat Pop!_OS 26.04 LTS veröffentlicht, die erste LTS-Version der Ubuntu-basierten Distribution mit dem eigenen COSMIC-Desktop. Neu sind Themenpakete namens Constellations, Unterstützung für Grafiktabletts, Fernwartung und automatische Updates. Ein Upgrade von Version 24.04 soll im Dezember folgen.",
+      "l": "Constellations sind fertige Themenpakete, mit denen sich Hintergrundbilder, Icons, Schriften und Layout des Desktops auf einmal umstellen und teilen lassen; der beliebte Frosted-Glass-Effekt lässt sich auf jedes Thema anwenden. Dazu kommen eine Bildschirmtastatur mit Touch- und Gamepad-Eingabe, neue Bedienungshilfen wie das Auffinden des Cursors durch Schütteln und eine automatische GPU-Auswahl auf Systemen mit zwei Grafikeinheiten.\n\nWer die volle Erfahrung will, installiert nach Herstellerangaben das neue ISO-Image neu; bestehende Installationen haben die meisten Funktionen bereits über Updates der vergangenen Monate erhalten.",
+      "src": "OMG! Ubuntu",
+      "url": "https://www.omgubuntu.co.uk/2026/11/pop_os-26-04-lts-released",
+      "t": "23:17"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "Europol zerschlägt 57 illegale IPTV-Dienste",
+      "s": "Europol und Polizeibehörden aus elf Ländern haben in einer koordinierten Aktion 57 illegale IPTV-Dienste gestört und 321 Webseiten identifiziert. Im Zentrum stand nicht nur die Abschaltung, sondern die Verfolgung der Geldströme; Kryptofirmen wie Binance und Coinbase halfen bei der Blockchain-Analyse. Schätzungen zufolge nutzen rund 60 Millionen Menschen in Europa illegale IPTV-Angebote.",
+      "l": "Die fünftägige Operation fand vom 16. bis 20. November statt, koordiniert über die Europol-Einheit IPC3; rund 40 Personen, darunter 30 Polizeibeamte aus elf Staaten, wirkten mit. Die betroffenen Seiten verzeichneten nach Europol-Angaben zusammen mehr als 7,3 Millionen Besuche im Jahr.\n\nDie Anbieter verkaufen häufig günstige Abonnements mit Tausenden Fernsehsendern und Sportübertragungen ohne Lizenzen. Die Auswertung der Zahlungsströme dauert noch an; die Erkenntnisse sollen in nationale Ermittlungen gegen die Betreiber einfließen.",
+      "src": "WinFuture",
+      "url": "https://winfuture.de/news,162925.html",
+      "t": "11:45"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "Bundesnetzagentur will Mobilfunk für Krisen rüsten",
+      "s": "Die Bundesnetzagentur hat eine fortgeschriebene Resilienzstrategie für das Mobilfunknetz vorgelegt. Kern ist ein krisenfähiges Rumpfnetz aus ausgewählten Basisstationen, längere Notstrompuffer und Satellitenkommunikation. Anlass sind Stromausfälle nach Anschlägen auf Infrastruktur in Berlin, bei denen zeitweise rund 50.000 Haushalte ohne Strom waren.",
+      "l": "Die Strategie richtet sich nach den Angriffen von September 2025 und Januar 2026 neu aus; ein weiterer Ausfall im Südwesten Berlins betraf rund 45.000 Haushalte und dauerte etwa 100 Stunden. Die Vorfälle zeigten, wie abhängig Mobilfunknetze von Energieversorgung, Zugänglichkeit der Standorte, Personal, Ersatzteilen und Kraftstoff sind.\n\nIn die Auswahl der Rumpfnetz-Standorte sollen Reichweite, Position im Netz und die Nähe zu Leitstellen, Krankenhäusern und Rettungsdiensten einfließen. Viele Vorschläge sind zunächst Prüfaufträge; verbindliche Pflichten für die Netzbetreiber schafft das Papier nicht.",
+      "src": "ComputerBase",
+      "url": "https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548/"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Deichmann meldet Datenabfluss aus dem Onlineshop",
+      "s": "Der Schuhhändler Deichmann hat einen IT-Sicherheitsvorfall in seinem Onlineshop bestätigt: Unbefugte erlangten Zugriff auf Kundendaten wie Namen, Adressen, E-Mail-Adressen, Telefonnummern und Rechnungen. Das Unternehmen schloss die ausgenutzte Schwachstelle, erstattete Strafanzeige und warnt vor Phishing mit echten Bestelldaten.",
+      "l": "Nach Unternehmensangaben sind Passwörter und Zahlungsdaten wie Kreditkartennummern nicht betroffen; das Ausmaß des Vorfalls blieb zunächst offen, Anhaltspunkte für einen Missbrauch gibt es bislang nicht. Mit externen Sicherheitsexperten wird der Vorfall aufgearbeitet.\n\nDeichmann warnt ausdrücklich vor besonders glaubwürdigen Betrugsversuchen, bei denen sich Angreifer mit echten Bestelldaten ausgeben. Kunden sollten unerwartete Zahlungsaufforderungen genau prüfen; das Unternehmen fragt weder per E-Mail noch telefonisch Passwörter oder Zahlungsdaten ab.",
+      "src": "ComputerBase",
+      "url": "https://www.computerbase.de/news/wirtschaft/deichmann-onlineshop-sicherheitsluecke-gab-hackern-zugriff-auf-kundendaten.100525/"
+    },
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Gericht: Rechnungen per E-Mail brauchen Ende-zu-Ende-Verschlüsselung",
+      "s": "Das Landgericht Frankenthal hat ein Handwerksunternehmen zu Schadenersatz verurteilt, weil es eine Rechnung über knapp 20.000 Euro nur mit TLS und nicht Ende-zu-Ende verschlüsselt verschickt hatte. Ein Betrüger fing die E-Mail ab, änderte die Bankverbindung und leitete sie weiter. Ein Mitverschulden des Kunden sah das Gericht nicht.",
+      "l": "Der Kunde hatte Lieferung und Montage einer Sauna beauftragt und nach dem Betrug den Betrag ein zweites Mal überwiesen. Das Gericht gab seiner Klage in vollem Umfang statt: Die gewählte Verschlüsselung genüge europäischen Datenschutzregeln nicht, bei Rechnungen über fünfstellige Beträge sei Ende-zu-Ende-Verschlüsselung nötig.\n\nWeder die ähnlich lautende Absenderadresse noch die geänderte Bankverbindung hätten das Misstrauen des Kunden erwecken müssen, so die Kammer. Für Unternehmen hat das Urteil praktische Folgen: Empfindliche Dokumente sollten künftig verschlüsselt oder über gesicherte Portale versendet werden.",
+      "src": "AFP",
+      "t": "14:40"
+    }
+  ]
+}

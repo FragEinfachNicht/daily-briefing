@@ -19,3 +19,7 @@
 2026-11-26 | Das Schnabeltier legt Eier und ernährt Junge über Hautdrüsen am Bauch
 2026-11-26 | Licht läuft in Wasser rund ein Viertel langsamer als im Vakuum
 2026-11-26 | Ein großes scharfes s ist amtlich erst seit 2017
+2026-11-27 | Auf dem Mars erscheint der Sonnenuntergang blau
+2026-11-27 | Menschen sind abends bis zu zwei Zentimeter größer als morgens
+2026-11-27 | Korea druckte mit beweglichen Metalllettern schon 1377, vor Gutenberg
+2026-11-27 | Die Sonne stellt rund 99,86 Prozent der Masse des Sonnensystems

@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "USA erlauben SpaceX Start von bis zu einer Million Satelliten für Orbit-Rechenzentren",
+      "s": "Die US-FCC hat SpaceX die Genehmigung erteilt, bis zu eine Million Satelliten für Rechenzentren im All zu starten. Die Konstellation Starmind soll große Datenmengen im Orbit verarbeiten und über Starlink zur Erde funken; die Genehmigung läuft bis 2040. Fachleute warnen vor technischen Hürden und Folgen für die Astronomie.",
+      "l": "FCC-Chef Brendan Carr sprach vom Beginn der Ära der Superintelligenz; Orbit-Rechenzentren seien wichtig, um Amerikas Führung zu sichern. Neben SpaceX verfolgen Google mit Suncatcher und Jeff Bezos' Firma Blue Origin mit Project Sunrise eigene Projekte, auch Start-ups wie Starcloud mischen mit. SpaceX hat den Vorteil eigener Raketen und arbeitet mit Nvidia zusammen, das dafür entwickelte Vera-Rubin-Prozessoren liefern soll.\n\nUngeklärt sind nach Expertenmeinung unter anderem die Strahlenresistenz der Prozessoren, extreme Temperaturschwankungen und die Gefahr durch Weltraumschrott und Mikrometeoriten. Die American Astronomical Society zeigte sich enttäuscht und alarmiert: Die Konstellation untergrabe jahrzehntelange öffentliche Investitionen in die Astronomie.",
+      "src": "AFP",
+      "t": "09:20"
+    },
+    {
+      "sub": "Umwelt und Klima",
+      "h": "Studie: Erderwärmung könnte Blitzeinschläge bis 2100 fast verdoppeln",
+      "s": "Nach einer neuen Studie der Technischen Universität München könnten bis zum Jahr 2100 rund doppelt so viele Wolke-Boden-Blitze die Erdoberfläche erreichen wie heute. Schon jetzt blitzt es weltweit 40- bis 120-mal pro Sekunde, mehrere Tausend Menschen sterben jährlich an einem Blitztreffer. Für die Analyse nutzte das Team Wetterdaten und KI-Modelle.",
+      "l": "Bisher war unsicher, wie Blitze auf den Klimawandel reagieren: Wärmere Luft fördert Aufwinde und Gewitterwolken, in einer wärmeren Atmosphäre bilden sich aber auch weniger Eiskristalle, die für die elektrische Aufladung wichtig sind. Erstautor Andreas Krause erklärte, welcher der beiden Effekte überwiegt, sei nicht ganz klar gewesen.\n\nDas Team untersuchte in der Fachzeitschrift Earth's Future gezielt die gefährlichen Blitze, die von der Wolke bis zum Boden reichen, und nicht die Gesamtheit aller Entladungen. Die Ergebnisse deuten darauf hin, dass die Zahl der Blitzeinschläge deutlich stärker steigt als bislang angenommen; Waldbrände, Schäden an Infrastruktur und Todesopfer könnten entsprechend zunehmen.",
+      "src": "Focus Online",
+      "url": "https://www.focus.de/earth/umwelt/ich-war-ziemlich-ueberrascht-klimawandel-fuehrt-zu-mehr-blitzschlaegen-forscher-verbluefft_438353c3-d7eb-45bd-872d-41d98af82db9.html",
+      "t": "06:00"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "Studie: Häufige Nachtschicht verändert die Struktur des Herzens",
+      "s": "Eine chinesische Studie mit Daten von mehr als 40.000 Menschen aus der britischen UK Biobank verbindet häufige Nachtschichtarbeit mit Veränderungen der Herzstruktur und einiger Blutwerte. Bei Nachtarbeitenden war die Wand der linken Herzkammer dicker, die Kammern kleiner. Die Forscher betonen, es handele sich um Veränderungen unterhalb der Schwelle einer klinischen Erkrankung.",
+      "l": "Die Auswertung von MRT-Aufnahmen erschien im European Heart Journal - Cardiovascular Imaging. Schätzungen zufolge arbeitet rund jeder fünfte Beschäftigte weltweit nachts; frühere Studien verbanden das mit einem erhöhten Risiko für Herz-Kreislauf-Erkrankungen. Die direkten Veränderungen am Herzen waren bislang wenig erforscht.\n\nZu Studienbeginn waren die 42.671 Probanden im Schnitt 52 Jahre alt, 1.848 arbeiteten gelegentlich und 1.322 regelmäßig in Nachtschichten. Bei häufigen Nachtschichten zeigten sich zudem Hinweise auf Zusammenhänge mit Proteinen, die an Entzündungsprozessen beteiligt sind. Die Pumpleistung der linken Herzkammer war nicht auffällig; dass alle Nachtarbeitenden erkranken, ist damit nicht gesagt.",
+      "src": "Focus Online",
+      "url": "https://www.focus.de/gesundheit/news/nachtschicht-veraendert-herzstruktur-und-blutwerte-kardiologie-professor-raet-blutdruck-im-blick-behalten_b2b7c344-29ac-4306-acca-ffe56f6160ff.html",
+      "t": "05:46"
+    },
+    {
+      "sub": "Forschung und Entdeckungen",
+      "h": "Langzeitstudie: Delfine mit beständigen Gruppen leben offenbar länger",
+      "s": "Eine in der Fachzeitschrift PLOS Biology erschienene Langzeitstudie verbindet die Wahl der Gruppengröße bei Delfinen mit ihrer Lebenserwartung. Tiere, die über ihr Leben hinweg bei einer bestimmten Gruppengröße bleiben, statt zwischen kleinen und großen Gruppen zu wechseln, erreichen tendenziell ein höheres Alter. Das älteste untersuchte Tier wurde 53 Jahre alt.",
+      "l": "Das Team unter Beteiligung der australischen University of Queensland wertete rund 65.000 Beobachtungen von etwa 400 Indopazifischen Großen Tümmlern in der Shark Bay vor Westaustralien aus vier Jahrzehnten aus. Die Einzeltiere ließen sich anhand ihrer Rückenflossen unterscheiden.\n\nJunge Delfine halten sich demnach in Gruppen sehr unterschiedlicher Größe auf; mit dem Alter nimmt die durchschnittliche Gruppengröße zunächst zu, im hohen Alter wieder ab, besonders bei Männchen. Größere Gruppen bieten besseren Schutz vor Fressfeinden, und die Pflege langjähriger Beziehungen könnte ebenfalls zu einem höheren Alter beitragen.",
+      "src": "Berliner Zeitung",
+      "url": "https://www.berliner-zeitung.de/article/kleine-oder-grosse-gruppen-welche-delfine-offenbar-laenger-leben-10640064",
+      "t": "21:59"
+    },
+    {
+      "sub": "Forschung und Entdeckungen",
+      "h": "Experiment mit ultrakalten Atomen soll Rätsel der Quantenzeit prüfen",
+      "s": "Forscher des japanischen Instituts RIKEN haben einen Versuchsaufbau vorgeschlagen, der klären soll, wie lange ein Quantenteilchen für eine bestimmte Strecke braucht. Verschiedene Ansätze der Quantenmechanik sagen unterschiedliche Ankunftszeiten voraus. Als Testobjekt dient ein Bose-Einstein-Kondensat aus ultrakalten Heliumatomen im freien Fall.",
+      "l": "Anders als bei klassischen Objekten lässt sich bei Quantenteilchen keine einzelne Ankunftszeit vorhersagen; es geht um die statistische Verteilung vieler Messungen. Bisherige Experimente fanden unter Bedingungen statt, unter denen die konkurrierenden Rechenansätze fast identische Ergebnisse liefern.\n\nDer neue Aufbau soll erstmals Bedingungen schaffen, unter denen sich die Vorhersagen deutlich unterscheiden. Die Arbeit des Teams um Pascal Naidon wurde laut scinexx vom Fachmagazin Physical Review Letters zur Veröffentlichung angenommen und ist auf dem Preprint-Server arXiv zugänglich. Nach Angaben der Forscher lässt sich das Experiment mit bereits verfügbarer Technik realisieren.",
+      "src": "scinexx",
+      "url": "https://www.scinexx.de/news/physik/ultrakalte-atome-koennten-ein-zeitraetsel-der-quantenphysik-loesen/",
+      "t": "19:51"
+    },
+    {
+      "sub": "Astronomie",
+      "h": "Simulation: Unser Sonnensystem liegt in einer ruhigen Zone der Milchstraße",
+      "s": "Eine Studie im britischen Fachmagazin Monthly Notices of the Royal Astronomical Society kommt auf Basis des Simulationsprojekts EAGLE zu dem Schluss, dass unser Sonnensystem in einer Region liegt, in der Leben selten von zerstörerischer Strahlung bedroht wird. Die Milchstraße habe ihre unruhigste Phase der Sternentstehung hinter sich. Das begünstige stabile Bedingungen für Planeten.",
+      "l": "Die Forscher nutzten die Simulation des EAGLE-Projekts der University of Durham, die die Entwicklung von Galaxien über Hunderte Millionen Lichtjahre nachzeichnet und Gravitation, Gas, Sterne und Schwarze Löcher einbezieht. Anders als üblich betrachtete die Analyse nicht nur die Zone um einen Stern, in der flüssiges Wasser möglich ist, sondern das Gesamtsystem.\n\nGalaxien dieser Größe und in diesem Entwicklungsstadium böten die stabilsten Voraussetzungen, um Planeten vor energiereicher Strahlung zu bewahren. Die Ergebnisse liefern damit auch Argumente in der Debatte, wie häufig Leben im Universum überhaupt entstehen und überdauern kann.",
+      "src": "t3n",
+      "url": "https://t3n.de/news/erde-sicherster-platz-milchstrasse-simulation-1766947/",
+      "t": "06:00"
+    }
+  ]
+}
