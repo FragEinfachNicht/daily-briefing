@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "sub": "Logikrätsel",
+      "h": "Die Münzen auf der runden Platte",
+      "s": "Zwei Spieler legen abwechselnd je eine Münze auf eine runde Platte. Die Münzen müssen vollständig auf der Platte liegen und dürfen sich nicht überlappen, sich gegenseitig berühren ist aber erlaubt. Wer zuletzt eine Münze platzieren kann, gewinnt. Spieler A beginnt. Kann einer der beiden das Spiel mit Sicherheit gewinnen, und wenn ja, welcher?",
+      "sol": "Spieler A kann immer gewinnen, wenn er als erste Münze eine genau in die Mitte der Platte legt. Danach kopiert er jeden Zug von B punktsymmetrisch: Legt B eine Münze irgendwo auf die Platte, setzt A seine an genau die gegenüberliegende Stelle jenseits des Mittelpunkts. Weil die Platte rund und damit punktsymmetrisch ist, ist dort garantiert wieder Platz, sobald B überhaupt hätte legen können. Auf diese Weise kann A auf jeden Zug von B eine Antwort haben und legt stets als Letzter eine Münze. B findet irgendwann keinen Platz mehr und verliert."
+    },
+    {
+      "sub": "Mathe und Zahlen",
+      "h": "Die zwei gleich langen Kerzen",
+      "s": "Zwei frisch gekaufte Kerzen sind exakt gleich lang. Die erste brennt in vier Stunden vollständig ab, die zweite in drei Stunden. Irgendwann schaut jemand nach und stellt fest, dass die langsamere Kerze zu diesem Zeitpunkt genau doppelt so lang ist wie die schnellere. Wie lange brennen die Kerzen dann schon?",
+      "sol": "Nach 2 Stunden und 24 Minuten. Nach t Stunden ist von der langsamen Kerze noch 1 minus t/4 der Länge übrig, von der schnellen noch 1 minus t/3. Die Bedingung lautet: 1 minus t/4 gleich 2 mal (1 minus t/3). Aufgelöst ergibt das t gleich 2,4 Stunden. Probe: Nach 2,4 Stunden sind von der langsamen Kerze noch 40 Prozent übrig, von der schnellen noch 20 Prozent, und 40 Prozent ist genau doppelt so viel wie 20 Prozent. Beide Kerzen brennen zu diesem Zeitpunkt noch, die Angaben passen also."
+    }
+  ]
+}

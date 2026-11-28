@@ -23,3 +23,7 @@
 2026-11-27 | Menschen sind abends bis zu zwei Zentimeter größer als morgens
 2026-11-27 | Korea druckte mit beweglichen Metalllettern schon 1377, vor Gutenberg
 2026-11-27 | Die Sonne stellt rund 99,86 Prozent der Masse des Sonnensystems
+2026-11-28 | Ein Blitz ist heißer als die Oberfläche der Sonne
+2026-11-28 | Wombats hinterlassen würfelförmigen Kot
+2026-11-28 | Haie sind älter als Bäume
+2026-11-28 | Die Antarktis ist die größte Wüste der Erde

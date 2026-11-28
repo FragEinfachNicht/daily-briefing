@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "sub": "Branchennews",
+      "h": "OpenAI erhebt Widerklage gegen Apple wegen Geschäftsgeheimnissen",
+      "s": "OpenAI hat am Freitag vor einem US-Bundesgericht in San Jose Widerklage gegen Apple eingereicht, zwölf Ansprüche umfassend. Dem iPhone-Konzern wird vorgeworfen, an Geschäftsgeheimnisse gelangt zu sein und Zulieferer unter Druck gesetzt zu haben. Apple hatte OpenAI und zwei ehemalige Mitarbeiter im Juli wegen Geheimnisdiebstahls verklagt; der Prozess soll 2027 beginnen.",
+      "l": "Im Mittelpunkt der Widerklage steht ein namentlich nicht genannter früherer Apple-Mitarbeiter, den die Schrift als Employee X bezeichnet. Er kam im Dezember 2025 zu OpenAI, arbeitete an einem unveröffentlichten Gerät und ging im Juni 2026. Bereits wenige Wochen nach seinem Start soll er vertrauliche Dateien an private E-Mail-Adressen und Telefonnummern geschickt haben, darunter ein 76 Seiten langes Prüfverfahren für ein Bauteil.\n\nOpenAI wirft Apple zudem vor, gemeinsame Zulieferer unter Druck gesetzt und Wechsel von Beschäftigten erschwert zu haben. Apple erklärte im Oktober, es habe keine vertraulichen OpenAI-Informationen gefunden; die Vorwürfe werden bestritten.\n\nAuch die Gerätefirma io Products, die OpenAI 2025 übernommen hat, und die beiden Ex-Apple-Mitarbeiter sind Verfahrensbeteiligte.",
+      "src": "Dr. Web",
+      "url": "https://www.drweb.de/openai-widerklage-apple-geschaeftsgeheimnisse/"
+    },
+    {
+      "sub": "Regulierung und Politik",
+      "h": "Bundesregierung will KI-Anbieter für erzeugte Inhalte zahlen lassen",
+      "s": "Die Bundesregierung schlägt in einer Stellungnahme zur EU-Konsultation zum Urheberrecht ein neues Vergütungsmodell für generative KI vor. Danach sollen Anbieter zahlen, wenn ihre Systeme Texte, Musik oder Videos erzeugen, die mit von Menschen geschaffenen Werken konkurrieren. Das Geld soll über Verwertungsgesellschaften fließen.",
+      "l": "Ziel ist laut Papier, dass Rechteinhaber einen fairen Anteil an der Wertschöpfung durch KI in der EU erhalten. Profitieren sollen ausdrücklich diejenigen, die ihre Werke kostenlos für das KI-Training zur Verfügung stellen; wer der Nutzung widerspricht, soll weiterhin individuelle Lizenzen aushandeln können. Der Widerspruch soll künftig leichter fallen und von den Anbietern kontrollierbar sein.\n\nEin zweites Problemfeld sieht die Regierung darin, dass KI-Systeme aktuelle Medieninhalte im Netz auswerten und in eigenen Antworten zusammenfassen, womit Verlagen Besucher und Einnahmen verloren gehen. Die Bundesregierung fordert einen Rechtsrahmen, der Medienpluralismus und Meinungsvielfalt sichert, und kündigte an, Lücken im EU-Urheberrecht zu prüfen.\n\nNach dem Arbeitsprogramm der EU-Kommission ist für das zweite Quartal 2027 ein Gesetzespaket vorgesehen, das auch das Urheberrecht betrifft.",
+      "src": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html",
+      "t": "08:48"
+    },
+    {
+      "sub": "Branchennews",
+      "h": "Deutsche Telekom investiert 100 Millionen Euro in Mistral AI",
+      "s": "Die Deutsche Telekom beteiligt sich mit rund 100 Millionen Euro am französischen KI-Anbieter Mistral AI. Die Investition unterstreicht das Interesse europäischer Konzerne an einer eigenständigen KI-Industrie auf dem Kontinent. Mistral gilt als Europas bekannteste Hoffnung im Wettbewerb mit den US-Anbietern.",
+      "l": "Mistral AI wurde 2023 in Paris gegründet und entwickelt offene und kommerzielle Sprachmodelle, die als Alternative zu Anbietern aus den USA vermarktet werden. Die Finanzierungsrunde, an der sich die Telekom beteiligt, soll dem Unternehmen den Ausbau der Rechenkapazitäten und die Weiterentwicklung seiner Modelle ermöglichen.\n\nFür die Telekom ist die Beteiligung Teil einer Strategie, KI-Fähigkeiten in Netze, Kundenservice und Geschäftskundenangebote zu integrieren und dabei auf europäische Partner zu setzen. Ähnliche Motive hatte zuletzt auch die Bundesregierung mit ihrer Beteiligung am KI-Anbieter Cohere genannt.\n\nBeobachter warnen allerdings, dass europäische Anbieter weiter deutlich kleiner sind als die US-Konkurrenz und ohne große Kunden und Rechenpower schwer mithalten können.",
+      "src": "Soester Anzeiger"
+    },
+    {
+      "sub": "Tools und Anwendungen",
+      "h": "KI-Shopping-Agenten umgehen Amazon und Google als Einkaufstore",
+      "s": "KI-Shopping-Agenten, die Aufträgen folgend selbstständig im Netz einkaufen, könnten Amazon und Google als zentrale Einkaufs- und Suchplattformen umgehen. Analysen sprechen von einem Kampf um die Entscheidungsschicht des Onlinehandels: Wer dem Kunden empfiehlt und kauft, verdient auch künftig. OpenAI und Meta gelten als Herausforderer.",
+      "l": "Der Kern des Modells: Verbraucher beschreiben, was sie wollen, und ein Agent vergleicht Angebote über Websites hinweg und schließt den Kauf ab. Sponsoreneinblendungen und Prime-Checkout-Seiten werden dabei umgangen, genau wie die Werbeplätze, von denen Google lebt. Jede umgangene Mautstelle ist verlorener Umsatz für die bisherigen Plattformbetreiber.\n\nDeshalb investieren die Wettbewerber groß in Agenten, die als vertrauenswürdige Stimme im Haushalt etabliert werden sollen. Für Händler eröffnen sich neue Kanäle, sie riskieren aber auch die Abhängigkeit von einer neuen Zwischenschicht.\n\nOffen ist, wie Kunden die Entscheidung des Agenten kontrollieren können und wer bei Fehlkäufen haftet. Verbraucherschützer fordern Transparenz über Empfehlungslogik und Provisionen.",
+      "src": "Eulerpool News",
+      "url": "https://www.klamm.de/news/ki-shopping-agenten-kommen-und-zielen-auf-amazon-und-google-67N20261127213520.html",
+      "t": "21:35"
+    },
+    {
+      "sub": "Forschung",
+      "h": "Umfrage: 92 Prozent der indischen Firmen melden Vorfälle durch agentische KI",
+      "s": "Nach einer Umfrage haben 92 Prozent der befragten indischen Unternehmen Sicherheitsvorfälle im Zusammenhang mit agentischer KI gemeldet. Als zentrales Risiko gilt, dass KI-Agenten mit weitreichenden Rechten schneller handeln, als Menschen eingreifen können. Die Angaben beruhen bislang auf einem einzelnen Bericht und sind deshalb als unbestätigt markiert.",
+      "l": "Agentische KI-Systeme verbinden Sprachmodelle mit Werkzeugen und Rechten: Sie lesen Mailpostfächer, legen Tickets an oder löschen Dateien. Sind sie mit Administratorrechten ausgestattet, können Aktionen wie das Löschen von Daten schneller erfolgen, als ein menschliches Eingreifen möglich ist. Genau diese Lücke zwischen Handlungsgeschwindigkeit und Kontrolle steht im Zentrum der Befunde.\n\nDie Ergebnisse passen zu Warnungen des deutschen BSI vor Agenten, die Angriffe weitgehend automatisieren. Sicherheitsexperten empfehlen deshalb, Agenten nur mit minimalen Rechten auszustatten, kritische Aktionen an Bestätigungen zu koppeln und alle Schritte zu protokollieren.\n\nDa die zugrunde liegende Erhebung in deutschen Medien noch nicht unabhängig nachgeprüft ist, sollte die Zahl vorläufig behandelt werden.",
+      "src": "Ad-hoc-News",
+      "unc": true
+    }
+  ]
+}

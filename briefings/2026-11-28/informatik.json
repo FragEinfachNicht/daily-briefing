@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "sub": "Sicherheit und Datenschutz",
+      "h": "Cyberangriff auf SAP: GitHub-Konten im Visier, agentische KI im Verdacht",
+      "s": "Der Dax-Konzern SAP hat einen IT-Sicherheitsvorfall bestätigt: Verdächtige Aktivitäten wurden auf der Entwicklerplattform GitHub festgestellt, wie der Spiegel und andere Medien berichten. Intern läuft der Vorfall dem Bericht zufolge unter dem Codenamen Project Granite. Nach Angaben des Konzerns gibt es bislang keine Hinweise auf unbefugten Zugriff auf Kundendaten.",
+      "l": "SAP hatte die Belegschaft bereits vor einigen Tagen intern informiert und die Mitarbeiter aufgefordert zu prüfen, ob Zugangsdaten geändert werden müssen. Nach Angaben des Handelsblatt beschränkte der Konzern den Zugriff auf GitHub, stoppte automatisierte Abläufe in der Softwareentwicklung und tauschte Signaturschlüssel aus.\n\nUnternehmensinternen Quellen zufolge sollen die Angreifer womöglich agentische KI eingesetzt haben, also KI-Agenten, die Angriffsschritte selbstständig planen und ausführen. Was genau kompromittiert wurde und wann der Vorfall entdeckt wurde, sagte das Unternehmen nicht.\n\nGitHub steht seit Monaten im Fokus von Cyberkriminellen, denen zuletzt Mitte November wieder eine große Zahl gekaperte Repositories zugerechnet wurde. Der Vorfall fügt sich in die aktuelle Warnlage ein, die das BSI am Donnerstag vor einer Welle KI-automatisierter Angriffe beschrieben hatte.",
+      "src": "heise online",
+      "url": "https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html"
+    },
+    {
+      "sub": "Hardware und Chips",
+      "h": "Think-Tank: Neue US-Chipregeln treffen 45 Prozent der chinesischen KI-Rechenleistung",
+      "s": "Seit dem 19. November brauchen chinesische Firmen eine US-Lizenz, wenn sie große Rechenkapazität auf Basis fortschrittlicher US-Chips in Rechenzentren außerhalb der USA nutzen. Nach einer Schätzung des Institute for Progress sind davon rund 45 Prozent der chinesischen KI-Rechenleistung betroffen, die über Umgehungen im Ausland bezogen wurde. Nvidia hat derweil Server-Lieferungen nach Südostasien gestoppt.",
+      "l": "Die Schwelle der neuen Regel des US-Handelsministeriums liegt grob bei 750 Äquivalenten der Nvidia-H100; bestehende Anbieter haben 90 Tage Zeit, Lizenzen zu beantragen. Zusätzlich werden Lizenzen für Lieferungen nach Malaysia, Singapur, Indonesien, Thailand und Brasilien verlangt, qualifizierte US-Unternehmen sind ausgenommen.\n\nDie Schätzung des Institute for Progress unterscheidet zwei Wege der Umgehung: Fernzugriff auf Rechenzentren im Ausland (24 Prozent) und geschmuggelte Chips (22 Prozent). Singapore erklärte unterdessen, es stehe mit lokalen Firmen im Austausch, die von den Restriktionen betroffen sind.\n\nFür Nvidia ist die Entwicklung doppelt belastend: Umsätze in der Region stehen auf dem Spiel, zugleich wirkt der laufende Konflikt um Konzernchef Jensen Huang nach. Analysten rechnen mit weiteren Präzisierungen der Lizenzpraxis in den kommenden Wochen.",
+      "src": "AktienCheck",
+      "url": "https://aktiencheck.de/artikel/ki-chip-exportkontrollen-think-tank-sieht-45-von-chinas-rechenleistung-betroffen",
+      "t": "16:16"
+    },
+    {
+      "sub": "Linux und Open Source",
+      "h": "NFS2ROOT: Zwölf Jahre alte Kernel-Lücke gibt Angreifern Root-Rechte",
+      "s": "Im NFS-Server des Linux-Kernels klafft die kritische Lücke CVE-2026-99362 mit dem Namen NFS2ROOT und einem CVSS-Wert von 9,8. Angreifer können aus der Ferne ohne Authentifizierung und ohne Nutzerinteraktion volle Root-Rechte erlangen. Betroffen sind Systeme mit offenen TCP-Port 2049 und den Protokollversionen NFSv4.1 oder 4.2, etwa Dateiserver, NAS-Geräte und Kubernetes-Knoten.",
+      "l": "Der Fehler wurde im März 2014 mit Kernel-Version 3.16 eingeführt und blieb zwölf Jahre unentdeckt. Nach Angaben der Forscher erstellte eine KI selbstständig einen Exploit bis zur Kommandozeile. Entdeckt wurde die Lücke im August 2026 von Jérémy Jean der französischen Sicherheitsbehörde ANSSI, der frühzeitig einen Patch einreichte; unabhängig davon stieß das Sicherheitsunternehmen OpenSec auf den Fehler.\n\nPatches stehen seit dem 20. November bereit, sie fehlen aber teils noch in den Distributionen. Administratoren sollten den Kernel aktualisieren und das System neu starten.\n\nAls Übergangslösung empfiehlt sich, den TCP-Port 2049 in der Firewall zu blockieren oder die Protokollversionen NFSv4.1 und 4.2 vorübergehend abzuschalten. Das niederländische NCSC stuft die Missbrauchswahrscheinlichkeit als mittel, den möglichen Schaden als hoch ein.",
+      "src": "WinFuture",
+      "url": "https://winfuture.de/news,162976.html",
+      "t": "21:05"
+    },
+    {
+      "sub": "Software und Entwicklung",
+      "h": "Tesla-Update bringt manuelle Akku-Vorkonditionierung per App zurück",
+      "s": "Tesla verteilt das Software-Update 2026.44.3.1, mit dem sich die Batterie erstmals unabhängig von der Routenplanung manuell vorheizen lässt, und zwar per Smartphone-App ab Version 4.63.0. Der Rollout startet schrittweise und erreicht zunächst weniger als ein Prozent der Fahrzeugflotte.",
+      "l": "Bislang ließ sich die Batterieheizung vor einem Ladestopp nur über die automatische Routenplanung aktivieren. Künftig kann das Vorwärmen im Menü Charging über die Option Precondition for Fast Charging eingeschaltet werden, etwa eine Stunde vor dem geplanten Ladestopp. So erreichen die Zellen die optimale Temperatur zum Schnellladen und die Standzeit an der Schnellladesäule sinkt.\n\nNach Berichten von Mobiflip dient der frühe, kleine Rollout offenbar auch als Stabilitätstest vor der umfangreicheren Version 2026.44.25, die für die kommenden Wochen erwartet wird.\n\nNutzer benötigen ein aktuelles Fahrzeug-Update und die passende App-Version; wer die Funktion nicht sieht, sollte einige Wochen Geduld haben.",
+      "src": "WinFuture",
+      "url": "https://winfuture.de/news,162972.html",
+      "t": "19:05"
+    },
+    {
+      "sub": "Netzwerke und Internet",
+      "h": "EU will Rechenzentrumskapazität verdreifachen, Schutzregeln fehlen noch",
+      "s": "Die EU-Kommission strebt an, die Rechenzentrumskapazität für KI und Cloud innerhalb von fünf bis sieben Jahren zu verdreifachen, von rund 12,4 Gigawatt im Jahr 2025 auf etwa 37,2 Gigawatt. Der Entwurf des Cloud and AI Development Act sieht rund 200 Milliarden Euro Investitionen vor, die überwiegend privat kommen sollen. Verbindliche Standards zu Umweltbilanz und Arbeitsschutz stehen noch aus.",
+      "l": "Das geht aus einer Studie des Beratungsunternehmens Technopolis für die Kommission hervor. Um das Tempo zu erhöhen, soll jeder Mitgliedstaat Beschleunigungszonen einrichten, in denen Genehmigungsverfahren auf maximal zwölf Monate begrenzt werden; Bau und Netzanschluss sind davon nicht erfasst.\n\nProjekte, die zwei von fünf festgelegten Kriterien erfüllen, könnten als strategisch eingestuft werden. Als weitere Bausteine nennt der Entwurf lokale Stromerzeugung, Energiespeicher, flexible Lasten und die Nutzung von Abwärme.\n\nKritisch bleibt die Praxis bei den Netzanschlüssen: Sie dauern laut Studie teils sieben bis zehn Jahre und gelten als größter Flaschenhals. Die Mindeststandards für Umwelt und Arbeit werden derzeit noch konsultiert; über den Rechtsakt entscheiden Parlament und Rat.",
+      "src": "BornCity",
+      "url": "https://borncity.com/news/eu-rechenzentren-kapazitaet-soll-sich-verdreifachen-schutzregeln-fehlen/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "sub": "Physik",
+      "h": "Ein Blitz ist heißer als die Oberfläche der Sonne",
+      "s": "Im Blitzkanal werden Temperaturen von bis zu rund 30.000 Kelvin erreicht, etwa fünfmal so viel wie an der Oberfläche der Sonne, die rund 5.500 Grad Celsius heiß ist. Die plötzliche Erhitzung lässt die Luft explosionsartig expandieren; dieses Knallgeräusch ist der Donner."
+    },
+    {
+      "sub": "Natur",
+      "h": "Wombats hinterlassen würfelförmigen Kot",
+      "s": "Der Wombat ist das einzige Tier, dessen Kot Würfelform hat, etwa 80 bis 100 Stück pro Nacht. Im Darm entstehen Abschnitte mit unterschiedlich steifen Wänden, die die Form prägen. Die Würfel rollen nicht weg und eignen sich deshalb gut, um auf Steinen Revier zu markieren."
+    },
+    {
+      "sub": "Natur",
+      "h": "Haie sind älter als Bäume",
+      "s": "Haie gibt es seit rund 450 Millionen Jahren, die ersten Bäume erschienen vor etwa 385 Millionen Jahren. Haie überstanden damit mehrere Massenaussterben, darunter dasjenige, das den Dinosauriern das Ende bereitete. Ihre Grundbaupläne haben sich seitdem erstaunlich wenig verändert."
+    },
+    {
+      "sub": "Alltag",
+      "h": "Die Antarktis ist die größte Wüste der Erde",
+      "s": "Wüsten werden über Niederschlag definiert, nicht über Temperatur. Mit rund 14 Millionen Quadratkilometern und extrem geringen Niederschlägen ist die Antarktis die größte Wüste der Welt, deutlich größer als die Sahara. Im Landesinneren fallen teils weniger als 50 Millimeter Niederschlag pro Jahr."
+    }
+  ]
+}

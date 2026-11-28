@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "sub": "Raumfahrt und Natur",
+      "h": "Studie: Eine Million Satelliten könnten 28 Prozent des Teleskop-Bildfelds stören",
+      "s": "Modellrechnungen des ESO-Astronomen Olivier Hainaut zeigen, dass eine geplante Flotte von bis zu einer Million Rechenzentrums-Satelliten die optische Astronomie erheblich behindern könnte. Selbst lichtschwache Satelliten könnten unter ungünstigen Bedingungen bis zu 28 Prozent des Bildfelds bestimmter Teleskopkameras unbrauchbar machen. Die Studie erschien im Fachmagazin Astronomy and Astrophysics.",
+      "l": "Auslöser ist die Genehmigung der US-Aufsichtsbehörde FCC vom 25. November, die SpaceX unter Auflagen den Aufbau der Konstellation Starmind erlaubt hat. Ob die Flotte je vollständig startet, ist offen. Hainaut simulierte Positionen, Bewegungen und Helligkeiten bestehender und geplanter Satelliten und berechnete mit einem zusätzlichen Modell die Aufhellung des Nachthimmels durch Streulicht.\n\nBetreiber wie SpaceX haben die Helligkeit ihrer Satelliten zwar reduziert, bei einer Million Exemplaren reichen solche Maßnahmen laut den Simulationen aber nicht mehr aus. Besonders lange Belichtungszeiten litten unter den Störstreifen.\n\nAngesichts der weltweiten Folgen fordern Astronomen deshalb internationale Regeln für Großkonstellationen; eine empfohlene Obergrenze für optische Observatorien liegt nach früheren Rechnungen bei rund 100.000 lichtschwachen Satelliten.",
+      "src": "scinexx",
+      "url": "https://www.scinexx.de/news/kosmos/astronomen-fordern-internationale-regeln-fuer-satellitenstarts/",
+      "t": "07:32"
+    },
+    {
+      "sub": "Umwelt und Klima",
+      "h": "Erstmals eine ganze Woche weltweit mehr als zwei Grad über vorindustriellem Niveau",
+      "s": "Die weltweite Durchschnittstemperatur lag vom 18. bis 24. November an sieben Tagen in Folge mehr als zwei Grad über dem Niveau von 1850 bis 1900. Das teilte der EU-Klimawandeldienst Copernicus mit. Es ist das erste Mal, dass die Zwei-Grad-Marke eine ganze Woche lang überschritten wurde.",
+      "l": "Am 23. November lag die globale Temperatur 2,25 Grad über dem Vergleichswert, wie Copernicus mitteilte. Das ist ein neuer Höchstwert für die tägliche Abweichung und übertrifft den bisherigen Rekord vom 17. November 2023, als es 2,20 Grad waren. Zuvor hatte die Zwei-Grad-Schwelle an nur wenigen Einzeltagen überhaupt je überschritten werden können.\n\nSamantha Burgess, strategische Leiterin für Klima bei Copernicus, betonte, das sei nicht gleichbedeutend mit dem Überschreiten der langfristigen Zweigradschwelle des Pariser Abkommens, aber ein eindringlicher Vorgeschmack auf die künftige Entwicklung. Zu den aktuellen Höchstwerten trägt auch ein besonders starkes El Nino bei, das nach Angaben der Weltwetterorganisation so heftig ausfällt wie nie seit Beginn der Aufzeichnungen.\n\nBurgess rief zu einer schnellen Verringerung der Treibhausgasemissionen auf, da die zugrunde liegende Erwärmung weiter anhalte.",
+      "src": "science.ORF.at",
+      "url": "https://science.orf.at/stories/3238392/",
+      "t": "07:55"
+    },
+    {
+      "sub": "Umwelt und Klima",
+      "h": "Studie: In zwei Hitzejahren so wenig Süßwasser in Flüssen und Seen wie nie seit 1991",
+      "s": "In den Rekordhitzejahren 2023 und 2024 führten Flüsse und Seen weltweit so wenig Wasser wie in keinem Zweijahreszeitraum seit 1991. Das berichtet ein Forschungsteam um Yongqiang Zhang von der Chinesischen Akademie der Wissenschaften im Fachmagazin Science. Der globale Flussabfluss ging um rund 5,7 Prozent zurück, die oberirdische Wasserspeicherung um 9,5 Prozent.",
+      "l": "Das Team wertete Abflussmessungen aus 150 großen Flusseinzugsgebieten und Satellitendaten zu mehr als 1,2 Millionen Gewässern aus. Die Temperatur lag in dem Zweijahreszeitraum um mehr als 1,5 Grad über dem vorindustriellen Niveau. Zwischen 2007 und 2022 war das globale Wassersystem demnach vergleichsweise stabil, bevor es 2023 und 2024 abrupt gestört wurde.\n\nDie Niederschläge nahmen global zwar zu, aber vor allem über den Meeren, während sie an Land zurückgingen. Große Verluste gab es in Süd- und Nordamerika, im Mittelmeerraum, im Nahen Osten und in Zentralasien. Auf Südamerika entfielen rund 70 Prozent des weltweiten Rückgangs der Abflussmengen, begünstigt durch ein El Nino und eine starke Erwärmung des tropischen Nordatlantiks.\n\nDie Autoren warnen, dass extreme Erwärmung selbst in normalerweise feuchten Regionen zu abrupten Wasserverlusten führen kann.",
+      "src": "Tagesspiegel",
+      "url": "https://www.tagesspiegel.de/wissen/in-nur-zwei-hitzejahren-so-wenig-wasser-in-flussen-und-seen-wie-nie-seit-1991-16328934.html"
+    },
+    {
+      "sub": "Medizin und Gesundheit",
+      "h": "HPV-Impfung: Junge Frauen erkranken nur noch halb so oft an Gebärmutterhalskrebs",
+      "s": "Junge Frauen, die als Schülerinnen die HPV-Impfung als Kassenleistung erhalten konnten, erkranken deutlich seltener an Gebärmutterhalskrebs. Bis zum 31. Lebensjahr traten in den Geburtsjahrgängen 1992 bis 1994 25,4 Neuerkrankungen je 100.000 Frauen auf, in den ungeimpften Jahrgängen 1987 bis 1989 waren es 52,8. Das zeigt eine Langzeitauswertung der Arbeitsgemeinschaft Deutscher Tumorzentren und des AOK-Bundesverbands.",
+      "l": "Die Analyse aus Anlass des heutigen Tages der Krebsvorsorge beruht auf den Daten aller Krebsregister in Deutschland bis zum Datenjahr 2023 und umfasst auch einen Bundesland-Vergleich. Sie schreibt eine Auswertung vom Vorjahr fort, die Daten bis 2019 berücksichtigte, um vier Jahre.\n\nDemnach gehen die Kurven erst ab einem Lebensalter von etwa 23 Jahren auseinander, der Abstand wächst mit jedem Lebensjahr. Professorin Sylke Zeißig, Vorsitzende der Arbeitsgemeinschaft Deutscher Tumorzentren, erklärt das damit, dass Gebärmutterhalskrebs in relevantem Ausmaß erst später auftritt, sodass der Schutzeffekt der Impfung erst in diesen Altersgruppen sichtbar wird.\n\nDie HPV-Impfung wurde 2007 in die Schutzimpfungs-Richtlinie des Gemeinsamen Bundesausschusses aufgenommen und wird seither für Mädchen und junge Frauen von den gesetzlichen Krankenkassen bezahlt.",
+      "src": "AOK-Bundesverband",
+      "url": "https://www.presseportal.de/pm/8697/6399155",
+      "t": "11:00"
+    },
+    {
+      "sub": "Technik",
+      "h": "Forscher regenerieren alte Akkus: bis zu 95 Prozent der Leistung zurück",
+      "s": "Ein Forschungsteam der Cornell University hat ein Verfahren entwickelt, mit dem gebrauchte Batterien durch ein elektrochemisches Bad wieder bis zu 95 Prozent ihrer ursprünglichen Leistung erreichen sollen. Die Methode soll zudem rund 56 Prozent günstiger sein als herkömmliches Recycling. Die recycelten Akkus halten den Angaben zufolge sogar länger als neue.",
+      "l": "Bisherige Recyclingverfahren zerkleinern alte Batterien und extrahieren daraus die Rohstoffe wie Lithium, Nickel oder Kobalt. Das ist teuer und aufwendig. Das Team umgeht diesen Weg, indem es die Elektroden nicht zerstört, sondern in einer speziellen Lösung chemisch regeneriert.\n\nFür Europa und die USA, die Batterierohstoffe weitgehend importieren, hätte ein solches Kreislaufverfahren strategische Bedeutung. Ein hoher Anteil an zurückgewonnener Kapazität würde den Druck auf Rohstoffmärkte verringern und die Versorgungssicherheit erhöhen.\n\nDie Ergebnisse stammen aus einer Mitteilung der Universität; ob sich das Verfahren in großem Maßstab wirtschaftlich umsetzen lässt, ist noch offen.",
+      "src": "CHIP",
+      "url": "https://www.chip.de/news/forschung-wissen/wellness-fuer-alte-akkus-forscher-entwickeln-ungewoehnliches-recyclingverfahren_c4590575-52a1-4978-9844-e279c2c4ee30.html"
+    },
+    {
+      "sub": "Forschung und Entdeckungen",
+      "h": "Fünf Millionen Jahre alte Koralleninsel im Atlantik entdeckt",
+      "s": "Meeresbiologen des Schmidt Ocean Instituts haben im Romanchegraben zwischen Westafrika und Südamerika eine rund fünf Millionen Jahre alte Koralleninsel entdeckt, etwa 900 Meter unter der Meeresoberfläche. Sie ist so hoch wie der Eiffelturm. Der Fund bestätigt die alte Hypothese, dass es Korallenatolle mitten im Atlantik gab, wo heute keine mehr existieren.",
+      "l": "Der Romanchegraben liegt am Äquator und zählt zu den tiefsten Spalten des Atlantiks. Auf dem mehrere Millionen Jahre alten Atoll hat sich inzwischen ein artenreicher Tiefseekorallengarten entwickelt, einige der dort lebenden Korallen sind bereits tausende Jahre alt.\n\nDie Forscher untersuchten das Gebiet mit dem Forschungsschiff und Tauchrobotern; Aufnahmen dokumentieren das Naturschauspiel. Solche Überreste alter Atolle gelten als wichtige Archive: Sie verraten, wie sich Meeresspiegel, Temperatur und Meeresströmungen über Millionen Jahre verändert haben.\n\nDie Entdeckung wird nun gemeinsam mit Meeresgeologen weiter ausgewertet, unter anderem um zu klären, wie die Struktur so hoch wachsen konnte.",
+      "src": "t-online",
+      "url": "https://www.t-online.de/video/nachrichten/panorama/id_101549830/atlantik-forscher-finden-im-romanchegraben-millionen-jahre-alten-fund-.html",
+      "t": "14:26"
+    }
+  ]
+}
